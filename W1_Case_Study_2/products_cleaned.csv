@@ -1,0 +1,51 @@
+ProductID,ProductName,Category
+1000,Washing Machine,Home Appliances
+1001,Refrigerator,Home Appliances
+1002,Blender,Home Appliances
+1003,Microwave,Home Appliances
+1004,Vacuum Cleaner,Home Appliances
+1005,Sofa,Furniture
+1006,Table,Furniture
+1007,Chair,Furniture
+1008,Bed,Furniture
+1009,Cupboard,Furniture
+1010,Laptop,Electronics
+1011,Smartphone,Electronics
+1012,Headphones,Electronics
+1013,Tablet,Electronics
+1014,Camera,Electronics
+1015,Smartwatch,Electronics
+1016,Bluetooth Speaker,Electronics
+1017,TV,Electronics
+1018,Monitor,Electronics
+1019,Printer,Electronics
+1020,Keyboard,Electronics
+1021,Mouse,Electronics
+1022,Game Console,Electronics
+1023,Smart Home Device,Electronics
+1024,External Hard Drive,Electronics
+1025,Webcam,Electronics
+1026,Projector,Electronics
+1027,Drone,Electronics
+1028,VR Headset,Electronics
+1029,Smart Glasses,Electronics
+1030,Action Figure,Toys
+1031,Board Game,Toys
+1032,Doll,Toys
+1033,Puzzle,Toys
+1034,Lego Set,Toys
+1035,Toy Car,Toys
+1036,Building Blocks,Toys
+1037,Stuffed Animal,Toys
+1038,Play-Doh,Toys
+1039,Kite,Toys
+1040,RC Car,Toys
+1041,Toy Train,Toys
+1042,Magic Kit,Toys
+1043,Marbles,Toys
+1044,Barbie Doll,Toys
+1045,Toy Kitchen Set,Toys
+1046,Bicycle,Toys
+1047,Swing,Toys
+1048,Educational Game,Toys
+1049,Jigsaw Puzzle,Toys

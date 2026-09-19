@@ -1,0 +1,31 @@
+Vendor_Number,Vendor_Name,Country,Region,City,Postal_Code,Street_Address,Phone_Number,Email_Address,Language,Tax_Number,Payment_Terms
+1000001,Vendor A,US,NY,New York,10001,123 Park Avenue,-5551445,vendorA@email.com,EN,1234567890,30 Days
+1000002,Vendor B,DE,BW,Stuttgart,70173,Hauptstrasse 10,-5553007,vendorB@email.de,DE,2345678901,60 Days
+1000003,Vendor C,UK,ENG,London,EC1A 1BB,5 Oxford Street,-5559852,vendorC@email.co.uk,EN,3456789012,45 Days
+1000004,Vendor D,FR,IDF,Paris,75001,10 Rue de Rivoli,-5556511,vendorD@email.fr,FR,4567890123,30 Days
+1000005,Vendor E,IN,DL,New Delhi,110001,20 MG Road,-5554241,vendorE@email.in,HI,5678901234,90 Days
+1000006,Vendor F,JP,13,Tokyo,100-0001,"1-1 Chiyoda, Kanda",-5556711,vendorF@email.jp,JA,6789012345,30 Days
+1000007,Vendor G,US,CA,Los Angeles,90001,250 Sunset Blvd,-5554643,vendorG@email.com,EN,7890123456,60 Days
+1000008,Vendor H,CN,BJ,Beijing,100000,50 Wangfujing Ave,-5559912,vendorH@email.cn,ZH,8901234567,45 Days
+1000009,Vendor I,IT,LAZ,Rome,100,Via Nazionale 5,-5556756,vendorI@email.it,IT,9012345678,30 Days
+1000010,Vendor J,AU,NSW,Sydney,2000,75 George Street,-5556484,vendorJ@email.au,EN,1234321432,60 Days
+1000011,Vendor K,CA,ON,Toronto,M5A 1A1,1 King Street West,-5553871,vendorK@email.ca,EN,1238765432,45 Days
+1000012,Vendor L,ES,MAD,Madrid,28001,Calle Gran Via 25,-5557711,vendorL@email.es,ES,2345678901,60 Days
+1000013,Vendor M,NL,NH,Amsterdam,1012 AB,5 Dam Square,-5552334,vendorM@email.nl,NL,3456789012,30 Days
+1000014,Vendor N,SE,AB,Stockholm,111 22,7 Sveavagen,-5558727,vendorN@email.se,SV,4567890123,90 Days
+1000015,Vendor O,BE,VLG,Brussels,1000,Avenue Louise 50,-5554291,vendorO@email.be,FR,5678901234,45 Days
+1000016,Vendor P,AU,VIC,Melbourne,3000,30 Collins Street,-5556731,vendorP@email.au,EN,6789012345,60 Days
+1000017,Vendor Q,IN,MH,Mumbai,400001,Nariman Point 9,-5556720,vendorQ@email.in,HI,7890123456,30 Days
+1000018,Vendor R,ZA,GP,Johannesburg,2000,12 Sandton Drive,-5559860,vendorR@email.za,EN,8901234567,60 Days
+1000019,Vendor S,FR,PACA,Marseille,13001,4 Rue de la Republique,-5554292,vendorS@email.fr,FR,9012345678,90 Days
+1000020,Vendor T,IT,TOS,Florence,50100,Via del Duomo 15,-5556805,vendorT@email.it,IT,1234321432,30 Days
+1000021,Vendor U,BR,SP,São Paulo,01000-000,Rua da Consolação 100,-5558721,vendorU@email.br,PT,2345678901,60 Days
+1000022,Vendor V,SG,SG,Singapore,18968,30 Raffles Place,-65556724,vendorV@email.sg,EN,3456789012,45 Days
+1000023,Vendor W,AU,WA,Perth,6000,100 St Georges Terrace,-5554268,vendorW@email.au,EN,4567890123,90 Days
+1000024,Vendor X,US,CA,San Francisco,94105,123 Market Street,-5556957,vendorX@email.com,EN,5678901234,30 Days
+1000025,Vendor Y,IT,LAZ,Rome,123,Via della Croce 45,-5553423,vendorY@email.it,IT,6789012345,45 Days
+1000026,Vendor Z,IN,TN,Chennai,600001,50 Mount Road,-5554274,vendorZ@email.in,EN,7890123456,60 Days
+1000027,Vendor AA,US,TX,Dallas,75201,500 Elm Street,-5554534,vendorAA@email.com,EN,8901234567,30 Days
+1000028,Vendor AB,GB,ENG,Manchester,M1 1AE,100 Piccadilly,-5559993,vendorAB@email.co.uk,EN,9012345678,60 Days
+1000029,Vendor AC,JP,27,Osaka,530-0001,1-3-1 Umeda,-5556714,vendorAC@email.jp,JA,1234321432,45 Days
+1000030,Vendor AD,FR,ARA,Lyon,69001,2 Rue de la Republique,-5558736,vendorAD@email.fr,FR,2345678901,30 Days

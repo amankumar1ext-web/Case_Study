@@ -1,0 +1,31 @@
+Customer_ID,Customer_Name,Country,Region,City,Postal_Code,Street_Address,Phone_Number,Email_Address,Language,Tax_Number,Customer_Group,Sales_Organization,Distribution_Channel,Division
+CUST001,Customer A,US,NY,New York,10001,123 Park Avenue,1-212-5551234,customerA@email.com,EN,1234567890,1,1000,10,1
+CUST002,Customer B,DE,BW,Stuttgart,70173,Hauptstrasse 10,49-711-5552345,customerB@email.de,DE,2345678901,2,1000,20,2
+CUST003,Customer C,UK,ENG,London,EC1A 1BB,5 Oxford Street,44-20-5559876,customerC@email.co.uk,EN,3456789012,1,2000,10,3
+CUST004,Customer D,FR,IDF,Paris,75001,10 Rue de Rivoli,33-1-5556543,customerD@email.fr,FR,4567890123,3,2000,30,1
+CUST005,Customer E,IN,DL,New Delhi,110001,20 MG Road,91-11-5554321,customerE@email.in,HI,5678901234,4,3000,40,2
+CUST006,Customer F,JP,13,Tokyo,100-0001,"1-1 Chiyoda, Kanda",81-3-5556789,customerF@email.jp,JA,6789012345,1,4000,10,1
+CUST007,Customer G,US,CA,Los Angeles,90001,250 Sunset Blvd,1-323-5554321,customerG@email.com,EN,7890123456,2,1000,10,1
+CUST008,Customer H,CN,BJ,Beijing,100000,50 Wangfujing Ave,86-10-5559988,customerH@email.cn,ZH,8901234567,3,2000,20,2
+CUST009,Customer I,IT,LAZ,Rome,100,Via Nazionale 5,39-6-5556789,customerI@email.it,IT,9012345678,1,1000,10,3
+CUST010,Customer J,AU,NSW,Sydney,2000,75 George Street,61-2-5556543,customerJ@email.au,EN,1234321432,2,2000,30,1
+CUST011,Customer K,CA,ON,Toronto,M5A 1A1,1 King Street West,1-416-5553456,customerK@email.ca,EN,2345678901,4,1000,20,2
+CUST012,Customer L,ES,MAD,Madrid,28001,Calle Gran Via 25,34-91-5557654,customerL@email.es,ES,3456789012,1,2000,10,3
+CUST013,Customer M,NL,NH,Amsterdam,1012 AB,5 Dam Square,31-20-5552345,customerM@email.nl,NL,4567890123,2,3000,40,1
+CUST014,Customer N,SE,AB,Stockholm,111 22,7 Sveavagen,46-8-5558765,customerN@email.se,SV,5678901234,3,4000,30,2
+CUST015,Customer O,BE,VLG,Brussels,1000,Avenue Louise 50,32-2-5554321,customerO@email.be,FR,6789012345,4,1000,20,1
+CUST016,Customer P,AU,VIC,Melbourne,3000,30 Collins Street,61-3-5556789,customerP@email.au,EN,7890123456,1,2000,10,3
+CUST017,Customer Q,IN,MH,Mumbai,400001,Nariman Point 9,91-22-5556789,customerQ@email.in,EN,8901234567,2,1000,30,2
+CUST018,Customer R,ZA,GP,Johannesburg,2000,12 Sandton Drive,27-11-5559876,customerR@email.za,EN,9012345678,3,2000,40,1
+CUST019,Customer S,FR,PACA,Marseille,13001,4 Rue de la Republique,33-4-5554321,customerS@email.fr,FR,1234321432,4,3000,20,3
+CUST020,Customer T,IT,TOS,Florence,50100,Via del Duomo 15,39-55-5556789,customerT@email.it,IT,2345678901,1,1000,10,2
+CUST021,Customer U,US,TX,Dallas,75201,500 Elm Street,1-214-5556789,customerU@email.com,EN,3456789012,2,1000,20,3
+CUST022,Customer V,DE,HH,Hamburg,20095,Neuer Wall 3,49-40-5559876,customerV@email.de,DE,4567890123,1,2000,10,1
+CUST023,Customer W,CA,BC,Vancouver,V6B 1A1,123 Robson Street,1-604-5552345,customerW@email.ca,EN,5678901234,3,1000,40,2
+CUST024,Customer X,IT,LOM,Milan,20121,Via della Spiga 10,39-2-5556543,customerX@email.it,IT,6789012345,4,3000,10,3
+CUST025,Customer Y,GB,ENG,Manchester,M1 1AE,100 Piccadilly,44-161-5558765,customerY@email.co.uk,EN,7890123456,1,2000,20,2
+CUST026,Customer Z,AU,QLD,Brisbane,4000,55 Queen Street,61-7-5556789,customerZ@email.au,EN,8901234567,3,1000,30,1
+CUST027,Customer AA,SG,SG,Singapore,18968,30 Raffles Place,65-65556789,customerAA@email.sg,EN,9012345678,2,2000,10,2
+CUST028,Customer AB,FR,ARA,Lyon,69002,50 Rue de la République,33-4-5554321,customerAB@email.fr,FR,1234321432,4,3000,40,3
+CUST029,Customer AC,SE,AB,Gothenburg,411 03,15 Kungsportsavenyn,46-31-5554321,customerAC@email.se,SV,2345678901,1,1000,20,2
+CUST030,Customer AD,ES,MAD,Barcelona,8001,Carrer de Pau Claris,34-93-5556789,customerAD@email.es,ES,3456789012,3,2000,10,1

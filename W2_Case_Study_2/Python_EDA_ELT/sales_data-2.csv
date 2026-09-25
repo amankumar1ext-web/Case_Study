@@ -1,0 +1,2501 @@
+Transaction_ID,Date,Customer_ID,Product_Category,Product_Name,Quantity,Unit_Price,Total_Amount,Payment_Method
+f3daa723,2024-01-01 00:00:00,0583d6,Clothing,Sofa,4,412,1648,Credit Card
+9e5061b5,2024-01-01 01:00:00,4c0f1b,Home Decor,Novel,3,201,603,Cash
+a5da9276,2024-01-01 02:00:00,00b49a,Home Decor,T-Shirt,1,480,480,Credit Card
+b72e138c,2024-01-01 03:00:00,e093b6,Books,Laptop,2,16,32,Credit Card
+c6010e46,2024-01-01 04:00:00,7c817c,Home Decor,Laptop,4,342,1368,Debit Card
+5900ce5a,2024-01-01 05:00:00,aaeb81,Books,T-Shirt,2,292,584,Credit Card
+ae1911cf,2024-01-01 06:00:00,b1a4f4,Beauty,T-Shirt,3,52,156,Credit Card
+19900f1a,2024-01-01 07:00:00,4ddebc,Books,Laptop,3,123,369,Cash
+6bb7a05a,2024-01-01 08:00:00,8215fb,Clothing,Lipstick,1,180,180,Credit Card
+b2a82b7f,2024-01-01 09:00:00,deb177,Books,Lipstick,2,287,574,Debit Card
+c45eb978,2024-01-01 10:00:00,59fe4a,Clothing,Novel,2,197,394,Credit Card
+0076ef3c,2024-01-01 11:00:00,f59c2a,Electronics,T-Shirt,2,482,964,UPI
+6205c188,2024-01-01 12:00:00,f415cd,Beauty,Laptop,1,346,346,UPI
+6e773218,2024-01-01 13:00:00,0a16fe,Beauty,Novel,3,218,654,Cash
+933a61f0,2024-01-01 14:00:00,f59c2a,Books,T-Shirt,2,189,378,Cash
+75890618,2024-01-01 15:00:00,c5940a,Home Decor,Novel,2,196,392,UPI
+78d65353,2024-01-01 16:00:00,0ae342,Electronics,Laptop,4,426,1704,UPI
+90f561c3,2024-01-01 17:00:00,c984e3,Books,Laptop,3,220,660,Cash
+d828521a,2024-01-01 18:00:00,197942,Beauty,T-Shirt,1,270,270,UPI
+659a53a0,2024-01-01 19:00:00,e15d65,Beauty,T-Shirt,4,82,328,Cash
+04529cab,2024-01-01 20:00:00,2a6646,Clothing,Lipstick,1,458,458,UPI
+3ea17ba9,2024-01-01 21:00:00,96ff57,Clothing,Novel,1,138,138,Credit Card
+feb0d563,2024-01-01 22:00:00,38d9b9,Home Decor,Novel,2,74,148,Credit Card
+1492892c,2024-01-01 23:00:00,9a1148,Beauty,Sofa,2,286,572,UPI
+9f076e2d,2024-01-02 00:00:00,5d31de,Beauty,Novel,2,338,676,Cash
+6abe1d71,2024-01-02 01:00:00,780364,Electronics,Lipstick,3,77,231,Cash
+bc397061,2024-01-02 02:00:00,4700d8,Clothing,Novel,4,188,752,Cash
+a7bb4386,2024-01-02 03:00:00,cb2083,Clothing,Novel,4,99,396,Debit Card
+dd67e4c1,2024-01-02 04:00:00,d5fa58,Books,Sofa,1,337,337,Credit Card
+1c63202d,2024-01-02 05:00:00,7c9826,Electronics,Novel,2,482,964,Debit Card
+19f900bd,2024-01-02 06:00:00,a82434,Books,Lipstick,3,444,1332,Debit Card
+2e1699ad,2024-01-02 07:00:00,446290,Home Decor,Laptop,4,389,1556,Credit Card
+d4cebf27,2024-01-02 08:00:00,85ae39,Beauty,Lipstick,2,273,546,Debit Card
+77e331a9,2024-01-02 09:00:00,e0053e,Electronics,T-Shirt,3,251,753,Debit Card
+4fd96fe7,2024-01-02 10:00:00,7b91fc,Home Decor,Laptop,4,219,876,Cash
+96f60e16,2024-01-02 11:00:00,55721d,Books,Lipstick,2,211,422,Credit Card
+b916ec42,2024-01-02 12:00:00,5f7b2e,Beauty,T-Shirt,2,493,986,Cash
+7eae6f84,2024-01-02 13:00:00,e3dbd3,Books,Laptop,2,394,788,Cash
+10ac4675,2024-01-02 14:00:00,6d82aa,Electronics,Laptop,3,273,819,Cash
+b26c42b8,2024-01-02 15:00:00,c768fe,Beauty,Novel,4,30,120,UPI
+a2046203,2024-01-02 16:00:00,c768fe,Beauty,Sofa,2,335,670,UPI
+55a2605f,2024-01-02 17:00:00,54fab6,Home Decor,Novel,1,292,292,Credit Card
+9df483f8,2024-01-02 18:00:00,cef8e5,Clothing,Novel,2,14,28,Cash
+388cb79b,2024-01-02 19:00:00,ae70df,Clothing,Novel,1,57,57,Debit Card
+5f8df828,2024-01-02 20:00:00,83e133,Beauty,Sofa,1,408,408,Debit Card
+de561a83,2024-01-02 21:00:00,bfb7c7,Electronics,Sofa,1,307,307,Debit Card
+505dade2,2024-01-02 22:00:00,aaf3d9,Beauty,Novel,1,195,195,Credit Card
+a2aee816,2024-01-02 23:00:00,346072,Electronics,Novel,4,458,1832,UPI
+4ab11ada,2024-01-03 00:00:00,7f03a0,Electronics,Novel,3,120,360,Cash
+bad9b96f,2024-01-03 01:00:00,db7a6a,Clothing,Sofa,3,458,1374,Credit Card
+d60fda39,2024-01-03 02:00:00,e5c33e,Electronics,Novel,3,302,906,Cash
+b7dc1044,2024-01-03 03:00:00,e948d6,Clothing,Sofa,1,186,186,Credit Card
+24af83ad,2024-01-03 04:00:00,292f84,Home Decor,Novel,1,452,452,Credit Card
+599bf69d,2024-01-03 05:00:00,da21ea,Beauty,Laptop,1,56,56,Debit Card
+7e6ad6df,2024-01-03 06:00:00,83722d,Books,Laptop,1,16,16,Credit Card
+e18625cb,2024-01-03 07:00:00,206687,Home Decor,Novel,4,174,696,UPI
+d08a9ecd,2024-01-03 08:00:00,a3633d,Books,Sofa,4,202,808,Credit Card
+13fa7288,2024-01-03 09:00:00,02d9ab,Home Decor,Lipstick,1,63,63,Credit Card
+da43174f,2024-01-03 10:00:00,d9e3eb,Electronics,Lipstick,2,96,192,Credit Card
+972b88a2,2024-01-03 11:00:00,48d760,Beauty,Sofa,4,34,136,Cash
+ecbff613,2024-01-03 12:00:00,a96e72,Home Decor,Novel,4,185,740,Cash
+96a237c9,2024-01-03 13:00:00,5c69ae,Clothing,T-Shirt,1,366,366,Debit Card
+92a85262,2024-01-03 14:00:00,b9e5a6,Clothing,Lipstick,4,122,488,Debit Card
+ecbd95b1,2024-01-03 15:00:00,e69c2c,Electronics,Sofa,1,286,286,Cash
+48ca3b23,2024-01-03 16:00:00,5503aa,Home Decor,Sofa,2,224,448,Credit Card
+f979ef13,2024-01-03 17:00:00,fb048f,Books,Laptop,4,322,1288,Credit Card
+c6a8a08b,2024-01-03 18:00:00,6adf7d,Books,Laptop,2,104,208,Debit Card
+bf1c56e0,2024-01-03 19:00:00,60ea12,Electronics,Sofa,1,323,323,UPI
+57854643,2024-01-03 20:00:00,a40a26,Books,T-Shirt,3,196,588,Debit Card
+344ed16f,2024-01-03 21:00:00,15ba0d,Home Decor,Sofa,1,101,101,UPI
+5cb386ef,2024-01-03 22:00:00,c55e03,Beauty,Novel,1,478,478,Cash
+4925075d,2024-01-03 23:00:00,43f946,Clothing,Sofa,4,124,496,Cash
+daee8050,2024-01-04 00:00:00,c2c497,Clothing,T-Shirt,1,458,458,Cash
+833a4f82,2024-01-04 01:00:00,4f27cc,Home Decor,Lipstick,1,391,391,Cash
+549c18d6,2024-01-04 02:00:00,90bf99,Electronics,Novel,1,311,311,UPI
+74fcf894,2024-01-04 03:00:00,3f4a3e,Clothing,Lipstick,2,50,100,Debit Card
+0139dbc9,2024-01-04 04:00:00,11027e,Home Decor,Laptop,4,443,1772,Cash
+07a80ffd,2024-01-04 05:00:00,8c6e13,Beauty,Novel,4,346,1384,Credit Card
+a8dab266,2024-01-04 06:00:00,2abf6e,Home Decor,T-Shirt,4,486,1944,UPI
+be8a68b0,2024-01-04 07:00:00,9d3f4b,Clothing,Sofa,1,172,172,Cash
+ba254a85,2024-01-04 08:00:00,f415cd,Electronics,Novel,4,242,968,Debit Card
+4f40567a,2024-01-04 09:00:00,3230b4,Beauty,Lipstick,3,42,126,Debit Card
+c504a762,2024-01-04 10:00:00,cf0070,Clothing,Sofa,4,279,1116,Cash
+9b26c273,2024-01-04 11:00:00,780364,Books,T-Shirt,4,423,1692,Cash
+5ee12434,2024-01-04 12:00:00,ff2f04,Beauty,Laptop,2,384,768,UPI
+f0e8019c,2024-01-04 13:00:00,dd1d33,Beauty,Novel,3,309,927,Cash
+057d94ee,2024-01-04 14:00:00,4f27cc,Clothing,T-Shirt,4,333,1332,Credit Card
+d9d12227,2024-01-04 15:00:00,6bdb4a,Electronics,Lipstick,1,29,29,Credit Card
+0a1c373e,2024-01-04 16:00:00,65f7e4,Clothing,Lipstick,1,256,256,Debit Card
+9146de80,2024-01-04 17:00:00,3e520e,Home Decor,Novel,3,84,252,Credit Card
+ca5b3be2,2024-01-04 18:00:00,917c1b,Electronics,Laptop,3,200,600,Credit Card
+835cf300,2024-01-04 19:00:00,4a8434,Beauty,Sofa,3,428,1284,Cash
+96083f88,2024-01-04 20:00:00,ac505f,Electronics,Sofa,2,259,518,Credit Card
+5c4ddfaa,2024-01-04 21:00:00,9ddbe1,Electronics,Novel,2,83,166,UPI
+91a57fdc,2024-01-04 22:00:00,b6dfe6,Clothing,Novel,3,13,39,UPI
+f63db669,2024-01-04 23:00:00,c511a8,Books,Novel,1,299,299,Debit Card
+44a6d59c,2024-01-05 00:00:00,09aaef,Electronics,Sofa,1,262,262,Debit Card
+29b16d1d,2024-01-05 01:00:00,d7ba78,Home Decor,Laptop,4,331,1324,UPI
+25e5c96f,2024-01-05 02:00:00,d14e0c,Clothing,T-Shirt,2,147,294,Cash
+3cfad7a1,2024-01-05 03:00:00,a6f09a,Electronics,Laptop,4,429,1716,Credit Card
+a57e1c62,2024-01-05 04:00:00,a9b434,Home Decor,Sofa,3,277,831,Credit Card
+db1910f7,2024-01-05 05:00:00,64ed02,Beauty,Sofa,3,267,801,UPI
+2712b913,2024-01-05 06:00:00,37e5d4,Clothing,T-Shirt,3,216,648,Credit Card
+2c6f8293,2024-01-05 07:00:00,73fbf5,Home Decor,Novel,1,334,334,Credit Card
+7479609d,2024-01-05 08:00:00,9b70eb,Clothing,Lipstick,1,11,11,UPI
+6fb23fb5,2024-01-05 09:00:00,c511a8,Clothing,Sofa,4,227,908,Credit Card
+ffe1dbdf,2024-01-05 10:00:00,1e2aca,Books,T-Shirt,1,195,195,Debit Card
+411019d9,2024-01-05 11:00:00,7db8bc,Beauty,Lipstick,2,37,74,UPI
+e14fdb3b,2024-01-05 12:00:00,605ac5,Beauty,Sofa,2,435,870,Cash
+2a2e9a05,2024-01-05 13:00:00,a55c33,Books,T-Shirt,4,487,1948,Credit Card
+5f79c022,2024-01-05 14:00:00,a12651,Electronics,Novel,4,20,80,UPI
+620399e4,2024-01-05 15:00:00,d9e3eb,Clothing,Sofa,1,150,150,Credit Card
+e1d65489,2024-01-05 16:00:00,d7ba78,Books,Novel,1,429,429,Cash
+92fed56f,2024-01-05 17:00:00,3977f6,Home Decor,Laptop,2,113,226,Credit Card
+6bc4e7dc,2024-01-05 18:00:00,6f4024,Home Decor,Novel,3,293,879,Debit Card
+fc7f76e0,2024-01-05 19:00:00,0b9e10,Home Decor,Lipstick,2,189,378,UPI
+9c5759ef,2024-01-05 20:00:00,246cc6,Books,T-Shirt,1,401,401,UPI
+9a787180,2024-01-05 21:00:00,22f1a7,Home Decor,Novel,3,275,825,Cash
+af8d9200,2024-01-05 22:00:00,8215fb,Electronics,T-Shirt,1,276,276,Debit Card
+70915b22,2024-01-05 23:00:00,e2494b,Home Decor,Sofa,2,158,316,UPI
+f7b2251f,2024-01-06 00:00:00,2b8bd1,Clothing,Novel,3,358,1074,Cash
+acdb4bfd,2024-01-06 01:00:00,a769ab,Beauty,Novel,1,186,186,UPI
+43964c80,2024-01-06 02:00:00,83722d,Beauty,Laptop,1,348,348,UPI
+ed70ea83,2024-01-06 03:00:00,7fa91b,Books,Lipstick,4,34,136,Cash
+85a8e410,2024-01-06 04:00:00,d35b1d,Books,Lipstick,1,31,31,UPI
+0a82e4b6,2024-01-06 05:00:00,a3633d,Clothing,T-Shirt,2,118,236,Cash
+1c754762,2024-01-06 06:00:00,98fb8a,Beauty,Novel,1,188,188,Debit Card
+6968615e,2024-01-06 07:00:00,4a2f5b,Books,Novel,4,323,1292,UPI
+d9e620f9,2024-01-06 08:00:00,aaeb81,Home Decor,Laptop,4,326,1304,Cash
+d77bce0e,2024-01-06 09:00:00,169123,Beauty,T-Shirt,4,137,548,UPI
+e193e326,2024-01-06 10:00:00,e940d4,Clothing,Sofa,2,127,254,Debit Card
+9bb40ea6,2024-01-06 11:00:00,1ef710,Books,Sofa,4,73,292,Debit Card
+bac226df,2024-01-06 12:00:00,436ca6,Home Decor,Lipstick,2,436,872,Debit Card
+a659ae1e,2024-01-06 13:00:00,e3dbd3,Clothing,Novel,1,259,259,UPI
+81043d11,2024-01-06 14:00:00,1513de,Books,Novel,1,292,292,Credit Card
+04c1b060,2024-01-06 15:00:00,8e01c2,Electronics,T-Shirt,2,209,418,Debit Card
+49b5c2c1,2024-01-06 16:00:00,4f27cc,Electronics,T-Shirt,1,80,80,UPI
+c7e6e5a0,2024-01-06 17:00:00,ef87cb,Books,Novel,3,219,657,UPI
+74616828,2024-01-06 18:00:00,3fc53f,Beauty,Sofa,3,99,297,UPI
+b442e49f,2024-01-06 19:00:00,126ba9,Books,Sofa,3,147,441,UPI
+a5ca8d52,2024-01-06 20:00:00,6a9c9e,Home Decor,T-Shirt,2,105,210,UPI
+a11fe41f,2024-01-06 21:00:00,1f98e3,Clothing,T-Shirt,1,223,223,Credit Card
+ca1181cb,2024-01-06 22:00:00,5538a3,Beauty,Novel,4,63,252,UPI
+5eba2bfc,2024-01-06 23:00:00,959052,Home Decor,Sofa,2,377,754,UPI
+cadd5a74,2024-01-07 00:00:00,be0fb8,Beauty,T-Shirt,3,220,660,Credit Card
+0844d4fe,2024-01-07 01:00:00,a47bab,Home Decor,Sofa,4,155,620,Debit Card
+f0f914fe,2024-01-07 02:00:00,3e96e7,Home Decor,Laptop,3,248,744,UPI
+e8c8e88e,2024-01-07 03:00:00,13da0f,Books,Laptop,1,218,218,Cash
+1e457a1c,2024-01-07 04:00:00,96a538,Electronics,T-Shirt,3,180,540,UPI
+0bef1dff,2024-01-07 05:00:00,c80e99,Clothing,Lipstick,2,455,910,Debit Card
+23e3ae88,2024-01-07 06:00:00,c0b07d,Electronics,T-Shirt,4,37,148,UPI
+53ffe9e6,2024-01-07 07:00:00,9cfeab,Home Decor,T-Shirt,3,253,759,UPI
+a198eb37,2024-01-07 08:00:00,005f82,Clothing,Laptop,2,245,490,Credit Card
+54171a6e,2024-01-07 09:00:00,d16086,Home Decor,Laptop,1,251,251,Cash
+36ceff3f,2024-01-07 10:00:00,4e1657,Books,Laptop,2,21,42,Credit Card
+c84664a2,2024-01-07 11:00:00,fb048f,Books,Lipstick,1,175,175,Credit Card
+9bae37b5,2024-01-07 12:00:00,55721d,Books,Laptop,3,308,924,Debit Card
+b472e297,2024-01-07 13:00:00,7bc79f,Home Decor,Sofa,2,27,54,Credit Card
+6f95bfb8,2024-01-07 14:00:00,d1948e,Books,Sofa,2,348,696,Cash
+a0127721,2024-01-07 15:00:00,8e6541,Clothing,Laptop,4,21,84,Debit Card
+0e280a15,2024-01-07 16:00:00,b55e0e,Electronics,Sofa,1,352,352,UPI
+0557f477,2024-01-07 17:00:00,33d718,Books,Laptop,1,61,61,Debit Card
+db45e379,2024-01-07 18:00:00,656752,Books,Sofa,1,99,99,UPI
+1b6178f7,2024-01-07 19:00:00,0d766b,Beauty,Lipstick,4,144,576,UPI
+7e8b6976,2024-01-07 20:00:00,00ad60,Electronics,Novel,3,206,618,Credit Card
+be835375,2024-01-07 21:00:00,7d5842,Books,T-Shirt,1,19,19,Credit Card
+1dfe9982,2024-01-07 22:00:00,cb4ba5,Books,Laptop,2,74,148,Credit Card
+5b0b19b9,2024-01-07 23:00:00,aac587,Electronics,Laptop,3,27,81,Debit Card
+92b6bfdf,2024-01-08 00:00:00,9df3ae,Home Decor,Sofa,1,337,337,Debit Card
+a80013ee,2024-01-08 01:00:00,f96d13,Beauty,T-Shirt,3,369,1107,Debit Card
+6e81eb35,2024-01-08 02:00:00,dfcadc,Clothing,Laptop,3,256,768,UPI
+b5b9b791,2024-01-08 03:00:00,e7c862,Home Decor,Novel,2,157,314,Credit Card
+ac388cee,2024-01-08 04:00:00,656752,Beauty,T-Shirt,1,31,31,UPI
+9618298c,2024-01-08 05:00:00,7d5842,Home Decor,Laptop,2,91,182,Debit Card
+30b83de1,2024-01-08 06:00:00,b92b74,Electronics,Laptop,2,179,358,Debit Card
+cc83ca23,2024-01-08 07:00:00,57345f,Clothing,Lipstick,4,272,1088,Debit Card
+40ac328a,2024-01-08 08:00:00,3850d4,Home Decor,T-Shirt,4,489,1956,Cash
+fefa3c35,2024-01-08 09:00:00,f7ce1f,Books,Novel,2,429,858,Cash
+2830c8e0,2024-01-08 10:00:00,665ea1,Home Decor,Lipstick,3,302,906,Debit Card
+212cda61,2024-01-08 11:00:00,a3633d,Books,Lipstick,3,190,570,Credit Card
+9516e814,2024-01-08 12:00:00,55721d,Beauty,Novel,3,133,399,Cash
+d0c989e4,2024-01-08 13:00:00,2573ba,Beauty,Sofa,1,367,367,UPI
+88a8e90d,2024-01-08 14:00:00,bdcd45,Books,T-Shirt,3,148,444,UPI
+a12ba4f1,2024-01-08 15:00:00,b5b7da,Clothing,Laptop,3,441,1323,UPI
+5b9aad5a,2024-01-08 16:00:00,3f84b9,Clothing,Novel,2,457,914,Debit Card
+123d4bae,2024-01-08 17:00:00,f7dcee,Electronics,Novel,1,65,65,Debit Card
+c68592ae,2024-01-08 18:00:00,2403f1,Electronics,Lipstick,1,459,459,Cash
+f249ec00,2024-01-08 19:00:00,221e7a,Electronics,Lipstick,2,448,896,Debit Card
+0e879533,2024-01-08 20:00:00,2f2ae6,Books,Novel,4,223,892,Cash
+ba672ed9,2024-01-08 21:00:00,1b4acc,Beauty,Novel,3,246,738,Credit Card
+549a9da3,2024-01-08 22:00:00,4b117d,Books,Sofa,1,326,326,UPI
+3012342e,2024-01-08 23:00:00,2a6646,Electronics,Novel,1,293,293,Debit Card
+a5dd4003,2024-01-09 00:00:00,065958,Home Decor,T-Shirt,1,90,90,UPI
+b3150d7f,2024-01-09 01:00:00,dad6df,Beauty,Lipstick,2,259,518,UPI
+8b224a61,2024-01-09 02:00:00,4b3ab7,Electronics,Novel,1,75,75,Cash
+7a2a2122,2024-01-09 03:00:00,76c8fb,Beauty,Novel,3,278,834,UPI
+1f9bbb8a,2024-01-09 04:00:00,8ccac6,Home Decor,Sofa,2,142,284,UPI
+b7eb340b,2024-01-09 05:00:00,bb2360,Clothing,Lipstick,3,180,540,Credit Card
+d8d6b9e0,2024-01-09 06:00:00,acb4b3,Electronics,Novel,2,51,102,Credit Card
+26f987ed,2024-01-09 07:00:00,9aefbc,Clothing,Sofa,4,342,1368,UPI
+db72601e,2024-01-09 08:00:00,3e96e7,Home Decor,Laptop,1,160,160,Debit Card
+5edcfc48,2024-01-09 09:00:00,8b8062,Books,Sofa,2,479,958,Debit Card
+14f3d1c4,2024-01-09 10:00:00,5b109e,Electronics,T-Shirt,1,386,386,Credit Card
+c4752a81,2024-01-09 11:00:00,1d5e7c,Books,Novel,2,327,654,Cash
+0a057a22,2024-01-09 12:00:00,df5cf3,Home Decor,Sofa,4,53,212,UPI
+c70934fa,2024-01-09 13:00:00,09f096,Clothing,T-Shirt,4,499,1996,Cash
+57185f1c,2024-01-09 14:00:00,17e1d4,Books,Lipstick,2,24,48,Credit Card
+f9a5c38f,2024-01-09 15:00:00,74031c,Electronics,Novel,4,339,1356,Credit Card
+d21bee79,2024-01-09 16:00:00,4b5844,Clothing,Laptop,1,99,99,Credit Card
+e93790f0,2024-01-09 17:00:00,c0bbda,Clothing,Lipstick,1,389,389,UPI
+05cf77d6,2024-01-09 18:00:00,485e3b,Home Decor,Laptop,4,68,272,Debit Card
+43f06a07,2024-01-09 19:00:00,ecfd8e,Electronics,Laptop,1,64,64,Credit Card
+0ddc22a5,2024-01-09 20:00:00,6b4132,Electronics,T-Shirt,2,159,318,Cash
+3ccd9589,2024-01-09 21:00:00,148b08,Electronics,Laptop,4,497,1988,Cash
+6f08eb88,2024-01-09 22:00:00,fa17b4,Electronics,Novel,2,211,422,UPI
+a6787f98,2024-01-09 23:00:00,0d28a1,Books,Novel,3,128,384,Credit Card
+83ba9ff3,2024-01-10 00:00:00,a7ef21,Books,T-Shirt,3,396,1188,Cash
+58a81e1f,2024-01-10 01:00:00,8ad450,Electronics,Novel,1,197,197,Credit Card
+87f23dda,2024-01-10 02:00:00,8e01c2,Beauty,Sofa,3,114,342,UPI
+62c192e7,2024-01-10 03:00:00,6341df,Clothing,T-Shirt,2,43,86,Credit Card
+7a0f8bf1,2024-01-10 04:00:00,2c35b7,Electronics,Novel,1,347,347,UPI
+78105c62,2024-01-10 05:00:00,16f3bf,Books,Sofa,2,288,576,Debit Card
+ce1f738d,2024-01-10 06:00:00,9e05c6,Clothing,Laptop,1,212,212,UPI
+6460fd38,2024-01-10 07:00:00,d3b955,Books,T-Shirt,4,173,692,Cash
+82aa41b5,2024-01-10 08:00:00,9f2660,Electronics,Laptop,3,103,309,Cash
+0d80aca4,2024-01-10 09:00:00,fc25e7,Books,T-Shirt,1,344,344,Debit Card
+de3be522,2024-01-10 10:00:00,e15d65,Electronics,Sofa,4,196,784,Credit Card
+b2cc5157,2024-01-10 11:00:00,d94e1a,Beauty,T-Shirt,3,72,216,UPI
+fc6177db,2024-01-10 12:00:00,ae95e4,Books,Novel,2,458,916,Debit Card
+53a4a857,2024-01-10 13:00:00,613ae3,Electronics,T-Shirt,4,339,1356,UPI
+f5797025,2024-01-10 14:00:00,ef06ed,Home Decor,Novel,1,141,141,UPI
+c2d5e7b4,2024-01-10 15:00:00,a4ab91,Clothing,Laptop,4,81,324,Cash
+d3f769dd,2024-01-10 16:00:00,7e8063,Books,Novel,2,343,686,Cash
+c1f44dd1,2024-01-10 17:00:00,a77707,Books,Lipstick,2,475,950,UPI
+4da99d5b,2024-01-10 18:00:00,70c078,Beauty,Novel,2,336,672,Credit Card
+97511fed,2024-01-10 19:00:00,a658a4,Beauty,T-Shirt,3,418,1254,Debit Card
+1bbe14e9,2024-01-10 20:00:00,827a0b,Beauty,Sofa,3,362,1086,Cash
+282dfbcb,2024-01-10 21:00:00,6b6067,Electronics,Lipstick,4,398,1592,Cash
+91fe809d,2024-01-10 22:00:00,26b6c9,Beauty,T-Shirt,4,325,1300,Cash
+a3ff4b6d,2024-01-10 23:00:00,36a9a4,Home Decor,Novel,2,71,142,Debit Card
+d2e5540e,2024-01-11 00:00:00,b8e59b,Home Decor,Laptop,1,53,53,Cash
+f890ef85,2024-01-11 01:00:00,a453b1,Electronics,Sofa,3,342,1026,Credit Card
+ee4dec04,2024-01-11 02:00:00,7ee0ca,Clothing,Novel,1,241,241,UPI
+9fb7435f,2024-01-11 03:00:00,919c87,Beauty,Laptop,3,473,1419,Cash
+aa9d8661,2024-01-11 04:00:00,8588e6,Clothing,T-Shirt,3,172,516,Debit Card
+d065c835,2024-01-11 05:00:00,e948d6,Beauty,Sofa,3,220,660,Cash
+1990048a,2024-01-11 06:00:00,549a6d,Electronics,Sofa,3,377,1131,Cash
+04b8ec05,2024-01-11 07:00:00,bd36a2,Books,Lipstick,2,320,640,Credit Card
+47d84083,2024-01-11 08:00:00,9a1148,Clothing,T-Shirt,1,302,302,UPI
+108f8092,2024-01-11 09:00:00,1c6a85,Beauty,Laptop,1,429,429,Cash
+b4aa5bc3,2024-01-11 10:00:00,9fdf14,Clothing,Laptop,1,314,314,Cash
+bcb6098d,2024-01-11 11:00:00,197942,Home Decor,Novel,4,362,1448,Debit Card
+09110a2a,2024-01-11 12:00:00,ef06ed,Electronics,Novel,2,250,500,Debit Card
+a3f65693,2024-01-11 13:00:00,9b08b4,Clothing,Laptop,3,146,438,UPI
+40e5c845,2024-01-11 14:00:00,c80b50,Electronics,Laptop,2,153,306,Debit Card
+ca61bb81,2024-01-11 15:00:00,ef93a4,Electronics,Laptop,4,332,1328,Debit Card
+eeb999f0,2024-01-11 16:00:00,ad14a2,Electronics,Laptop,2,304,608,UPI
+bc781a1e,2024-01-11 17:00:00,e361fc,Beauty,Laptop,4,231,924,Credit Card
+53e27e53,2024-01-11 18:00:00,8e01c2,Books,Laptop,3,131,393,Cash
+fc32a9de,2024-01-11 19:00:00,1e2aca,Books,T-Shirt,4,435,1740,UPI
+34fc3b2c,2024-01-11 20:00:00,8c6e13,Books,Novel,3,329,987,UPI
+bcb87576,2024-01-11 21:00:00,0f4e60,Beauty,Laptop,1,127,127,UPI
+bd45e303,2024-01-11 22:00:00,9b08b4,Electronics,Laptop,4,235,940,Debit Card
+f87924c1,2024-01-11 23:00:00,f70d91,Beauty,Lipstick,4,106,424,Cash
+a046572b,2024-01-12 00:00:00,eb354d,Clothing,Laptop,4,434,1736,UPI
+4f4ce99e,2024-01-12 01:00:00,d9a24a,Electronics,Novel,2,16,32,Cash
+0764b25a,2024-01-12 02:00:00,e15a0f,Clothing,Novel,2,317,634,Debit Card
+d303868b,2024-01-12 03:00:00,bb2360,Books,Lipstick,3,187,561,Cash
+d1b20e3b,2024-01-12 04:00:00,e0cc69,Electronics,Novel,2,90,180,UPI
+d68943b4,2024-01-12 05:00:00,d7ba78,Beauty,T-Shirt,3,116,348,UPI
+84b9b6d3,2024-01-12 06:00:00,96c37e,Clothing,Laptop,2,380,760,Credit Card
+b2bb922b,2024-01-12 07:00:00,642d5e,Home Decor,Laptop,3,348,1044,Credit Card
+c28731f4,2024-01-12 08:00:00,060b58,Electronics,Lipstick,4,295,1180,Debit Card
+1b26c8c8,2024-01-12 09:00:00,63dc2a,Home Decor,Sofa,1,310,310,Cash
+30bd6aa2,2024-01-12 10:00:00,549a6d,Beauty,T-Shirt,3,331,993,Cash
+78071941,2024-01-12 11:00:00,ed43c8,Books,Laptop,1,103,103,Credit Card
+42e2d5f6,2024-01-12 12:00:00,d36e00,Electronics,Novel,4,269,1076,Credit Card
+ca8be1ba,2024-01-12 13:00:00,064624,Clothing,Sofa,3,299,897,Debit Card
+f7bc2a07,2024-01-12 14:00:00,f3a502,Books,Lipstick,1,240,240,Cash
+42f1bf13,2024-01-12 15:00:00,a87c8d,Home Decor,T-Shirt,2,484,968,UPI
+ec3f77dc,2024-01-12 16:00:00,a96e72,Electronics,Sofa,1,287,287,Cash
+54110cdd,2024-01-12 17:00:00,3b936d,Electronics,Novel,1,331,331,Debit Card
+b127dbfd,2024-01-12 18:00:00,f3a502,Clothing,Laptop,2,417,834,Cash
+be3ad122,2024-01-12 19:00:00,e15777,Beauty,Sofa,4,418,1672,Debit Card
+094807c6,2024-01-12 20:00:00,525387,Electronics,Novel,4,61,244,Credit Card
+86d38e01,2024-01-12 21:00:00,68cd22,Electronics,Novel,4,232,928,Cash
+68953bc4,2024-01-12 22:00:00,647657,Electronics,Novel,3,168,504,Credit Card
+60fb4070,2024-01-12 23:00:00,3f8cb1,Clothing,Laptop,1,318,318,UPI
+a7faabd9,2024-01-13 00:00:00,e15777,Home Decor,Laptop,1,76,76,UPI
+010ca50b,2024-01-13 01:00:00,7fb211,Home Decor,Lipstick,4,486,1944,Credit Card
+a4e4455b,2024-01-13 02:00:00,2c0f09,Clothing,Sofa,1,415,415,Cash
+96ef94f2,2024-01-13 03:00:00,064a47,Electronics,T-Shirt,3,212,636,Credit Card
+246193b6,2024-01-13 04:00:00,292f84,Clothing,T-Shirt,2,110,220,UPI
+48f75445,2024-01-13 05:00:00,85ae39,Books,Sofa,2,29,58,Debit Card
+4976519c,2024-01-13 06:00:00,3418ea,Electronics,Novel,2,44,88,Cash
+88c9e96f,2024-01-13 07:00:00,6c8b9f,Electronics,Sofa,1,65,65,Cash
+0731fdc4,2024-01-13 08:00:00,d7ba78,Clothing,Laptop,2,113,226,Cash
+597e227a,2024-01-13 09:00:00,0a694c,Electronics,Laptop,2,398,796,Credit Card
+63eb23a2,2024-01-13 10:00:00,f7dcee,Electronics,Novel,2,491,982,Debit Card
+0633c9da,2024-01-13 11:00:00,e26ec3,Beauty,Sofa,1,335,335,Debit Card
+19378479,2024-01-13 12:00:00,fa5b82,Electronics,Novel,3,293,879,UPI
+fa264e1b,2024-01-13 13:00:00,8b9634,Books,T-Shirt,1,268,268,Debit Card
+183156fd,2024-01-13 14:00:00,5538a3,Electronics,Laptop,1,128,128,Credit Card
+29d2ee05,2024-01-13 15:00:00,9179cd,Beauty,Lipstick,4,389,1556,Debit Card
+6326df06,2024-01-13 16:00:00,baac2b,Home Decor,T-Shirt,1,472,472,Credit Card
+4f299c01,2024-01-13 17:00:00,525387,Books,Lipstick,4,445,1780,Credit Card
+de3ba4f7,2024-01-13 18:00:00,ef5a17,Beauty,Sofa,2,393,786,Cash
+d65ab4ca,2024-01-13 19:00:00,62a73d,Home Decor,Sofa,1,206,206,Cash
+4d8d3faa,2024-01-13 20:00:00,c47aa1,Beauty,Sofa,4,184,736,UPI
+bdeac5df,2024-01-13 21:00:00,4557e1,Books,Sofa,1,91,91,UPI
+47c0bf92,2024-01-13 22:00:00,35c723,Home Decor,Lipstick,4,16,64,UPI
+8ebf83c4,2024-01-13 23:00:00,a12651,Books,T-Shirt,1,455,455,Credit Card
+92d8c3ae,2024-01-14 00:00:00,8d7928,Home Decor,Sofa,1,358,358,Credit Card
+ccbb13cb,2024-01-14 01:00:00,f4a7dd,Books,Lipstick,4,351,1404,Cash
+d8713196,2024-01-14 02:00:00,ad8167,Books,Novel,3,264,792,UPI
+f13c6342,2024-01-14 03:00:00,381cc6,Home Decor,T-Shirt,2,421,842,UPI
+ebfa171b,2024-01-14 04:00:00,d8f0a4,Home Decor,Laptop,4,210,840,Cash
+191c96e6,2024-01-14 05:00:00,6776ac,Electronics,Novel,3,311,933,Credit Card
+561e9a21,2024-01-14 06:00:00,13e8e2,Clothing,Lipstick,3,12,36,Cash
+49ab73d2,2024-01-14 07:00:00,0bbe51,Books,Novel,3,66,198,UPI
+210e48ef,2024-01-14 08:00:00,8c376f,Electronics,Sofa,3,229,687,Debit Card
+ae0cb5e3,2024-01-14 09:00:00,bffec4,Clothing,T-Shirt,2,225,450,Credit Card
+f5730f67,2024-01-14 10:00:00,56b912,Clothing,Novel,3,335,1005,Cash
+81878b0a,2024-01-14 11:00:00,08a16f,Home Decor,Novel,4,104,416,Cash
+5fd78518,2024-01-14 12:00:00,d2272f,Electronics,Novel,1,45,45,Credit Card
+08dd4529,2024-01-14 13:00:00,7b91fc,Home Decor,T-Shirt,3,421,1263,Cash
+87c41008,2024-01-14 14:00:00,54d483,Clothing,Lipstick,3,146,438,Cash
+42e8378a,2024-01-14 15:00:00,d70515,Electronics,Laptop,3,248,744,Credit Card
+178fc9eb,2024-01-14 16:00:00,3301f1,Clothing,Lipstick,2,446,892,Credit Card
+f34ed2b0,2024-01-14 17:00:00,6a9c9e,Beauty,Lipstick,1,339,339,Cash
+20fef5ec,2024-01-14 18:00:00,5652da,Books,T-Shirt,1,273,273,Cash
+cd5971ba,2024-01-14 19:00:00,de5c05,Clothing,Sofa,3,257,771,Cash
+38b80659,2024-01-14 20:00:00,26b6c9,Clothing,Sofa,3,372,1116,Cash
+988337f3,2024-01-14 21:00:00,c2c497,Electronics,Novel,1,445,445,Debit Card
+4cbbd208,2024-01-14 22:00:00,1beced,Home Decor,T-Shirt,1,181,181,UPI
+5d4d8434,2024-01-14 23:00:00,b1a4f4,Clothing,Laptop,4,118,472,Debit Card
+064d3ba5,2024-01-15 00:00:00,abc772,Home Decor,Novel,1,233,233,Credit Card
+dc8951e0,2024-01-15 01:00:00,15ba0d,Clothing,T-Shirt,3,383,1149,Cash
+a49f9559,2024-01-15 02:00:00,c80b50,Electronics,Laptop,1,438,438,Debit Card
+a6dd3d88,2024-01-15 03:00:00,3cc777,Electronics,Laptop,2,278,556,Debit Card
+9432e6b5,2024-01-15 04:00:00,1cd0c0,Books,T-Shirt,4,372,1488,Cash
+ca269aa1,2024-01-15 05:00:00,43f946,Home Decor,T-Shirt,1,348,348,Credit Card
+0cdaf24c,2024-01-15 06:00:00,3fc53f,Clothing,Lipstick,1,376,376,UPI
+c4b553a6,2024-01-15 07:00:00,c5dfd5,Home Decor,T-Shirt,1,266,266,Cash
+26a70aaa,2024-01-15 08:00:00,e2494b,Books,Lipstick,4,311,1244,Debit Card
+a55539dd,2024-01-15 09:00:00,df0824,Books,Lipstick,3,244,732,Debit Card
+edd6b8fb,2024-01-15 10:00:00,63dc2a,Beauty,T-Shirt,4,124,496,UPI
+5db1d291,2024-01-15 11:00:00,3850d4,Home Decor,Laptop,2,391,782,Debit Card
+e723f390,2024-01-15 12:00:00,d2742a,Electronics,T-Shirt,2,152,304,Debit Card
+24f06559,2024-01-15 13:00:00,d5f2e3,Home Decor,T-Shirt,4,131,524,Debit Card
+98239701,2024-01-15 14:00:00,d94e1a,Home Decor,T-Shirt,4,321,1284,UPI
+0a38534c,2024-01-15 15:00:00,e69c2c,Books,Laptop,2,59,118,UPI
+a56e3314,2024-01-15 16:00:00,79562f,Home Decor,T-Shirt,1,47,47,Cash
+d54851a9,2024-01-15 17:00:00,7e3148,Home Decor,Novel,2,41,82,Cash
+61c52195,2024-01-15 18:00:00,039139,Clothing,T-Shirt,4,434,1736,Debit Card
+a0bc12c3,2024-01-15 19:00:00,585151,Beauty,Laptop,4,439,1756,Cash
+46895ed7,2024-01-15 20:00:00,4cb6b2,Home Decor,T-Shirt,1,155,155,Debit Card
+c1aedace,2024-01-15 21:00:00,094a5a,Home Decor,T-Shirt,1,106,106,Credit Card
+525e614f,2024-01-15 22:00:00,3f84b9,Books,T-Shirt,4,435,1740,Credit Card
+b0ed93f3,2024-01-15 23:00:00,d26049,Clothing,Laptop,1,395,395,Credit Card
+a1756fd0,2024-01-16 00:00:00,34d625,Home Decor,T-Shirt,1,158,158,Cash
+3dbd47f3,2024-01-16 01:00:00,9d1b18,Books,Sofa,1,467,467,Debit Card
+6cd15590,2024-01-16 02:00:00,90bf99,Clothing,Laptop,1,89,89,Credit Card
+0cc6698d,2024-01-16 03:00:00,68bb34,Books,T-Shirt,2,242,484,Cash
+31647b5b,2024-01-16 04:00:00,bfadaf,Beauty,Lipstick,3,50,150,Cash
+84a5a41d,2024-01-16 05:00:00,4b51ec,Home Decor,Laptop,4,380,1520,UPI
+3b5bd009,2024-01-16 06:00:00,1d15a4,Beauty,Sofa,1,122,122,Debit Card
+3e792ce1,2024-01-16 07:00:00,58d0d4,Beauty,Laptop,1,305,305,Debit Card
+d4e695fe,2024-01-16 08:00:00,ae95e4,Clothing,Sofa,4,343,1372,Cash
+ba2bc1af,2024-01-16 09:00:00,6ca609,Beauty,Sofa,3,322,966,Cash
+500011c9,2024-01-16 10:00:00,73fbf5,Beauty,Sofa,1,472,472,Debit Card
+a50369d7,2024-01-16 11:00:00,7c817c,Home Decor,Laptop,4,399,1596,UPI
+6ac43571,2024-01-16 12:00:00,3521bd,Home Decor,Laptop,1,86,86,UPI
+1c33940d,2024-01-16 13:00:00,a55c33,Home Decor,T-Shirt,2,17,34,UPI
+5c91eb06,2024-01-16 14:00:00,f93065,Electronics,Laptop,3,15,45,Credit Card
+60fab323,2024-01-16 15:00:00,720ce3,Books,Laptop,4,152,608,Debit Card
+aa79a5fa,2024-01-16 16:00:00,79e648,Beauty,Novel,1,357,357,UPI
+63ede3d6,2024-01-16 17:00:00,d60a81,Electronics,Laptop,4,293,1172,UPI
+2de66200,2024-01-16 18:00:00,39e917,Beauty,Novel,4,92,368,Cash
+80d4417e,2024-01-16 19:00:00,b70880,Beauty,Sofa,4,133,532,Credit Card
+700eb991,2024-01-16 20:00:00,446290,Clothing,Novel,1,133,133,Cash
+15879d6d,2024-01-16 21:00:00,894646,Home Decor,Sofa,2,57,114,UPI
+b823ea3d,2024-01-16 22:00:00,87b250,Beauty,Laptop,4,279,1116,UPI
+430bd547,2024-01-16 23:00:00,531de4,Home Decor,Laptop,2,406,812,Debit Card
+2a699be9,2024-01-17 00:00:00,667c1a,Electronics,Laptop,1,499,499,UPI
+13641c3c,2024-01-17 01:00:00,60ac75,Electronics,Laptop,4,301,1204,Cash
+1dfb316c,2024-01-17 02:00:00,96c37e,Clothing,Lipstick,2,173,346,Cash
+a0b1c38e,2024-01-17 03:00:00,16f3bf,Books,Sofa,4,153,612,Debit Card
+a46d3119,2024-01-17 04:00:00,21bb3c,Home Decor,T-Shirt,1,441,441,Cash
+d05bc33a,2024-01-17 05:00:00,0d28a1,Beauty,Laptop,1,257,257,Credit Card
+37bdd229,2024-01-17 06:00:00,ad8167,Electronics,Novel,1,380,380,Credit Card
+98fdaceb,2024-01-17 07:00:00,d2742a,Electronics,Lipstick,3,185,555,Credit Card
+4bf325f9,2024-01-17 08:00:00,0a694c,Home Decor,Laptop,2,113,226,Credit Card
+0d47d05b,2024-01-17 09:00:00,d129cd,Home Decor,Sofa,3,37,111,UPI
+722bf878,2024-01-17 10:00:00,d8c1d4,Beauty,Novel,1,395,395,Debit Card
+6938dfb8,2024-01-17 11:00:00,1af473,Beauty,T-Shirt,2,168,336,Credit Card
+05e52f74,2024-01-17 12:00:00,2aecc3,Books,Novel,1,117,117,Credit Card
+c6a59d81,2024-01-17 13:00:00,59035c,Clothing,Lipstick,4,201,804,Debit Card
+626d2400,2024-01-17 14:00:00,98fb8a,Home Decor,T-Shirt,2,452,904,Credit Card
+b6b62028,2024-01-17 15:00:00,14d85a,Electronics,Novel,4,327,1308,Debit Card
+88bcd790,2024-01-17 16:00:00,184306,Home Decor,Lipstick,4,445,1780,Credit Card
+e43d7488,2024-01-17 17:00:00,d8b630,Books,Lipstick,1,319,319,Debit Card
+6fb275ad,2024-01-17 18:00:00,232afc,Books,Laptop,2,436,872,Cash
+b192ac52,2024-01-17 19:00:00,43f946,Electronics,Novel,3,58,174,Debit Card
+25d8f8b5,2024-01-17 20:00:00,a93bd0,Books,Novel,4,191,764,Debit Card
+e3dbffa3,2024-01-17 21:00:00,cedc4d,Beauty,Sofa,4,363,1452,Cash
+cbe96509,2024-01-17 22:00:00,79562f,Electronics,Sofa,4,242,968,Credit Card
+bbb8de3a,2024-01-17 23:00:00,dccb9e,Clothing,Lipstick,3,425,1275,Cash
+709e2b4e,2024-01-18 00:00:00,22f1a7,Beauty,Sofa,2,493,986,Cash
+9359ae16,2024-01-18 01:00:00,c516b1,Books,Lipstick,4,131,524,Credit Card
+2c1d4d38,2024-01-18 02:00:00,e30430,Home Decor,Laptop,4,221,884,Debit Card
+dbc3af17,2024-01-18 03:00:00,9df3ae,Books,Novel,1,50,50,UPI
+85667e47,2024-01-18 04:00:00,9b8cee,Electronics,Laptop,3,498,1494,UPI
+4b2856da,2024-01-18 05:00:00,72b94a,Electronics,T-Shirt,3,49,147,Cash
+a855922f,2024-01-18 06:00:00,f53fbf,Clothing,Lipstick,1,88,88,Cash
+83e0c0a8,2024-01-18 07:00:00,9353e8,Books,Laptop,2,403,806,UPI
+b09abd14,2024-01-18 08:00:00,1e8504,Clothing,Sofa,4,331,1324,Debit Card
+fc1a8385,2024-01-18 09:00:00,7f8f6e,Books,T-Shirt,1,361,361,Debit Card
+45ae2ef4,2024-01-18 10:00:00,ee92a5,Beauty,Novel,4,498,1992,Debit Card
+7fb5b6f4,2024-01-18 11:00:00,90a26b,Home Decor,Sofa,1,98,98,Credit Card
+7dbd39a6,2024-01-18 12:00:00,9ea783,Clothing,Lipstick,2,36,72,UPI
+9be3e9cf,2024-01-18 13:00:00,381cc6,Clothing,Sofa,1,172,172,Cash
+1683cf5a,2024-01-18 14:00:00,8761d7,Beauty,Sofa,3,459,1377,Debit Card
+6a00e2b1,2024-01-18 15:00:00,d5fa58,Electronics,Lipstick,1,412,412,UPI
+9e78f00b,2024-01-18 16:00:00,1af473,Beauty,T-Shirt,1,214,214,Credit Card
+f5d2a735,2024-01-18 17:00:00,006294,Beauty,Laptop,2,253,506,Debit Card
+4e8fb754,2024-01-18 18:00:00,6f4024,Electronics,T-Shirt,2,295,590,Cash
+622942b5,2024-01-18 19:00:00,cf4974,Books,Laptop,3,304,912,UPI
+12ea883b,2024-01-18 20:00:00,6730ff,Electronics,Novel,3,250,750,Credit Card
+39552bdc,2024-01-18 21:00:00,48d760,Books,Laptop,2,88,176,Cash
+fcfdb001,2024-01-18 22:00:00,e0cc69,Books,T-Shirt,1,169,169,UPI
+f6b9a8a1,2024-01-18 23:00:00,2797c4,Clothing,Sofa,2,103,206,UPI
+a89b5166,2024-01-19 00:00:00,64ed02,Electronics,Lipstick,1,251,251,UPI
+6658670c,2024-01-19 01:00:00,e0cc69,Home Decor,Laptop,3,75,225,Debit Card
+94d21714,2024-01-19 02:00:00,11027e,Electronics,Laptop,4,371,1484,Cash
+147ed306,2024-01-19 03:00:00,16f3bf,Home Decor,Lipstick,2,390,780,Credit Card
+8b30d873,2024-01-19 04:00:00,0f572d,Home Decor,T-Shirt,2,197,394,Credit Card
+1c4b74ff,2024-01-19 05:00:00,d28ef1,Beauty,T-Shirt,2,103,206,Debit Card
+66120c86,2024-01-19 06:00:00,7c817c,Home Decor,Sofa,3,350,1050,Cash
+4eff5156,2024-01-19 07:00:00,a9a2b0,Home Decor,Laptop,2,281,562,Credit Card
+a20b26f2,2024-01-19 08:00:00,2573ba,Electronics,T-Shirt,2,398,796,Cash
+a1e2cf79,2024-01-19 09:00:00,3e520e,Home Decor,Sofa,2,73,146,Credit Card
+13e72ce8,2024-01-19 10:00:00,ea5046,Electronics,T-Shirt,1,329,329,Credit Card
+673d0287,2024-01-19 11:00:00,be2366,Electronics,Laptop,4,339,1356,Credit Card
+2dfeae40,2024-01-19 12:00:00,4b908c,Beauty,Novel,4,336,1344,Credit Card
+6b5470ed,2024-01-19 13:00:00,531de4,Books,Lipstick,3,466,1398,Credit Card
+208115bc,2024-01-19 14:00:00,73d905,Clothing,Laptop,1,99,99,UPI
+3921f0f3,2024-01-19 15:00:00,9f5492,Beauty,Lipstick,1,285,285,Cash
+5d52b917,2024-01-19 16:00:00,19ec52,Clothing,T-Shirt,3,428,1284,Credit Card
+8275465e,2024-01-19 17:00:00,a93f50,Clothing,Laptop,4,46,184,Debit Card
+d0db388e,2024-01-19 18:00:00,2d6227,Beauty,Sofa,2,450,900,UPI
+f0934d82,2024-01-19 19:00:00,a769ab,Beauty,Novel,2,212,424,Credit Card
+72052cde,2024-01-19 20:00:00,229428,Clothing,Lipstick,4,310,1240,Debit Card
+0cbe077d,2024-01-19 21:00:00,7ed96a,Electronics,Lipstick,4,372,1488,Cash
+7478e83e,2024-01-19 22:00:00,9758c0,Clothing,Lipstick,2,457,914,UPI
+72b8f20d,2024-01-19 23:00:00,79e648,Books,Laptop,4,67,268,Debit Card
+52537a8a,2024-01-20 00:00:00,946502,Clothing,Laptop,1,60,60,Cash
+34c00636,2024-01-20 01:00:00,9e382d,Books,Lipstick,2,460,920,Debit Card
+e0d9b969,2024-01-20 02:00:00,7fb211,Beauty,Novel,3,236,708,UPI
+2fddf568,2024-01-20 03:00:00,e0cc69,Clothing,Lipstick,3,257,771,Debit Card
+85d5aba6,2024-01-20 04:00:00,4b5844,Clothing,Laptop,2,291,582,Cash
+4e72e28e,2024-01-20 05:00:00,fea76e,Home Decor,Lipstick,1,443,443,Debit Card
+7b345833,2024-01-20 06:00:00,c5940a,Beauty,T-Shirt,4,388,1552,UPI
+ef2fb0e1,2024-01-20 07:00:00,08728b,Books,Novel,1,261,261,UPI
+3108e02f,2024-01-20 08:00:00,8b8062,Books,Laptop,2,493,986,Cash
+e056cfd8,2024-01-20 09:00:00,99d9cc,Home Decor,Sofa,2,108,216,Debit Card
+f5df7d38,2024-01-20 10:00:00,6a6079,Books,T-Shirt,1,158,158,Debit Card
+730ed630,2024-01-20 11:00:00,8af74d,Clothing,Novel,3,419,1257,Credit Card
+adfe78ab,2024-01-20 12:00:00,847711,Books,Laptop,1,428,428,Credit Card
+ba1060a9,2024-01-20 13:00:00,eb354d,Electronics,T-Shirt,4,96,384,Debit Card
+67bbbada,2024-01-20 14:00:00,b0e8fa,Home Decor,T-Shirt,4,245,980,Credit Card
+993ddf58,2024-01-20 15:00:00,5fecb0,Electronics,Laptop,3,462,1386,UPI
+eafe4328,2024-01-20 16:00:00,19ec52,Beauty,Novel,3,445,1335,Debit Card
+fdf21f28,2024-01-20 17:00:00,064398,Beauty,T-Shirt,3,19,57,Cash
+1d876d49,2024-01-20 18:00:00,7ee0ca,Books,Lipstick,2,80,160,Debit Card
+a1131335,2024-01-20 19:00:00,636007,Electronics,Laptop,4,319,1276,Credit Card
+57412509,2024-01-20 20:00:00,02e54e,Home Decor,Lipstick,4,218,872,Credit Card
+60b40528,2024-01-20 21:00:00,b25446,Electronics,Laptop,3,449,1347,Credit Card
+1f729a69,2024-01-20 22:00:00,d28ef1,Electronics,Lipstick,4,420,1680,UPI
+234e8ab1,2024-01-20 23:00:00,e2494b,Home Decor,Sofa,1,86,86,Debit Card
+9587100c,2024-01-21 00:00:00,16d7bc,Clothing,Sofa,4,267,1068,Debit Card
+29bd6227,2024-01-21 01:00:00,98fb8a,Books,T-Shirt,3,29,87,Credit Card
+10b6eb63,2024-01-21 02:00:00,5802d9,Books,Lipstick,2,294,588,UPI
+cf24bc4c,2024-01-21 03:00:00,00c7a0,Books,Lipstick,1,80,80,Debit Card
+df2ac6f5,2024-01-21 04:00:00,d5f2e3,Electronics,Sofa,1,39,39,UPI
+a9b838d2,2024-01-21 05:00:00,09abde,Clothing,Sofa,2,293,586,Credit Card
+b81dd1eb,2024-01-21 06:00:00,4cb6b2,Electronics,Novel,4,151,604,UPI
+7a2336ff,2024-01-21 07:00:00,6776ac,Clothing,Novel,4,410,1640,Credit Card
+55e77c32,2024-01-21 08:00:00,83722d,Home Decor,T-Shirt,2,162,324,UPI
+84a26288,2024-01-21 09:00:00,48ca82,Home Decor,Laptop,4,432,1728,Credit Card
+ffb8db9c,2024-01-21 10:00:00,a43eea,Electronics,Novel,4,297,1188,UPI
+b5bbd70d,2024-01-21 11:00:00,3e96e7,Books,T-Shirt,2,152,304,Cash
+f3017651,2024-01-21 12:00:00,d9a24a,Clothing,Laptop,2,76,152,Cash
+53497c09,2024-01-21 13:00:00,a658a4,Clothing,Novel,4,380,1520,Debit Card
+d710d310,2024-01-21 14:00:00,7ee0ca,Electronics,Lipstick,4,258,1032,Cash
+b6f5bcb7,2024-01-21 15:00:00,ff187f,Clothing,Lipstick,3,214,642,UPI
+b1e9272d,2024-01-21 16:00:00,bdcd45,Home Decor,Novel,2,490,980,Credit Card
+f126dde7,2024-01-21 17:00:00,4cb6b2,Home Decor,Lipstick,1,41,41,Cash
+381ba0f2,2024-01-21 18:00:00,952942,Home Decor,T-Shirt,2,164,328,Credit Card
+3c563f47,2024-01-21 19:00:00,ddf97f,Home Decor,Sofa,3,300,900,Debit Card
+940ac820,2024-01-21 20:00:00,a38696,Books,T-Shirt,4,413,1652,Debit Card
+dd542494,2024-01-21 21:00:00,b5b7da,Home Decor,Sofa,4,232,928,UPI
+32925783,2024-01-21 22:00:00,4e8d63,Electronics,Lipstick,2,51,102,Credit Card
+b4b85edc,2024-01-21 23:00:00,62990d,Clothing,T-Shirt,3,204,612,Cash
+ff487d03,2024-01-22 00:00:00,a058b8,Books,Sofa,3,420,1260,Debit Card
+3465f8d4,2024-01-22 01:00:00,a453b1,Books,Sofa,3,85,255,Credit Card
+ec05669c,2024-01-22 02:00:00,26b6c9,Clothing,Sofa,3,427,1281,UPI
+2697b57d,2024-01-22 03:00:00,3230b4,Home Decor,T-Shirt,4,182,728,UPI
+b552520c,2024-01-22 04:00:00,780364,Home Decor,T-Shirt,1,139,139,UPI
+d70bade5,2024-01-22 05:00:00,94c3c4,Beauty,Sofa,3,19,57,Credit Card
+ed14fdf7,2024-01-22 06:00:00,5503aa,Electronics,Laptop,1,496,496,Cash
+5cfde459,2024-01-22 07:00:00,401167,Beauty,Sofa,1,322,322,Debit Card
+11d11b98,2024-01-22 08:00:00,90a26b,Clothing,Laptop,3,222,666,Credit Card
+05e6a8f6,2024-01-22 09:00:00,bf898e,Beauty,Lipstick,4,81,324,UPI
+012c8bbb,2024-01-22 10:00:00,73fbf5,Home Decor,Lipstick,4,268,1072,UPI
+6782cee3,2024-01-22 11:00:00,6b6067,Electronics,Sofa,4,245,980,Credit Card
+2eac180b,2024-01-22 12:00:00,1e8504,Home Decor,Laptop,4,231,924,Debit Card
+d0ff882c,2024-01-22 13:00:00,335482,Home Decor,T-Shirt,3,194,582,Cash
+9978a824,2024-01-22 14:00:00,a9a2b0,Electronics,Novel,1,12,12,Debit Card
+3a4b0197,2024-01-22 15:00:00,55721d,Clothing,Lipstick,4,333,1332,Credit Card
+b06d416e,2024-01-22 16:00:00,464392,Electronics,Sofa,2,32,64,Cash
+a0c86cd4,2024-01-22 17:00:00,9ea783,Electronics,Laptop,3,135,405,Credit Card
+40a133e0,2024-01-22 18:00:00,4e1657,Books,Sofa,3,68,204,UPI
+eebbc9c7,2024-01-22 19:00:00,a47564,Books,Novel,3,159,477,Credit Card
+a847b8c7,2024-01-22 20:00:00,97707e,Beauty,Sofa,1,153,153,Debit Card
+cabde81c,2024-01-22 21:00:00,a66c03,Books,Lipstick,2,52,104,Cash
+c99e18c4,2024-01-22 22:00:00,fd70c5,Beauty,T-Shirt,4,169,676,Credit Card
+86aed742,2024-01-22 23:00:00,900d8c,Electronics,Lipstick,2,425,850,Debit Card
+aef1bfa9,2024-01-23 00:00:00,4b3ab7,Home Decor,T-Shirt,3,315,945,Cash
+9630a9b9,2024-01-23 01:00:00,3f84b9,Books,Lipstick,2,364,728,Debit Card
+3c5f44a1,2024-01-23 02:00:00,3d5794,Electronics,Sofa,1,406,406,Cash
+aa631119,2024-01-23 03:00:00,95c81d,Beauty,Lipstick,4,429,1716,UPI
+17ddfe10,2024-01-23 04:00:00,a058b8,Clothing,Sofa,4,412,1648,UPI
+55694f1c,2024-01-23 05:00:00,92f42e,Electronics,Lipstick,2,398,796,Cash
+0867ab99,2024-01-23 06:00:00,1beced,Home Decor,Novel,2,261,522,Debit Card
+239a7d4a,2024-01-23 07:00:00,00e1ff,Books,Sofa,4,117,468,Debit Card
+b24f5ed4,2024-01-23 08:00:00,c11bcd,Beauty,Laptop,2,369,738,UPI
+ca5ab231,2024-01-23 09:00:00,1ef710,Books,Lipstick,3,60,180,UPI
+a8dcb0a8,2024-01-23 10:00:00,a5f9cf,Beauty,Sofa,4,377,1508,Credit Card
+c1ec7c02,2024-01-23 11:00:00,d60a81,Beauty,Lipstick,2,278,556,Debit Card
+7f754a36,2024-01-23 12:00:00,09abde,Home Decor,Lipstick,2,11,22,Cash
+a7854f04,2024-01-23 13:00:00,9179cd,Books,Novel,3,67,201,Debit Card
+9e15a286,2024-01-23 14:00:00,1db120,Beauty,Novel,2,211,422,Debit Card
+5aee1b30,2024-01-23 15:00:00,0daf3e,Home Decor,Sofa,3,197,591,UPI
+2b8363fd,2024-01-23 16:00:00,720ce3,Home Decor,T-Shirt,4,55,220,Debit Card
+f40b9e2e,2024-01-23 17:00:00,5d31de,Home Decor,Lipstick,2,68,136,UPI
+7d2a7c65,2024-01-23 18:00:00,72b94a,Home Decor,Laptop,4,360,1440,Credit Card
+421d28b8,2024-01-23 19:00:00,13dcc8,Home Decor,Lipstick,1,94,94,Credit Card
+1d5c2668,2024-01-23 20:00:00,21bb3c,Beauty,Sofa,1,291,291,Debit Card
+ba105aa1,2024-01-23 21:00:00,ef06ed,Books,T-Shirt,3,277,831,Credit Card
+c0f109a2,2024-01-23 22:00:00,642d5e,Beauty,Sofa,2,351,702,Debit Card
+09180b0e,2024-01-23 23:00:00,2797c4,Electronics,Novel,4,112,448,UPI
+069fdde6,2024-01-24 00:00:00,92f42e,Electronics,Laptop,1,38,38,Cash
+9cf8e0bf,2024-01-24 01:00:00,8588e6,Beauty,Lipstick,4,291,1164,UPI
+a6b049c8,2024-01-24 02:00:00,68bb34,Clothing,T-Shirt,3,159,477,Debit Card
+4c6cbd3f,2024-01-24 03:00:00,7f8f6e,Books,Novel,4,419,1676,Credit Card
+b0695c5f,2024-01-24 04:00:00,4e8d63,Books,T-Shirt,2,221,442,Debit Card
+476598e6,2024-01-24 05:00:00,add371,Clothing,Sofa,2,13,26,Debit Card
+54100777,2024-01-24 06:00:00,989d13,Electronics,T-Shirt,1,218,218,Debit Card
+5ee933e5,2024-01-24 07:00:00,560d35,Electronics,Laptop,4,270,1080,UPI
+17ccd322,2024-01-24 08:00:00,ea3b0a,Home Decor,Sofa,3,149,447,Debit Card
+dbceaf84,2024-01-24 09:00:00,d91d4c,Clothing,Sofa,1,415,415,Credit Card
+b0787def,2024-01-24 10:00:00,d72dc0,Books,Novel,2,189,378,Cash
+bbbac55c,2024-01-24 11:00:00,7db8bc,Clothing,Lipstick,3,314,942,Credit Card
+3f067172,2024-01-24 12:00:00,9ef8fa,Clothing,Sofa,3,128,384,Debit Card
+ae447198,2024-01-24 13:00:00,a883b9,Home Decor,Laptop,4,449,1796,Cash
+33e8e210,2024-01-24 14:00:00,2540a6,Clothing,Novel,3,70,210,Credit Card
+fb62ff5c,2024-01-24 15:00:00,374829,Clothing,T-Shirt,3,244,732,UPI
+afc472df,2024-01-24 16:00:00,6ecf87,Clothing,Laptop,2,460,920,Debit Card
+fea6e52e,2024-01-24 17:00:00,9179cd,Home Decor,Laptop,4,487,1948,Credit Card
+1c438ede,2024-01-24 18:00:00,7e8063,Books,Laptop,4,121,484,Credit Card
+18a6721e,2024-01-24 19:00:00,0e7f83,Electronics,T-Shirt,3,409,1227,Debit Card
+686e50cd,2024-01-24 20:00:00,41b60a,Home Decor,Laptop,1,30,30,Credit Card
+8bb3f3fd,2024-01-24 21:00:00,72b94a,Clothing,Lipstick,1,486,486,UPI
+dde75b60,2024-01-24 22:00:00,a5e223,Electronics,T-Shirt,3,166,498,UPI
+7870b307,2024-01-24 23:00:00,08561f,Electronics,Lipstick,2,344,688,Cash
+a0e3370b,2024-01-25 00:00:00,e093b6,Clothing,Sofa,3,306,918,Debit Card
+4f180fd4,2024-01-25 01:00:00,c690cb,Beauty,Laptop,3,247,741,Cash
+3dcac7cb,2024-01-25 02:00:00,344e6a,Home Decor,Novel,1,166,166,UPI
+bc13499e,2024-01-25 03:00:00,43bf8b,Books,Laptop,4,208,832,Debit Card
+9df833c7,2024-01-25 04:00:00,a3633d,Beauty,Lipstick,4,90,360,Credit Card
+c880ab18,2024-01-25 05:00:00,c91499,Beauty,Novel,1,365,365,Credit Card
+ba966f89,2024-01-25 06:00:00,135dd1,Beauty,Sofa,1,334,334,Credit Card
+ced84b26,2024-01-25 07:00:00,135dd1,Home Decor,Laptop,4,490,1960,UPI
+9e5bdd03,2024-01-25 08:00:00,acb4b3,Home Decor,Novel,2,271,542,Credit Card
+34fa4a15,2024-01-25 09:00:00,bf7f78,Beauty,Lipstick,3,365,1095,Cash
+2f2f14f7,2024-01-25 10:00:00,e15a0f,Home Decor,Novel,1,273,273,Debit Card
+a4d2403d,2024-01-25 11:00:00,c5dcf8,Home Decor,Lipstick,1,239,239,Cash
+02e4e7ce,2024-01-25 12:00:00,e69c2c,Electronics,Lipstick,2,273,546,Debit Card
+b2ca7936,2024-01-25 13:00:00,ceafe5,Beauty,Laptop,4,410,1640,Debit Card
+071e0fe7,2024-01-25 14:00:00,1d5e7c,Electronics,T-Shirt,4,381,1524,Credit Card
+f415913a,2024-01-25 15:00:00,da21ea,Home Decor,Laptop,1,182,182,UPI
+57882c4a,2024-01-25 16:00:00,1718ff,Home Decor,Novel,2,421,842,Cash
+45772ba8,2024-01-25 17:00:00,8215fb,Home Decor,Sofa,3,445,1335,Cash
+dbaf3ae7,2024-01-25 18:00:00,b96fdb,Clothing,Sofa,3,367,1101,Cash
+fdbacf5a,2024-01-25 19:00:00,cd1aeb,Home Decor,Lipstick,2,262,524,Credit Card
+24ffd183,2024-01-25 20:00:00,d97042,Books,T-Shirt,1,176,176,Debit Card
+8e90833f,2024-01-25 21:00:00,aea03b,Books,Lipstick,3,81,243,UPI
+0f7b1603,2024-01-25 22:00:00,8e01c2,Electronics,T-Shirt,1,488,488,Cash
+8d4baf98,2024-01-25 23:00:00,68cd22,Beauty,Laptop,1,378,378,Cash
+8021dfdd,2024-01-26 00:00:00,2b8bd1,Electronics,T-Shirt,3,100,300,UPI
+f58486ea,2024-01-26 01:00:00,97707e,Books,Laptop,4,339,1356,Cash
+473886f6,2024-01-26 02:00:00,7170d4,Clothing,Lipstick,2,56,112,Credit Card
+2c173f96,2024-01-26 03:00:00,1edeaa,Beauty,Laptop,1,160,160,Debit Card
+f730b081,2024-01-26 04:00:00,08a16f,Books,Lipstick,4,410,1640,UPI
+0cca81ce,2024-01-26 05:00:00,8dd666,Books,Laptop,3,353,1059,UPI
+aa72f57c,2024-01-26 06:00:00,5964b7,Beauty,Sofa,2,411,822,UPI
+2b02c956,2024-01-26 07:00:00,3c23c3,Books,Sofa,2,145,290,Credit Card
+5084ab9d,2024-01-26 08:00:00,e4b912,Electronics,Novel,2,395,790,UPI
+5517be7a,2024-01-26 09:00:00,dccb1a,Beauty,T-Shirt,3,87,261,UPI
+9fae4990,2024-01-26 10:00:00,d94e1a,Books,T-Shirt,2,432,864,Debit Card
+18d0a665,2024-01-26 11:00:00,630ccf,Electronics,T-Shirt,2,437,874,Debit Card
+9b8eb2fb,2024-01-26 12:00:00,f59c2a,Home Decor,Novel,3,474,1422,Cash
+2ed04bfd,2024-01-26 13:00:00,0d28a1,Books,Lipstick,1,53,53,UPI
+7d8c92c5,2024-01-26 14:00:00,acb4b3,Home Decor,T-Shirt,3,369,1107,Cash
+552ff3ad,2024-01-26 15:00:00,a89122,Beauty,Sofa,1,36,36,Debit Card
+0d133adc,2024-01-26 16:00:00,08728b,Clothing,T-Shirt,1,492,492,Credit Card
+8f4cef50,2024-01-26 17:00:00,50cd47,Beauty,Laptop,4,412,1648,Cash
+9c1f2d79,2024-01-26 18:00:00,989d13,Electronics,Novel,4,223,892,Cash
+5c42fc2e,2024-01-26 19:00:00,0f0a4a,Books,Lipstick,4,257,1028,Cash
+0985729d,2024-01-26 20:00:00,3e9b3c,Home Decor,Sofa,1,206,206,Debit Card
+86c255a9,2024-01-26 21:00:00,e5e89c,Books,Sofa,4,327,1308,Debit Card
+bf5f15c6,2024-01-26 22:00:00,541935,Books,Sofa,2,498,996,Cash
+fe41eefa,2024-01-26 23:00:00,26031c,Electronics,T-Shirt,3,142,426,UPI
+bcc43748,2024-01-27 00:00:00,bcea66,Books,Novel,2,411,822,UPI
+09156bf8,2024-01-27 01:00:00,a6f09a,Home Decor,Sofa,3,482,1446,UPI
+e367a1d9,2024-01-27 02:00:00,246cc6,Beauty,T-Shirt,1,439,439,Credit Card
+5682ea1c,2024-01-27 03:00:00,1cf4fd,Clothing,Novel,4,390,1560,Debit Card
+87fc7c5f,2024-01-27 04:00:00,88c997,Home Decor,Sofa,4,436,1744,UPI
+7ad78ac7,2024-01-27 05:00:00,8b9634,Books,Sofa,4,197,788,Credit Card
+10d77f5b,2024-01-27 06:00:00,d8c1d4,Home Decor,Lipstick,3,346,1038,Cash
+798af220,2024-01-27 07:00:00,d5fa58,Electronics,Laptop,2,105,210,UPI
+1eaa2d87,2024-01-27 08:00:00,d9e3eb,Electronics,Sofa,4,202,808,Cash
+40da814d,2024-01-27 09:00:00,888bce,Clothing,Lipstick,2,224,448,UPI
+c31837c7,2024-01-27 10:00:00,bc7eea,Clothing,Novel,4,355,1420,UPI
+ffd59544,2024-01-27 11:00:00,580dca,Beauty,Novel,2,362,724,Credit Card
+722d6f24,2024-01-27 12:00:00,3f29cb,Home Decor,Novel,4,359,1436,Debit Card
+0de07e62,2024-01-27 13:00:00,4bcdfc,Electronics,Laptop,4,437,1748,Credit Card
+5e3c650b,2024-01-27 14:00:00,1513de,Books,T-Shirt,2,161,322,Debit Card
+44f7d678,2024-01-27 15:00:00,1e3c19,Books,Novel,4,265,1060,Cash
+ee1bd829,2024-01-27 16:00:00,d1bc18,Beauty,Novel,2,248,496,Debit Card
+968a54f4,2024-01-27 17:00:00,467ac4,Home Decor,Lipstick,4,310,1240,UPI
+d73a1cbf,2024-01-27 18:00:00,68bb34,Beauty,T-Shirt,1,123,123,Cash
+eec8bd1e,2024-01-27 19:00:00,ee92a5,Beauty,Laptop,4,426,1704,Credit Card
+c9c5c4dc,2024-01-27 20:00:00,13da0f,Clothing,T-Shirt,2,157,314,Cash
+cc7f27c6,2024-01-27 21:00:00,67f933,Clothing,Laptop,1,128,128,Credit Card
+2c97794c,2024-01-27 22:00:00,3fc53f,Beauty,Lipstick,3,87,261,UPI
+54a0b41f,2024-01-27 23:00:00,9d106b,Books,Novel,2,439,878,UPI
+055bb0a1,2024-01-28 00:00:00,dad6df,Clothing,Lipstick,2,262,524,Credit Card
+0a59715f,2024-01-28 01:00:00,85ae39,Books,Sofa,1,104,104,Cash
+2ac1d0e5,2024-01-28 02:00:00,ddf97f,Clothing,Lipstick,2,444,888,Cash
+2f4feb5b,2024-01-28 03:00:00,a89122,Electronics,Lipstick,3,433,1299,Cash
+6bd85cc1,2024-01-28 04:00:00,08a79b,Beauty,Novel,3,208,624,Cash
+20546904,2024-01-28 05:00:00,903a0f,Electronics,Laptop,4,288,1152,UPI
+61cf7a2e,2024-01-28 06:00:00,7d5842,Electronics,Laptop,4,232,928,Credit Card
+223d2299,2024-01-28 07:00:00,4b908c,Beauty,Novel,3,459,1377,UPI
+8a3a51f3,2024-01-28 08:00:00,d8b630,Books,Novel,2,295,590,Debit Card
+ddec3dc7,2024-01-28 09:00:00,c4d27b,Electronics,Laptop,4,164,656,Debit Card
+4cc47a61,2024-01-28 10:00:00,59035c,Beauty,Lipstick,4,161,644,Cash
+186a82a2,2024-01-28 11:00:00,10ce2b,Beauty,Lipstick,2,362,724,Credit Card
+c95c486c,2024-01-28 12:00:00,d35b1d,Beauty,Sofa,1,140,140,UPI
+3aa6d5e1,2024-01-28 13:00:00,b8e59b,Home Decor,Sofa,2,32,64,Debit Card
+87ce32cb,2024-01-28 14:00:00,8ad450,Beauty,Novel,2,35,70,UPI
+c5606b3d,2024-01-28 15:00:00,5ad076,Books,Sofa,1,178,178,Cash
+30b00f83,2024-01-28 16:00:00,9df3ae,Home Decor,Laptop,3,142,426,Cash
+cc66756f,2024-01-28 17:00:00,0db9a5,Clothing,Sofa,3,171,513,UPI
+cea2b4b7,2024-01-28 18:00:00,575c46,Clothing,T-Shirt,2,285,570,UPI
+a9781b6a,2024-01-28 19:00:00,550b13,Beauty,Lipstick,4,219,876,Cash
+f4e18848,2024-01-28 20:00:00,575c46,Clothing,Novel,2,252,504,UPI
+250ce85e,2024-01-28 21:00:00,7e3148,Clothing,T-Shirt,4,32,128,Cash
+d43aa941,2024-01-28 22:00:00,60c2f9,Electronics,Laptop,2,180,360,UPI
+f35713d9,2024-01-28 23:00:00,e4b912,Electronics,Novel,3,447,1341,Credit Card
+8469662e,2024-01-29 00:00:00,4ddebc,Electronics,Sofa,2,456,912,Cash
+7440dbc5,2024-01-29 01:00:00,1e8504,Home Decor,Sofa,4,432,1728,Debit Card
+13fc5681,2024-01-29 02:00:00,eb6746,Electronics,Lipstick,3,55,165,Cash
+c5d192f6,2024-01-29 03:00:00,92cbb9,Clothing,Novel,2,103,206,Debit Card
+c56f0b64,2024-01-29 04:00:00,60c508,Books,T-Shirt,4,375,1500,Credit Card
+9a1ed23a,2024-01-29 05:00:00,060b58,Electronics,T-Shirt,2,252,504,UPI
+1c03ede3,2024-01-29 06:00:00,d2a3a2,Books,Novel,3,136,408,Cash
+ebd225d4,2024-01-29 07:00:00,b1a4f4,Electronics,T-Shirt,3,317,951,Debit Card
+ea09fd95,2024-01-29 08:00:00,1322e7,Home Decor,T-Shirt,2,191,382,Debit Card
+549c3239,2024-01-29 09:00:00,eeed0d,Electronics,Novel,4,118,472,Cash
+d2b2abb6,2024-01-29 10:00:00,ae95e4,Clothing,Novel,1,448,448,UPI
+7c921ab0,2024-01-29 11:00:00,a5f9cf,Clothing,T-Shirt,4,128,512,Cash
+4082d555,2024-01-29 12:00:00,a12678,Clothing,Sofa,4,130,520,Debit Card
+ee58a867,2024-01-29 13:00:00,9353e8,Books,Novel,1,241,241,UPI
+e602a85f,2024-01-29 14:00:00,15ba0d,Beauty,Novel,2,97,194,Credit Card
+87d34ebc,2024-01-29 15:00:00,cc8604,Beauty,Lipstick,1,118,118,Credit Card
+58ba12a4,2024-01-29 16:00:00,f5a254,Electronics,Lipstick,4,173,692,UPI
+0fb55fc2,2024-01-29 17:00:00,e69c2c,Electronics,T-Shirt,3,466,1398,Debit Card
+ef14931c,2024-01-29 18:00:00,d19cca,Electronics,Sofa,3,353,1059,Debit Card
+2bfc8bbc,2024-01-29 19:00:00,bf128f,Books,Laptop,3,308,924,UPI
+4a73e192,2024-01-29 20:00:00,c0491a,Clothing,Sofa,4,223,892,Cash
+a6b79d5b,2024-01-29 21:00:00,8dd224,Electronics,Sofa,4,321,1284,UPI
+2e63ba7e,2024-01-29 22:00:00,7d8fb8,Clothing,Novel,4,241,964,Debit Card
+3476eec0,2024-01-29 23:00:00,67f933,Home Decor,Novel,4,324,1296,UPI
+d27b427a,2024-01-30 00:00:00,a9b434,Clothing,Novel,2,198,396,Credit Card
+5ca5de5e,2024-01-30 01:00:00,be0fb8,Beauty,Lipstick,3,411,1233,Debit Card
+ce9fcd8d,2024-01-30 02:00:00,8215fb,Home Decor,Novel,4,65,260,Cash
+6176754e,2024-01-30 03:00:00,1322e7,Beauty,Laptop,4,68,272,Cash
+de1a62d2,2024-01-30 04:00:00,ef1539,Electronics,Laptop,1,274,274,Debit Card
+618116e0,2024-01-30 05:00:00,f96d13,Books,Sofa,4,123,492,Credit Card
+d4cb016d,2024-01-30 06:00:00,b8e59b,Beauty,T-Shirt,1,365,365,Credit Card
+8ea17afc,2024-01-30 07:00:00,1029b3,Clothing,Novel,2,408,816,Debit Card
+d4ed1956,2024-01-30 08:00:00,ac0060,Beauty,Novel,3,444,1332,Credit Card
+d21f0d05,2024-01-30 09:00:00,c8c78f,Home Decor,T-Shirt,1,72,72,Credit Card
+3b8d2b25,2024-01-30 10:00:00,7c6499,Home Decor,Lipstick,2,476,952,Cash
+9b185b2c,2024-01-30 11:00:00,b0af01,Electronics,Laptop,4,262,1048,Debit Card
+88b44b6f,2024-01-30 12:00:00,575c46,Clothing,T-Shirt,2,285,570,Cash
+01a6514d,2024-01-30 13:00:00,381cc6,Beauty,Novel,3,281,843,Credit Card
+d1ea0909,2024-01-30 14:00:00,c91499,Books,T-Shirt,4,317,1268,UPI
+9bc8a12c,2024-01-30 15:00:00,fdbb3f,Electronics,Lipstick,4,78,312,Credit Card
+03b954a8,2024-01-30 16:00:00,5e1657,Electronics,Lipstick,3,11,33,Credit Card
+513e7270,2024-01-30 17:00:00,9e382d,Clothing,Lipstick,2,404,808,Debit Card
+1e55bc2a,2024-01-30 18:00:00,0db9a5,Home Decor,Laptop,3,110,330,Debit Card
+2ec9ee7f,2024-01-30 19:00:00,940c3d,Clothing,Sofa,3,36,108,UPI
+69052a34,2024-01-30 20:00:00,309b59,Clothing,T-Shirt,1,471,471,Cash
+91d0f397,2024-01-30 21:00:00,37f14f,Beauty,Novel,4,454,1816,Credit Card
+852a818c,2024-01-30 22:00:00,346072,Home Decor,Laptop,3,474,1422,Debit Card
+58b0cef3,2024-01-30 23:00:00,4b5844,Clothing,Novel,4,32,128,Debit Card
+28ab81b7,2024-01-31 00:00:00,61e522,Home Decor,Novel,1,360,360,Cash
+74fe9f65,2024-01-31 01:00:00,d83b36,Books,Laptop,2,212,424,Credit Card
+820ccdd3,2024-01-31 02:00:00,a2a17c,Books,Laptop,4,114,456,UPI
+92f14922,2024-01-31 03:00:00,2a9411,Clothing,Laptop,3,367,1101,Cash
+01ac8497,2024-01-31 04:00:00,897d59,Clothing,Sofa,4,37,148,UPI
+de049a34,2024-01-31 05:00:00,cd5300,Clothing,Sofa,2,175,350,Cash
+0d3b3834,2024-01-31 06:00:00,ef06ed,Beauty,Sofa,4,166,664,UPI
+2438d2c7,2024-01-31 07:00:00,9ba44c,Clothing,Sofa,4,413,1652,Debit Card
+e4abf996,2024-01-31 08:00:00,1ad5da,Home Decor,Lipstick,4,352,1408,Debit Card
+301896dd,2024-01-31 09:00:00,40f1ca,Electronics,Novel,4,498,1992,Credit Card
+c0355537,2024-01-31 10:00:00,e6e784,Home Decor,Sofa,2,460,920,Cash
+99f0db10,2024-01-31 11:00:00,e15d65,Electronics,Novel,3,374,1122,Debit Card
+c703d54a,2024-01-31 12:00:00,be0fb8,Electronics,Sofa,4,456,1824,UPI
+e7e52124,2024-01-31 13:00:00,0d28a1,Clothing,T-Shirt,2,385,770,Credit Card
+1497a82f,2024-01-31 14:00:00,3cc777,Electronics,T-Shirt,2,284,568,Cash
+34103a15,2024-01-31 15:00:00,1beced,Books,Lipstick,4,462,1848,Credit Card
+2dce4516,2024-01-31 16:00:00,148b08,Electronics,Sofa,2,50,100,Credit Card
+e98d85e9,2024-01-31 17:00:00,59df81,Clothing,Novel,4,396,1584,Cash
+fcadea01,2024-01-31 18:00:00,1ef710,Home Decor,T-Shirt,3,227,681,Cash
+aa88a291,2024-01-31 19:00:00,916382,Home Decor,Sofa,2,26,52,Cash
+7f52603a,2024-01-31 20:00:00,d8c1d4,Clothing,T-Shirt,4,168,672,UPI
+dc2a4d78,2024-01-31 21:00:00,7064f8,Electronics,Laptop,1,21,21,Debit Card
+72dededf,2024-01-31 22:00:00,73d905,Clothing,Lipstick,2,406,812,Credit Card
+73156ae0,2024-01-31 23:00:00,094a5a,Home Decor,T-Shirt,4,20,80,UPI
+1eeedd27,2024-02-01 00:00:00,811593,Beauty,Sofa,4,179,716,Credit Card
+50efa239,2024-02-01 01:00:00,26c89a,Home Decor,Lipstick,4,134,536,Cash
+9fff64ff,2024-02-01 02:00:00,d07df3,Home Decor,Lipstick,1,78,78,Cash
+a4159103,2024-02-01 03:00:00,9f5492,Home Decor,Sofa,1,89,89,UPI
+19fad6bd,2024-02-01 04:00:00,c11bcd,Clothing,Novel,1,433,433,Credit Card
+abe47b97,2024-02-01 05:00:00,a6b61d,Home Decor,Sofa,1,489,489,UPI
+c0e97f27,2024-02-01 06:00:00,37228a,Books,Sofa,3,220,660,Debit Card
+66ef35a8,2024-02-01 07:00:00,6ca609,Home Decor,Laptop,4,133,532,Debit Card
+9c98972a,2024-02-01 08:00:00,aaf3d9,Books,Lipstick,1,276,276,Credit Card
+aba8a7d2,2024-02-01 09:00:00,8312ef,Books,Sofa,4,499,1996,Cash
+74243e65,2024-02-01 10:00:00,8dd224,Clothing,Lipstick,1,241,241,Cash
+e8d41b77,2024-02-01 11:00:00,1ad5da,Clothing,T-Shirt,2,111,222,Cash
+cb7357ea,2024-02-01 12:00:00,1b2cd5,Books,Lipstick,1,177,177,Credit Card
+fdadbfa7,2024-02-01 13:00:00,f0a89d,Books,Novel,3,113,339,UPI
+15f51499,2024-02-01 14:00:00,20f79d,Clothing,Lipstick,3,94,282,Debit Card
+f21c8db3,2024-02-01 15:00:00,eb54c2,Home Decor,Novel,3,123,369,Cash
+eab31a2e,2024-02-01 16:00:00,f59c2a,Beauty,Laptop,2,35,70,UPI
+98102aa7,2024-02-01 17:00:00,14d85a,Books,T-Shirt,4,93,372,Cash
+c6af575a,2024-02-01 18:00:00,e2494b,Home Decor,Novel,3,411,1233,Debit Card
+a8687b30,2024-02-01 19:00:00,917c1b,Beauty,Sofa,4,281,1124,UPI
+766764b9,2024-02-01 20:00:00,4a2f5b,Books,T-Shirt,4,435,1740,Credit Card
+9bac6c3c,2024-02-01 21:00:00,8936ea,Electronics,Laptop,1,124,124,Credit Card
+197e973e,2024-02-01 22:00:00,13e8e2,Electronics,T-Shirt,3,336,1008,UPI
+c56fff99,2024-02-01 23:00:00,cb2083,Books,Lipstick,4,310,1240,Cash
+cae51ce3,2024-02-02 00:00:00,08728b,Electronics,T-Shirt,3,306,918,Debit Card
+09b2715a,2024-02-02 01:00:00,2e6228,Beauty,Lipstick,1,186,186,Credit Card
+5da4025b,2024-02-02 02:00:00,e948d6,Clothing,T-Shirt,1,54,54,Cash
+e142b950,2024-02-02 03:00:00,80d1dc,Books,Laptop,3,86,258,Credit Card
+a37cfb18,2024-02-02 04:00:00,fd70c5,Beauty,T-Shirt,4,395,1580,Debit Card
+bb9f76e4,2024-02-02 05:00:00,7e3148,Beauty,T-Shirt,2,29,58,Credit Card
+2bb46b72,2024-02-02 06:00:00,847711,Clothing,Lipstick,3,193,579,Cash
+83f00db5,2024-02-02 07:00:00,bbfab4,Clothing,Sofa,4,65,260,Debit Card
+01056c05,2024-02-02 08:00:00,246cc6,Home Decor,Lipstick,2,79,158,Credit Card
+e1fc4104,2024-02-02 09:00:00,36e794,Books,Sofa,1,375,375,Credit Card
+f5f3bc8a,2024-02-02 10:00:00,6776ac,Clothing,Laptop,1,499,499,Cash
+2769c66e,2024-02-02 11:00:00,0ae342,Electronics,T-Shirt,2,126,252,UPI
+a88d445b,2024-02-02 12:00:00,ac54e7,Home Decor,Sofa,2,348,696,Cash
+f51a89d2,2024-02-02 13:00:00,ae70df,Electronics,Lipstick,2,452,904,Debit Card
+08661338,2024-02-02 14:00:00,8e6541,Clothing,Novel,3,121,363,Debit Card
+fdb52d92,2024-02-02 15:00:00,3e7683,Clothing,T-Shirt,3,194,582,Credit Card
+cd761956,2024-02-02 16:00:00,f0c87e,Home Decor,Lipstick,3,179,537,Cash
+5c6fed00,2024-02-02 17:00:00,1b4acc,Beauty,Sofa,4,323,1292,UPI
+93b51081,2024-02-02 18:00:00,dd1d33,Electronics,Novel,4,247,988,Debit Card
+3a0c10f9,2024-02-02 19:00:00,006294,Books,Lipstick,1,116,116,Cash
+e2996336,2024-02-02 20:00:00,630ccf,Home Decor,Laptop,1,321,321,UPI
+7f41e51d,2024-02-02 21:00:00,791f39,Home Decor,Laptop,3,371,1113,Debit Card
+dd109ef2,2024-02-02 22:00:00,f56c4e,Home Decor,Lipstick,3,169,507,UPI
+c4521c84,2024-02-02 23:00:00,346072,Home Decor,Sofa,1,393,393,Debit Card
+37286890,2024-02-03 00:00:00,0cfc2b,Home Decor,T-Shirt,3,21,63,UPI
+82642e7f,2024-02-03 01:00:00,959052,Clothing,Sofa,2,451,902,Credit Card
+e38144a1,2024-02-03 02:00:00,e30430,Electronics,Novel,3,424,1272,Cash
+201cda9c,2024-02-03 03:00:00,1b5abd,Electronics,Lipstick,3,461,1383,Credit Card
+011d3354,2024-02-03 04:00:00,585151,Books,Lipstick,4,318,1272,Credit Card
+031b6298,2024-02-03 05:00:00,ceafe5,Electronics,Sofa,4,436,1744,Credit Card
+6418d2a9,2024-02-03 06:00:00,1cb934,Clothing,T-Shirt,2,241,482,Cash
+85d83882,2024-02-03 07:00:00,a5a354,Beauty,Novel,2,458,916,UPI
+4117cd79,2024-02-03 08:00:00,9e2389,Electronics,T-Shirt,3,142,426,Credit Card
+ea43df7e,2024-02-03 09:00:00,7170d4,Clothing,Laptop,1,286,286,UPI
+be317063,2024-02-03 10:00:00,4627f4,Beauty,Novel,3,381,1143,Cash
+df5cfd66,2024-02-03 11:00:00,2b8bd1,Beauty,Sofa,2,174,348,Debit Card
+5c17ff0c,2024-02-03 12:00:00,83cdef,Beauty,Lipstick,2,97,194,Cash
+aa988028,2024-02-03 13:00:00,54fab6,Home Decor,Laptop,2,304,608,Credit Card
+86ddace5,2024-02-03 14:00:00,56a8d9,Beauty,Lipstick,4,221,884,UPI
+7bc5155a,2024-02-03 15:00:00,e940d4,Clothing,Laptop,2,159,318,Debit Card
+7ae78dd6,2024-02-03 16:00:00,3e1b48,Beauty,Sofa,2,191,382,Cash
+4cc94152,2024-02-03 17:00:00,26b6c9,Books,Sofa,4,223,892,Cash
+5228a4da,2024-02-03 18:00:00,4e1657,Electronics,Laptop,2,454,908,Cash
+c4830b48,2024-02-03 19:00:00,1e2aca,Electronics,Sofa,3,339,1017,UPI
+0ba93fea,2024-02-03 20:00:00,deb177,Clothing,T-Shirt,1,296,296,UPI
+995a123a,2024-02-03 21:00:00,309b59,Books,Laptop,3,275,825,Debit Card
+10f926e1,2024-02-03 22:00:00,90d7c6,Electronics,Novel,3,450,1350,UPI
+27f53062,2024-02-03 23:00:00,c0f584,Home Decor,Sofa,4,393,1572,Debit Card
+ebc1d5bb,2024-02-04 00:00:00,31a237,Electronics,Sofa,2,176,352,UPI
+2a3b85d5,2024-02-04 01:00:00,c87119,Books,Laptop,2,288,576,Debit Card
+8da85cd4,2024-02-04 02:00:00,1dd7b1,Home Decor,Lipstick,4,16,64,Cash
+d759a261,2024-02-04 03:00:00,8ccac6,Books,Novel,4,255,1020,Cash
+942678a2,2024-02-04 04:00:00,36e794,Beauty,Sofa,2,120,240,Credit Card
+c444a201,2024-02-04 05:00:00,00ad60,Beauty,T-Shirt,2,213,426,Cash
+9f875597,2024-02-04 06:00:00,120b0f,Books,Laptop,1,484,484,Cash
+cedc13ca,2024-02-04 07:00:00,a52d97,Clothing,T-Shirt,1,91,91,Credit Card
+a18a70e7,2024-02-04 08:00:00,282154,Clothing,Lipstick,4,29,116,UPI
+6c97514c,2024-02-04 09:00:00,37228a,Electronics,Lipstick,4,66,264,Cash
+16f3e549,2024-02-04 10:00:00,401167,Beauty,Laptop,2,303,606,UPI
+33dc1650,2024-02-04 11:00:00,67e362,Beauty,Lipstick,1,139,139,UPI
+58df66cb,2024-02-04 12:00:00,197942,Clothing,Sofa,3,173,519,Credit Card
+2e5d2454,2024-02-04 13:00:00,e07b6d,Clothing,Laptop,3,244,732,UPI
+492df1f9,2024-02-04 14:00:00,de5c05,Electronics,Sofa,4,54,216,UPI
+513a6e50,2024-02-04 15:00:00,a12651,Beauty,T-Shirt,3,444,1332,Cash
+a05518be,2024-02-04 16:00:00,62990d,Books,Lipstick,4,318,1272,UPI
+4253e56b,2024-02-04 17:00:00,667c1a,Home Decor,Lipstick,2,287,574,Debit Card
+eb8d37f6,2024-02-04 18:00:00,63001a,Books,Lipstick,3,498,1494,UPI
+bfeceb05,2024-02-04 19:00:00,e7a15f,Home Decor,Lipstick,2,180,360,UPI
+a535d77f,2024-02-04 20:00:00,2a9411,Books,Sofa,3,34,102,Debit Card
+4eeee5cd,2024-02-04 21:00:00,0289d3,Electronics,Novel,2,153,306,Cash
+e2d4b58b,2024-02-04 22:00:00,900d8c,Electronics,Lipstick,2,145,290,Cash
+fac28f27,2024-02-04 23:00:00,56b912,Electronics,Novel,3,401,1203,Credit Card
+c0389425,2024-02-05 00:00:00,deb177,Electronics,Sofa,4,484,1936,Credit Card
+59f78b39,2024-02-05 01:00:00,56a8d9,Books,Novel,2,259,518,UPI
+c03c3182,2024-02-05 02:00:00,e098d4,Electronics,Laptop,2,341,682,Credit Card
+1c588bf4,2024-02-05 03:00:00,e15a0f,Clothing,Sofa,1,98,98,Cash
+dd64c638,2024-02-05 04:00:00,aa5ddc,Electronics,Novel,1,465,465,UPI
+8d42691c,2024-02-05 05:00:00,4cc3df,Books,T-Shirt,1,444,444,Credit Card
+a134ffc1,2024-02-05 06:00:00,62a73d,Electronics,Novel,1,150,150,Credit Card
+4d254911,2024-02-05 07:00:00,90a26b,Electronics,Sofa,1,19,19,Credit Card
+5c6c0473,2024-02-05 08:00:00,092c22,Clothing,Sofa,3,413,1239,Credit Card
+b7ea596a,2024-02-05 09:00:00,1d15a4,Home Decor,T-Shirt,2,179,358,UPI
+1bc0fe02,2024-02-05 10:00:00,6730ff,Clothing,T-Shirt,4,184,736,Credit Card
+6038ad2c,2024-02-05 11:00:00,17e1d4,Electronics,Laptop,4,200,800,Credit Card
+18fa55a8,2024-02-05 12:00:00,11e14c,Books,Sofa,4,295,1180,Cash
+2e8b764d,2024-02-05 13:00:00,f3a502,Electronics,Novel,2,466,932,Cash
+dc8524de,2024-02-05 14:00:00,658cee,Home Decor,Novel,1,236,236,Debit Card
+306af021,2024-02-05 15:00:00,8c6e13,Electronics,T-Shirt,1,415,415,Credit Card
+76f72dbe,2024-02-05 16:00:00,09aaef,Beauty,Sofa,2,210,420,UPI
+39d17c71,2024-02-05 17:00:00,e15d65,Clothing,Laptop,2,147,294,Credit Card
+3161aa5e,2024-02-05 18:00:00,99d9cc,Beauty,T-Shirt,4,418,1672,Credit Card
+c6c3aeef,2024-02-05 19:00:00,35c723,Home Decor,T-Shirt,2,63,126,Credit Card
+f12b2d4b,2024-02-05 20:00:00,fa3119,Books,Novel,2,131,262,Debit Card
+b0ed634f,2024-02-05 21:00:00,8588e6,Electronics,Novel,2,141,282,UPI
+2353ff03,2024-02-05 22:00:00,65d18b,Electronics,Lipstick,4,54,216,Credit Card
+806e07e7,2024-02-05 23:00:00,60c2f9,Home Decor,Lipstick,3,234,702,Credit Card
+38fcaa7e,2024-02-06 00:00:00,dcb83b,Clothing,Novel,3,173,519,Cash
+08de6bdb,2024-02-06 01:00:00,df0824,Books,T-Shirt,4,280,1120,Cash
+66ce9acd,2024-02-06 02:00:00,2556f7,Electronics,T-Shirt,2,50,100,Cash
+d0aea58c,2024-02-06 03:00:00,65f7e4,Electronics,Sofa,2,156,312,UPI
+e3f5fded,2024-02-06 04:00:00,d19cca,Beauty,T-Shirt,3,317,951,UPI
+976713bb,2024-02-06 05:00:00,1d15a4,Home Decor,Laptop,3,444,1332,Credit Card
+59d890ed,2024-02-06 06:00:00,360f57,Beauty,Laptop,1,289,289,Credit Card
+f541e7a6,2024-02-06 07:00:00,39f33c,Beauty,T-Shirt,4,400,1600,Cash
+ed46ccaf,2024-02-06 08:00:00,73d905,Beauty,Novel,4,215,860,Credit Card
+3e7a7da3,2024-02-06 09:00:00,ee00cf,Beauty,Lipstick,4,291,1164,Debit Card
+047a8e25,2024-02-06 10:00:00,d9a24a,Books,T-Shirt,1,10,10,Credit Card
+bc55752b,2024-02-06 11:00:00,aea03b,Electronics,Lipstick,3,492,1476,Cash
+95745212,2024-02-06 12:00:00,ad14a2,Beauty,Lipstick,3,414,1242,Credit Card
+36b59709,2024-02-06 13:00:00,5802d9,Clothing,Sofa,1,113,113,Credit Card
+4d9882a3,2024-02-06 14:00:00,e1b97f,Beauty,Lipstick,3,240,720,UPI
+7591a396,2024-02-06 15:00:00,bbfab4,Home Decor,Novel,2,303,606,Cash
+66ff73d1,2024-02-06 16:00:00,ddf97f,Clothing,Novel,3,282,846,Cash
+632436a9,2024-02-06 17:00:00,aea03b,Beauty,Novel,3,274,822,UPI
+4d79106e,2024-02-06 18:00:00,667c1a,Beauty,Lipstick,1,228,228,Credit Card
+b027620b,2024-02-06 19:00:00,d5fa58,Electronics,T-Shirt,1,61,61,Debit Card
+cca6b396,2024-02-06 20:00:00,a76950,Beauty,Laptop,2,245,490,UPI
+9087320f,2024-02-06 21:00:00,11027e,Home Decor,Laptop,2,130,260,Cash
+9bcd4bea,2024-02-06 22:00:00,e07b6d,Beauty,Sofa,2,478,956,Cash
+ea7fec73,2024-02-06 23:00:00,5b826e,Books,Laptop,1,358,358,Cash
+0ca7465d,2024-02-07 00:00:00,1513de,Electronics,Laptop,1,298,298,UPI
+6a89b413,2024-02-07 01:00:00,0db9a5,Beauty,T-Shirt,3,289,867,UPI
+668eed28,2024-02-07 02:00:00,bf128f,Electronics,Sofa,4,259,1036,UPI
+1a0f3ffe,2024-02-07 03:00:00,603fe0,Home Decor,Lipstick,4,30,120,Debit Card
+0f71c9b4,2024-02-07 04:00:00,60c2f9,Beauty,Laptop,1,259,259,Credit Card
+209a3a03,2024-02-07 05:00:00,686e35,Clothing,Novel,1,204,204,UPI
+109af3b4,2024-02-07 06:00:00,d59ff4,Beauty,T-Shirt,4,159,636,Credit Card
+12f02e17,2024-02-07 07:00:00,0db9a5,Books,Lipstick,1,388,388,Cash
+9beff4a3,2024-02-07 08:00:00,73fbf5,Clothing,Novel,2,469,938,Cash
+3cc49ea1,2024-02-07 09:00:00,e1b2b1,Clothing,Laptop,2,151,302,Cash
+c6c8c715,2024-02-07 10:00:00,9ba44c,Clothing,Novel,3,418,1254,UPI
+4795bb15,2024-02-07 11:00:00,24c8e5,Beauty,T-Shirt,1,113,113,Debit Card
+4f93031f,2024-02-07 12:00:00,99d9cc,Beauty,Sofa,3,176,528,Cash
+f5df6ffc,2024-02-07 13:00:00,db7bff,Books,Novel,2,87,174,UPI
+b204a1d8,2024-02-07 14:00:00,a29381,Home Decor,Laptop,2,195,390,UPI
+4dcd6cf9,2024-02-07 15:00:00,c91499,Electronics,Novel,2,306,612,Cash
+2c6f6b71,2024-02-07 16:00:00,1cf4fd,Beauty,T-Shirt,3,326,978,Debit Card
+a5fdb453,2024-02-07 17:00:00,2e7c73,Books,Novel,4,85,340,UPI
+59a55d27,2024-02-07 18:00:00,a89122,Home Decor,Lipstick,1,306,306,UPI
+b4507bc1,2024-02-07 19:00:00,fbf9a8,Clothing,Lipstick,1,276,276,UPI
+3f1292b2,2024-02-07 20:00:00,7df600,Books,Novel,4,264,1056,Debit Card
+96ae4a9c,2024-02-07 21:00:00,d14e0c,Clothing,Sofa,3,273,819,Debit Card
+11ea6731,2024-02-07 22:00:00,90d7c6,Electronics,Sofa,4,272,1088,Credit Card
+e51fd403,2024-02-07 23:00:00,a93bd0,Home Decor,Lipstick,4,145,580,Credit Card
+cbac4798,2024-02-08 00:00:00,1e903c,Home Decor,Laptop,1,61,61,Credit Card
+835855f4,2024-02-08 01:00:00,9e2389,Electronics,Laptop,4,380,1520,UPI
+80b2cde7,2024-02-08 02:00:00,a76950,Clothing,Lipstick,2,71,142,UPI
+c1a6ffd9,2024-02-08 03:00:00,1ad5da,Clothing,Novel,3,291,873,UPI
+99a79a63,2024-02-08 04:00:00,96c37e,Home Decor,Novel,4,375,1500,Debit Card
+cf658b8d,2024-02-08 05:00:00,d16086,Books,Novel,2,55,110,Credit Card
+12b7739c,2024-02-08 06:00:00,43f946,Electronics,Sofa,1,171,171,UPI
+0f4ad301,2024-02-08 07:00:00,9bd39e,Beauty,Laptop,2,343,686,Credit Card
+291b2377,2024-02-08 08:00:00,bf128f,Books,Novel,2,92,184,Debit Card
+5892a821,2024-02-08 09:00:00,689804,Books,Novel,3,272,816,Cash
+52254a81,2024-02-08 10:00:00,64ed02,Beauty,Lipstick,1,302,302,Credit Card
+5d2e9917,2024-02-08 11:00:00,9388bb,Electronics,T-Shirt,3,390,1170,Cash
+c587581d,2024-02-08 12:00:00,ffa0c3,Beauty,Lipstick,4,178,712,Debit Card
+fcce02d7,2024-02-08 13:00:00,51d319,Books,T-Shirt,1,225,225,UPI
+ba3374b4,2024-02-08 14:00:00,c984e3,Beauty,T-Shirt,1,466,466,Debit Card
+c2602475,2024-02-08 15:00:00,89b95c,Clothing,Sofa,4,321,1284,Debit Card
+b2baaf18,2024-02-08 16:00:00,c6bb91,Clothing,T-Shirt,4,356,1424,Debit Card
+763aea3a,2024-02-08 17:00:00,f4a7dd,Electronics,Novel,1,438,438,Credit Card
+98b5167c,2024-02-08 18:00:00,96c37e,Electronics,Lipstick,3,81,243,Cash
+11d944c2,2024-02-08 19:00:00,d36e00,Clothing,Novel,3,479,1437,Debit Card
+a2e4cbf0,2024-02-08 20:00:00,232afc,Clothing,Lipstick,2,96,192,Credit Card
+0cdf9e2c,2024-02-08 21:00:00,32699c,Books,Laptop,3,136,408,Credit Card
+4cda7e86,2024-02-08 22:00:00,ea3b0a,Home Decor,Lipstick,3,86,258,Credit Card
+60223d30,2024-02-08 23:00:00,9388bb,Home Decor,Laptop,4,17,68,Debit Card
+456b4158,2024-02-09 00:00:00,9c1e73,Electronics,Laptop,1,135,135,Cash
+fc17d8aa,2024-02-09 01:00:00,f5d634,Beauty,Sofa,4,35,140,Cash
+99548413,2024-02-09 02:00:00,575c46,Books,Laptop,4,438,1752,UPI
+b6f94935,2024-02-09 03:00:00,53afab,Electronics,Laptop,3,99,297,Debit Card
+96b8c43e,2024-02-09 04:00:00,fc25e7,Beauty,Sofa,3,222,666,Credit Card
+011149fe,2024-02-09 05:00:00,0b9e10,Beauty,Novel,4,474,1896,UPI
+13ebf055,2024-02-09 06:00:00,fe9e04,Books,Sofa,2,308,616,Debit Card
+5daa1b61,2024-02-09 07:00:00,ca68e4,Beauty,T-Shirt,3,316,948,UPI
+819ff004,2024-02-09 08:00:00,c0b07d,Clothing,Novel,4,290,1160,UPI
+4b9abe5d,2024-02-09 09:00:00,8ccac6,Electronics,Lipstick,3,321,963,Credit Card
+54416431,2024-02-09 10:00:00,2b9564,Beauty,Sofa,3,119,357,Credit Card
+2b9d28cc,2024-02-09 11:00:00,5652da,Home Decor,Sofa,4,320,1280,Debit Card
+149c5555,2024-02-09 12:00:00,5aa643,Books,Novel,4,89,356,Credit Card
+c7914ea8,2024-02-09 13:00:00,257e66,Beauty,T-Shirt,1,285,285,Credit Card
+ff8bbdd2,2024-02-09 14:00:00,88c997,Beauty,Sofa,3,45,135,Credit Card
+5929d26b,2024-02-09 15:00:00,5d31de,Beauty,T-Shirt,2,369,738,Credit Card
+bdbe6dff,2024-02-09 16:00:00,d72dc0,Clothing,T-Shirt,3,151,453,UPI
+dbc060df,2024-02-09 17:00:00,b77f0a,Clothing,Sofa,1,106,106,UPI
+bfdd38af,2024-02-09 18:00:00,32c04b,Home Decor,Sofa,4,475,1900,Credit Card
+dc4e7f5f,2024-02-09 19:00:00,683113,Beauty,Lipstick,2,442,884,Debit Card
+f6f45b5e,2024-02-09 20:00:00,61e522,Books,Lipstick,1,197,197,Cash
+e917c8a9,2024-02-09 21:00:00,95c81d,Home Decor,T-Shirt,4,467,1868,Cash
+8f52f1ef,2024-02-09 22:00:00,ec663d,Beauty,Sofa,2,27,54,Credit Card
+91f7892b,2024-02-09 23:00:00,499ab4,Beauty,Sofa,4,447,1788,UPI
+79e2c54b,2024-02-10 00:00:00,67f933,Home Decor,Sofa,4,349,1396,Cash
+42f4a75b,2024-02-10 01:00:00,a9b434,Clothing,T-Shirt,3,265,795,Debit Card
+364b9a28,2024-02-10 02:00:00,fe4026,Home Decor,Lipstick,4,333,1332,UPI
+c0a683bf,2024-02-10 03:00:00,a7156f,Clothing,Laptop,1,265,265,Debit Card
+817dc84a,2024-02-10 04:00:00,bea91a,Beauty,Sofa,3,64,192,Debit Card
+a1fbedde,2024-02-10 05:00:00,282154,Books,Sofa,1,464,464,Debit Card
+4f519d87,2024-02-10 06:00:00,6d2563,Books,Lipstick,3,57,171,Debit Card
+78b9fda5,2024-02-10 07:00:00,a9b582,Clothing,T-Shirt,4,360,1440,UPI
+9c43ed11,2024-02-10 08:00:00,aac587,Books,Sofa,3,115,345,UPI
+476dfad0,2024-02-10 09:00:00,b21113,Books,Sofa,2,217,434,Cash
+aeb5464d,2024-02-10 10:00:00,aac587,Electronics,T-Shirt,1,190,190,Credit Card
+a41e95d1,2024-02-10 11:00:00,62990d,Home Decor,Lipstick,4,308,1232,Cash
+6f35100e,2024-02-10 12:00:00,deba11,Home Decor,Lipstick,1,499,499,Cash
+97270f5a,2024-02-10 13:00:00,50cd47,Clothing,T-Shirt,1,76,76,UPI
+720c8a8d,2024-02-10 14:00:00,cc8604,Home Decor,Sofa,2,383,766,Cash
+05cd0f1a,2024-02-10 15:00:00,c0090b,Beauty,Sofa,1,200,200,UPI
+24ce5a58,2024-02-10 16:00:00,4627f4,Beauty,Novel,1,387,387,Credit Card
+cddd5b56,2024-02-10 17:00:00,9d7d39,Home Decor,T-Shirt,4,106,424,Cash
+510ff608,2024-02-10 18:00:00,e6bc5a,Electronics,Novel,4,28,112,Cash
+7fcdb99b,2024-02-10 19:00:00,4b51ec,Clothing,Sofa,4,488,1952,Cash
+4594945d,2024-02-10 20:00:00,da21ea,Books,Novel,1,298,298,Credit Card
+6761ca60,2024-02-10 21:00:00,68f3ee,Clothing,T-Shirt,1,472,472,UPI
+89f82394,2024-02-10 22:00:00,ac17d5,Books,Lipstick,2,406,812,Debit Card
+5afb6e8c,2024-02-10 23:00:00,7680b8,Books,Laptop,4,42,168,Credit Card
+b3a1fc3f,2024-02-11 00:00:00,92348e,Clothing,Sofa,3,254,762,UPI
+5bbcbaee,2024-02-11 01:00:00,b70eaa,Books,Lipstick,3,54,162,Cash
+83a91eba,2024-02-11 02:00:00,cb773f,Books,Novel,2,270,540,Credit Card
+af2b6fc8,2024-02-11 03:00:00,d5fa58,Home Decor,Sofa,3,218,654,Credit Card
+0bde5c78,2024-02-11 04:00:00,8761d7,Home Decor,T-Shirt,1,473,473,Cash
+f3934abd,2024-02-11 05:00:00,67f933,Beauty,T-Shirt,1,21,21,Credit Card
+45fc8a55,2024-02-11 06:00:00,c80b50,Home Decor,Laptop,1,313,313,Credit Card
+2a20b947,2024-02-11 07:00:00,bf128f,Beauty,Sofa,4,420,1680,Debit Card
+eee22118,2024-02-11 08:00:00,aaeb81,Electronics,T-Shirt,1,487,487,Credit Card
+41f9ad9d,2024-02-11 09:00:00,d538ec,Home Decor,T-Shirt,1,237,237,UPI
+e8684ba6,2024-02-11 10:00:00,3c6a35,Books,Lipstick,1,337,337,UPI
+7ece2697,2024-02-11 11:00:00,6474f7,Electronics,T-Shirt,3,162,486,Credit Card
+0b069f4d,2024-02-11 12:00:00,c91499,Books,T-Shirt,2,493,986,Debit Card
+eb30ec5a,2024-02-11 13:00:00,206687,Electronics,Laptop,1,170,170,Debit Card
+fd8fa95c,2024-02-11 14:00:00,3e520e,Books,Sofa,1,145,145,Credit Card
+6ea6bc15,2024-02-11 15:00:00,fde82f,Home Decor,Novel,4,115,460,Cash
+f315077a,2024-02-11 16:00:00,9c1e73,Beauty,Laptop,4,474,1896,Cash
+bd958d1c,2024-02-11 17:00:00,8ad450,Home Decor,Sofa,1,497,497,Cash
+ce14eee2,2024-02-11 18:00:00,c91499,Beauty,Lipstick,3,338,1014,Debit Card
+863135da,2024-02-11 19:00:00,26c89a,Home Decor,Laptop,2,25,50,Credit Card
+727fab86,2024-02-11 20:00:00,c54e01,Clothing,Sofa,4,190,760,Debit Card
+96944f01,2024-02-11 21:00:00,720ce3,Electronics,T-Shirt,1,48,48,Debit Card
+7124e452,2024-02-11 22:00:00,68cd22,Clothing,Lipstick,4,437,1748,UPI
+dfafc30c,2024-02-11 23:00:00,a9a2b0,Beauty,Lipstick,2,280,560,Cash
+d1526882,2024-02-12 00:00:00,03adb4,Books,Sofa,3,223,669,UPI
+6667024d,2024-02-12 01:00:00,c4d27b,Clothing,T-Shirt,3,60,180,Cash
+ebc0a7b5,2024-02-12 02:00:00,4b3ab7,Home Decor,Lipstick,1,200,200,Cash
+cf3d4844,2024-02-12 03:00:00,0b1953,Beauty,Sofa,1,63,63,Debit Card
+697e58ef,2024-02-12 04:00:00,813d4a,Beauty,T-Shirt,4,104,416,Debit Card
+fd6174e8,2024-02-12 05:00:00,eb354d,Beauty,Laptop,2,142,284,UPI
+134c861d,2024-02-12 06:00:00,9e382d,Books,T-Shirt,3,167,501,Credit Card
+ecc54826,2024-02-12 07:00:00,df0824,Electronics,Lipstick,1,259,259,Credit Card
+6c0bff4f,2024-02-12 08:00:00,cdaebd,Home Decor,Laptop,1,328,328,Credit Card
+6bee1c49,2024-02-12 09:00:00,0f572d,Books,T-Shirt,4,395,1580,Credit Card
+abfa5e28,2024-02-12 10:00:00,9bfc49,Electronics,Novel,3,377,1131,Credit Card
+563d24e4,2024-02-12 11:00:00,69a013,Home Decor,Sofa,2,394,788,Credit Card
+1b079b8a,2024-02-12 12:00:00,c47aa1,Electronics,T-Shirt,3,323,969,Credit Card
+f002c9a4,2024-02-12 13:00:00,1c5121,Home Decor,T-Shirt,2,475,950,Credit Card
+7883412d,2024-02-12 14:00:00,35ec56,Home Decor,Sofa,3,94,282,Debit Card
+15cb7ca0,2024-02-12 15:00:00,a76544,Books,Sofa,4,398,1592,UPI
+d98f2206,2024-02-12 16:00:00,729845,Books,Lipstick,2,88,176,UPI
+4ae5836c,2024-02-12 17:00:00,7831cb,Beauty,Laptop,2,46,92,Cash
+a24dc652,2024-02-12 18:00:00,8b072f,Electronics,Sofa,4,475,1900,Cash
+e07aafb4,2024-02-12 19:00:00,6ecf87,Home Decor,Laptop,3,462,1386,Cash
+c7b30572,2024-02-12 20:00:00,97ddc5,Beauty,Sofa,3,367,1101,Credit Card
+180ff60f,2024-02-12 21:00:00,001faa,Home Decor,T-Shirt,1,360,360,Debit Card
+2780b97e,2024-02-12 22:00:00,549a6d,Books,Novel,2,338,676,UPI
+f3b36cf4,2024-02-12 23:00:00,1af473,Electronics,Lipstick,4,252,1008,Cash
+da718475,2024-02-13 00:00:00,605ac5,Home Decor,Novel,1,203,203,Cash
+fe2a5a35,2024-02-13 01:00:00,cdfbac,Clothing,Sofa,3,350,1050,Debit Card
+60c6a2f3,2024-02-13 02:00:00,b92b74,Clothing,Laptop,1,367,367,Credit Card
+2fc5e9fd,2024-02-13 03:00:00,abc772,Clothing,Laptop,1,310,310,Debit Card
+50b9586b,2024-02-13 04:00:00,c516b1,Books,Novel,1,448,448,Debit Card
+78aa404b,2024-02-13 05:00:00,97707e,Beauty,Sofa,4,429,1716,UPI
+3855c4a5,2024-02-13 06:00:00,ef06ed,Beauty,T-Shirt,2,258,516,Credit Card
+3f44bb79,2024-02-13 07:00:00,51fbb2,Clothing,Laptop,3,213,639,Cash
+04b75903,2024-02-13 08:00:00,1f98e3,Electronics,T-Shirt,2,399,798,Debit Card
+25dfba72,2024-02-13 09:00:00,dadfc7,Home Decor,Sofa,1,229,229,Cash
+1270f213,2024-02-13 10:00:00,126ba9,Books,Novel,3,127,381,Credit Card
+f61b73d2,2024-02-13 11:00:00,92348e,Clothing,Lipstick,2,212,424,Cash
+dc45f877,2024-02-13 12:00:00,135dd1,Clothing,Sofa,4,32,128,UPI
+31c2f237,2024-02-13 13:00:00,d1e22d,Beauty,Lipstick,4,360,1440,Cash
+10f80766,2024-02-13 14:00:00,a453b1,Home Decor,Lipstick,1,242,242,Credit Card
+14e57d6c,2024-02-13 15:00:00,7f8f6e,Home Decor,T-Shirt,3,14,42,UPI
+563c351c,2024-02-13 16:00:00,60ea12,Electronics,T-Shirt,4,37,148,Cash
+3b205bcf,2024-02-13 17:00:00,cebc22,Beauty,Sofa,2,159,318,UPI
+ba85dbac,2024-02-13 18:00:00,7a76dc,Clothing,Novel,2,432,864,UPI
+ee02eafe,2024-02-13 19:00:00,914cae,Clothing,Laptop,3,344,1032,Cash
+5603b1a4,2024-02-13 20:00:00,6d82aa,Books,Laptop,2,457,914,Cash
+7a0588ca,2024-02-13 21:00:00,4b3ab7,Electronics,Lipstick,1,294,294,UPI
+490af316,2024-02-13 22:00:00,0f0a4a,Clothing,Sofa,4,14,56,Cash
+5bbd251e,2024-02-13 23:00:00,d80b1d,Clothing,Lipstick,2,290,580,Cash
+9b7719b5,2024-02-14 00:00:00,b25446,Books,Laptop,3,381,1143,Credit Card
+e7b65b8d,2024-02-14 01:00:00,003eb5,Electronics,T-Shirt,3,472,1416,Credit Card
+31162564,2024-02-14 02:00:00,f12f7c,Beauty,Novel,3,190,570,Credit Card
+4de52b28,2024-02-14 03:00:00,1dd7b1,Beauty,Lipstick,4,230,920,Debit Card
+8db5b134,2024-02-14 04:00:00,120b0f,Books,Novel,1,409,409,UPI
+efebb684,2024-02-14 05:00:00,cb66f8,Books,Novel,3,101,303,Debit Card
+3cb0ab36,2024-02-14 06:00:00,67e362,Clothing,Novel,1,288,288,Credit Card
+66773895,2024-02-14 07:00:00,5f7b2e,Beauty,Lipstick,3,308,924,Credit Card
+fe4422d6,2024-02-14 08:00:00,322b62,Clothing,Novel,4,445,1780,UPI
+016d4c9c,2024-02-14 09:00:00,ffa0c3,Electronics,Laptop,1,66,66,Debit Card
+342d2da3,2024-02-14 10:00:00,db7a6a,Books,T-Shirt,2,41,82,UPI
+cf6416ad,2024-02-14 11:00:00,47cda6,Home Decor,Novel,4,198,792,UPI
+5a14e8d0,2024-02-14 12:00:00,039139,Clothing,Sofa,4,67,268,Credit Card
+a419726d,2024-02-14 13:00:00,60c508,Electronics,T-Shirt,3,61,183,UPI
+6b72bea4,2024-02-14 14:00:00,40e96a,Home Decor,Lipstick,2,278,556,Debit Card
+e4950cf5,2024-02-14 15:00:00,00e1ff,Books,Sofa,1,120,120,UPI
+9bc701cd,2024-02-14 16:00:00,a93149,Home Decor,Laptop,4,313,1252,UPI
+958d8bcb,2024-02-14 17:00:00,827a0b,Clothing,Novel,4,485,1940,Credit Card
+3283ac9f,2024-02-14 18:00:00,a4ab91,Home Decor,T-Shirt,4,58,232,Credit Card
+269bb30c,2024-02-14 19:00:00,381cc6,Home Decor,Novel,1,91,91,UPI
+fe5f3326,2024-02-14 20:00:00,360f57,Home Decor,Sofa,4,497,1988,Credit Card
+c33bf59e,2024-02-14 21:00:00,686e35,Books,Laptop,1,25,25,Cash
+ed39b89a,2024-02-14 22:00:00,5964b7,Beauty,T-Shirt,1,284,284,Cash
+87d50559,2024-02-14 23:00:00,3c6a35,Beauty,Laptop,4,133,532,UPI
+c3154c81,2024-02-15 00:00:00,a453b1,Home Decor,T-Shirt,3,22,66,Cash
+62b78f39,2024-02-15 01:00:00,d000ed,Clothing,T-Shirt,2,117,234,Cash
+68a1f829,2024-02-15 02:00:00,d677d4,Clothing,Laptop,3,204,612,Credit Card
+d3704efa,2024-02-15 03:00:00,8c81e9,Beauty,Sofa,2,270,540,Credit Card
+f50b1c8b,2024-02-15 04:00:00,e9835a,Beauty,Laptop,1,336,336,Credit Card
+744c5b18,2024-02-15 05:00:00,b3a29e,Home Decor,Sofa,2,356,712,Credit Card
+8b4d278e,2024-02-15 06:00:00,959052,Clothing,T-Shirt,4,229,916,Cash
+f70a3ffb,2024-02-15 07:00:00,ff2f04,Home Decor,Laptop,1,225,225,Credit Card
+47dadbb9,2024-02-15 08:00:00,bcec57,Beauty,Novel,1,68,68,Credit Card
+735ab824,2024-02-15 09:00:00,622979,Home Decor,T-Shirt,4,364,1456,UPI
+45c694cc,2024-02-15 10:00:00,dc303e,Electronics,Lipstick,1,356,356,Cash
+7d23ddaf,2024-02-15 11:00:00,b48490,Books,Laptop,3,23,69,Cash
+2e7d738b,2024-02-15 12:00:00,3c4282,Beauty,Sofa,1,385,385,Credit Card
+47fb32cc,2024-02-15 13:00:00,532e11,Electronics,Sofa,1,341,341,Debit Card
+f868ae12,2024-02-15 14:00:00,a769ab,Clothing,Sofa,2,204,408,Debit Card
+dc95a504,2024-02-15 15:00:00,deabb3,Clothing,Sofa,3,444,1332,Debit Card
+9ea8b29d,2024-02-15 16:00:00,20c88e,Electronics,Lipstick,2,353,706,Cash
+0ccdb081,2024-02-15 17:00:00,8c81e9,Beauty,Laptop,3,416,1248,Credit Card
+9024651f,2024-02-15 18:00:00,3b936d,Home Decor,Lipstick,4,305,1220,Credit Card
+05bfdb09,2024-02-15 19:00:00,665ea1,Electronics,Lipstick,2,362,724,UPI
+b105c112,2024-02-15 20:00:00,a93149,Books,Sofa,1,434,434,UPI
+e94dc38d,2024-02-15 21:00:00,229428,Clothing,Sofa,4,234,936,Debit Card
+7f0736f6,2024-02-15 22:00:00,0d766b,Books,Novel,3,132,396,Credit Card
+1844794f,2024-02-15 23:00:00,36a9a4,Electronics,Sofa,2,381,762,Cash
+7466ef24,2024-02-16 00:00:00,232afc,Home Decor,T-Shirt,4,401,1604,Cash
+084ef9fb,2024-02-16 01:00:00,fd70c5,Electronics,T-Shirt,4,385,1540,Debit Card
+68ed3044,2024-02-16 02:00:00,3e9b3c,Clothing,Laptop,4,67,268,Cash
+74fe74cc,2024-02-16 03:00:00,c984e3,Electronics,Novel,4,42,168,Cash
+4d3521bb,2024-02-16 04:00:00,531de4,Home Decor,Sofa,4,421,1684,Credit Card
+eb35ebf5,2024-02-16 05:00:00,59df81,Electronics,Laptop,4,493,1972,Credit Card
+d62efaa6,2024-02-16 06:00:00,f9e9a1,Books,T-Shirt,2,109,218,UPI
+bd8bfdb8,2024-02-16 07:00:00,19ec52,Beauty,Sofa,3,391,1173,Credit Card
+5ca44860,2024-02-16 08:00:00,c54e01,Beauty,Novel,3,46,138,UPI
+5b47cdd0,2024-02-16 09:00:00,0ab6ce,Home Decor,Laptop,3,370,1110,UPI
+78446453,2024-02-16 10:00:00,2a7cd7,Electronics,T-Shirt,3,132,396,UPI
+57c4c66f,2024-02-16 11:00:00,cd1aeb,Books,T-Shirt,2,143,286,Debit Card
+81aee140,2024-02-16 12:00:00,9b1435,Beauty,Sofa,4,294,1176,UPI
+81432570,2024-02-16 13:00:00,541935,Books,Laptop,2,147,294,Debit Card
+348e3fc5,2024-02-16 14:00:00,11e14c,Books,Lipstick,3,249,747,UPI
+fb746fbc,2024-02-16 15:00:00,96c37e,Home Decor,Lipstick,1,148,148,Cash
+af06e027,2024-02-16 16:00:00,3301f1,Electronics,Sofa,3,320,960,UPI
+b8b7e1cb,2024-02-16 17:00:00,dff9e8,Electronics,Sofa,3,112,336,Debit Card
+3daa568f,2024-02-16 18:00:00,230813,Books,T-Shirt,1,233,233,Debit Card
+679d1830,2024-02-16 19:00:00,527fad,Beauty,Lipstick,4,277,1108,Debit Card
+10c2d45f,2024-02-16 20:00:00,8c376f,Clothing,T-Shirt,3,37,111,Cash
+7ac45753,2024-02-16 21:00:00,ae70df,Beauty,Laptop,3,451,1353,Credit Card
+0064c20b,2024-02-16 22:00:00,b25446,Electronics,Novel,2,159,318,UPI
+ec592f83,2024-02-16 23:00:00,31a237,Home Decor,Lipstick,3,30,90,Credit Card
+d229c31a,2024-02-17 00:00:00,6f4024,Beauty,Sofa,3,316,948,Credit Card
+0f636c32,2024-02-17 01:00:00,2797c4,Electronics,Lipstick,2,18,36,Credit Card
+1a3ac009,2024-02-17 02:00:00,21bbf9,Beauty,Laptop,2,366,732,Cash
+8d006356,2024-02-17 03:00:00,0db9a5,Electronics,Laptop,3,51,153,Credit Card
+7ce26428,2024-02-17 04:00:00,94c3c4,Home Decor,Lipstick,3,234,702,Debit Card
+95dbf451,2024-02-17 05:00:00,360f57,Books,Novel,1,352,352,Credit Card
+76c79e66,2024-02-17 06:00:00,61e522,Books,Sofa,1,386,386,Credit Card
+a496814f,2024-02-17 07:00:00,90d7c6,Books,Lipstick,4,378,1512,Debit Card
+07b48058,2024-02-17 08:00:00,8936ea,Home Decor,Laptop,4,20,80,Cash
+a6bfc492,2024-02-17 09:00:00,94c3c4,Books,T-Shirt,4,144,576,Cash
+41559d0f,2024-02-17 10:00:00,8588e6,Beauty,Novel,4,250,1000,Credit Card
+97ef5dd4,2024-02-17 11:00:00,3fe6f2,Books,Novel,1,342,342,Cash
+d300c6f6,2024-02-17 12:00:00,9de4c7,Books,Novel,3,300,900,UPI
+dc5e81fb,2024-02-17 13:00:00,c5df74,Home Decor,Lipstick,3,369,1107,Credit Card
+896d5427,2024-02-17 14:00:00,4f01a0,Electronics,Lipstick,4,309,1236,Debit Card
+ef90eabe,2024-02-17 15:00:00,351018,Beauty,Sofa,2,414,828,Credit Card
+9bcf1216,2024-02-17 16:00:00,9f5132,Electronics,Sofa,1,335,335,UPI
+72a0b92e,2024-02-17 17:00:00,c0090b,Books,Novel,4,328,1312,Debit Card
+4e1e9cca,2024-02-17 18:00:00,66ca62,Electronics,Novel,1,202,202,Credit Card
+d03913fb,2024-02-17 19:00:00,c5dfd5,Beauty,Sofa,4,44,176,Credit Card
+8e708cdc,2024-02-17 20:00:00,cdfbac,Electronics,Novel,1,305,305,Cash
+9b15f732,2024-02-17 21:00:00,60c508,Electronics,Novel,2,349,698,Credit Card
+9b533595,2024-02-17 22:00:00,fd70c5,Home Decor,Lipstick,4,343,1372,UPI
+cc4326cc,2024-02-17 23:00:00,18e5e1,Books,Sofa,3,129,387,UPI
+baa311f8,2024-02-18 00:00:00,4b117d,Beauty,Novel,3,248,744,Debit Card
+8005d37f,2024-02-18 01:00:00,1c5121,Books,Laptop,2,341,682,UPI
+18482bab,2024-02-18 02:00:00,003eb5,Home Decor,Novel,4,13,52,Debit Card
+58734807,2024-02-18 03:00:00,ee92a5,Clothing,T-Shirt,3,182,546,Credit Card
+a4d63c4c,2024-02-18 04:00:00,2e2faa,Electronics,Lipstick,4,298,1192,UPI
+d6105659,2024-02-18 05:00:00,8b8062,Electronics,Sofa,3,270,810,Cash
+136a9a7b,2024-02-18 06:00:00,b70eaa,Home Decor,Sofa,3,350,1050,Credit Card
+341021a5,2024-02-18 07:00:00,bbfab4,Beauty,Laptop,2,245,490,Debit Card
+acb3a73a,2024-02-18 08:00:00,0ab6ce,Electronics,Sofa,4,392,1568,UPI
+fadf8e34,2024-02-18 09:00:00,6f4024,Clothing,Lipstick,3,36,108,Credit Card
+77ace2ba,2024-02-18 10:00:00,9b8cee,Clothing,Lipstick,4,335,1340,Debit Card
+70e98748,2024-02-18 11:00:00,7ed96a,Clothing,T-Shirt,3,49,147,UPI
+0e4b8b9f,2024-02-18 12:00:00,8d0ef6,Clothing,Novel,1,400,400,Debit Card
+2e88b63e,2024-02-18 13:00:00,dc303e,Home Decor,T-Shirt,3,483,1449,Debit Card
+72642cf0,2024-02-18 14:00:00,0db9a5,Electronics,T-Shirt,2,251,502,Credit Card
+1a31eec8,2024-02-18 15:00:00,a0eb2a,Electronics,Sofa,3,487,1461,Credit Card
+f305b4cd,2024-02-18 16:00:00,a76544,Clothing,Sofa,4,380,1520,Debit Card
+e3b7a20c,2024-02-18 17:00:00,ceafe5,Beauty,Sofa,1,413,413,Credit Card
+81da7a64,2024-02-18 18:00:00,8b9634,Books,Novel,4,187,748,Credit Card
+5c9a9a28,2024-02-18 19:00:00,c516b1,Beauty,Laptop,4,332,1328,Credit Card
+d65b7221,2024-02-18 20:00:00,a5a354,Clothing,Laptop,4,153,612,Cash
+a689669c,2024-02-18 21:00:00,1dd7b1,Home Decor,T-Shirt,2,281,562,Credit Card
+8b85a4a7,2024-02-18 22:00:00,cf4974,Home Decor,Laptop,1,391,391,Credit Card
+373c6ddc,2024-02-18 23:00:00,e4b912,Books,Lipstick,2,136,272,Credit Card
+90f31a66,2024-02-19 00:00:00,2e2faa,Electronics,T-Shirt,3,384,1152,Debit Card
+27c2714b,2024-02-19 01:00:00,126ba9,Books,Sofa,4,292,1168,UPI
+63560ce9,2024-02-19 02:00:00,a29381,Books,T-Shirt,4,136,544,Credit Card
+0d5745d2,2024-02-19 03:00:00,b55e0e,Electronics,Sofa,3,420,1260,Debit Card
+f741a43d,2024-02-19 04:00:00,54d483,Clothing,Lipstick,3,123,369,Credit Card
+038563af,2024-02-19 05:00:00,f4a7dd,Electronics,Novel,4,231,924,Debit Card
+d7c3d2bc,2024-02-19 06:00:00,da21ea,Electronics,Sofa,1,112,112,Cash
+f16142dc,2024-02-19 07:00:00,a7156f,Beauty,Lipstick,4,95,380,UPI
+b186f8ef,2024-02-19 08:00:00,98fb8a,Beauty,Sofa,4,90,360,Credit Card
+df624a60,2024-02-19 09:00:00,7e3148,Electronics,Novel,2,308,616,Cash
+99bb614a,2024-02-19 10:00:00,667c1a,Beauty,Sofa,1,14,14,Cash
+6dcb9f36,2024-02-19 11:00:00,3f29cb,Beauty,Lipstick,2,106,212,Debit Card
+47bd8011,2024-02-19 12:00:00,c6ddcf,Home Decor,T-Shirt,2,217,434,UPI
+388ca28e,2024-02-19 13:00:00,8cb9b9,Home Decor,Sofa,1,418,418,Credit Card
+4d030731,2024-02-19 14:00:00,c5c830,Clothing,Novel,4,396,1584,Credit Card
+3a512601,2024-02-19 15:00:00,6d8a42,Home Decor,Lipstick,2,302,604,Cash
+baefdac6,2024-02-19 16:00:00,7df600,Home Decor,Novel,2,365,730,UPI
+30cc15fa,2024-02-19 17:00:00,69a013,Books,T-Shirt,2,466,932,Credit Card
+4f4ae130,2024-02-19 18:00:00,11027e,Home Decor,Novel,4,313,1252,Debit Card
+aa7ddace,2024-02-19 19:00:00,605ac5,Beauty,Laptop,1,173,173,Cash
+307b7398,2024-02-19 20:00:00,a7ef21,Clothing,T-Shirt,3,356,1068,Debit Card
+3ce5e720,2024-02-19 21:00:00,c0bbda,Electronics,Sofa,4,394,1576,Debit Card
+c6b6cf4d,2024-02-19 22:00:00,1897b1,Beauty,T-Shirt,4,193,772,Cash
+8c53f4f1,2024-02-19 23:00:00,7c9826,Electronics,Laptop,3,125,375,UPI
+f94cc8e7,2024-02-20 00:00:00,6a2856,Home Decor,Laptop,1,322,322,Debit Card
+0008fb4f,2024-02-20 01:00:00,60ac75,Books,T-Shirt,3,459,1377,Credit Card
+e81ce137,2024-02-20 02:00:00,fa3119,Clothing,Novel,3,432,1296,Cash
+bfca0fea,2024-02-20 03:00:00,888bce,Home Decor,Lipstick,4,274,1096,Debit Card
+fb265939,2024-02-20 04:00:00,1e2aca,Home Decor,T-Shirt,2,468,936,Cash
+ab86a9aa,2024-02-20 05:00:00,466388,Electronics,Sofa,4,123,492,Credit Card
+f20d95cd,2024-02-20 06:00:00,25853a,Electronics,Lipstick,3,255,765,UPI
+3b70b5de,2024-02-20 07:00:00,96a538,Clothing,Sofa,4,55,220,UPI
+fc26998b,2024-02-20 08:00:00,2c35b7,Beauty,Lipstick,3,207,621,Debit Card
+f7d6cab5,2024-02-20 09:00:00,09abde,Clothing,Sofa,3,189,567,Cash
+9e9b7ece,2024-02-20 10:00:00,903a0f,Beauty,Lipstick,1,161,161,Credit Card
+9f0c1acb,2024-02-20 11:00:00,973dac,Books,Laptop,4,387,1548,Debit Card
+3e4397d2,2024-02-20 12:00:00,f415cd,Home Decor,Novel,3,41,123,Credit Card
+a12ad408,2024-02-20 13:00:00,257e66,Electronics,Lipstick,1,285,285,Cash
+549e60ea,2024-02-20 14:00:00,a6f09a,Electronics,Novel,1,483,483,UPI
+7cf45621,2024-02-20 15:00:00,ac8724,Beauty,Sofa,4,96,384,Cash
+5f9b31b8,2024-02-20 16:00:00,a55c33,Books,Sofa,3,479,1437,Credit Card
+2b333852,2024-02-20 17:00:00,5cbaa7,Beauty,Lipstick,1,461,461,UPI
+7091c53a,2024-02-20 18:00:00,d1e22d,Electronics,T-Shirt,2,288,576,UPI
+c5c6c103,2024-02-20 19:00:00,0daf3e,Beauty,Sofa,3,327,981,Debit Card
+7a83a62f,2024-02-20 20:00:00,064398,Beauty,T-Shirt,4,14,56,Credit Card
+66e16c33,2024-02-20 21:00:00,c5dcf8,Electronics,Novel,4,269,1076,Debit Card
+205ae2aa,2024-02-20 22:00:00,18e5e1,Home Decor,Laptop,4,292,1168,Credit Card
+822a9298,2024-02-20 23:00:00,87142e,Home Decor,T-Shirt,2,16,32,UPI
+6cd75e7c,2024-02-21 00:00:00,381b4d,Home Decor,Lipstick,4,78,312,Cash
+7ef1eaef,2024-02-21 01:00:00,2b9564,Home Decor,T-Shirt,1,157,157,Debit Card
+be67aead,2024-02-21 02:00:00,169123,Electronics,Novel,1,418,418,UPI
+422b70b2,2024-02-21 03:00:00,464c90,Electronics,T-Shirt,1,200,200,Credit Card
+18adef9d,2024-02-21 04:00:00,0fb4bf,Beauty,Novel,4,343,1372,Credit Card
+7c1b00c2,2024-02-21 05:00:00,946502,Clothing,Lipstick,2,48,96,Debit Card
+591b06a6,2024-02-21 06:00:00,b6a9cf,Home Decor,Lipstick,1,207,207,Debit Card
+b82a6641,2024-02-21 07:00:00,fea76e,Beauty,Laptop,4,118,472,Credit Card
+167b9af7,2024-02-21 08:00:00,a9b434,Home Decor,Sofa,3,186,558,Cash
+9f095129,2024-02-21 09:00:00,5964b7,Books,T-Shirt,4,344,1376,Cash
+9f852ff9,2024-02-21 10:00:00,e3dbd3,Clothing,Laptop,2,458,916,Credit Card
+1b0ea6dd,2024-02-21 11:00:00,4cd602,Beauty,Sofa,3,33,99,Debit Card
+80a21326,2024-02-21 12:00:00,1f98e3,Clothing,Sofa,4,146,584,Cash
+43d7bbe7,2024-02-21 13:00:00,40e96a,Clothing,T-Shirt,4,331,1324,Debit Card
+1d416617,2024-02-21 14:00:00,32c04b,Books,Laptop,1,271,271,Debit Card
+ff40c194,2024-02-21 15:00:00,6adf7d,Clothing,Lipstick,1,95,95,UPI
+e1964b67,2024-02-21 16:00:00,a42663,Home Decor,Laptop,1,230,230,Credit Card
+b84ff818,2024-02-21 17:00:00,9f5492,Books,Laptop,2,151,302,Cash
+8669bce5,2024-02-21 18:00:00,40e96a,Clothing,Lipstick,1,162,162,UPI
+d677dc2b,2024-02-21 19:00:00,99d9cc,Books,Laptop,3,34,102,UPI
+9c0d1371,2024-02-21 20:00:00,7064f8,Beauty,Novel,1,150,150,UPI
+3564e6fb,2024-02-21 21:00:00,2abf6e,Beauty,Sofa,2,22,44,UPI
+23c8204d,2024-02-21 22:00:00,7e8063,Electronics,Sofa,3,219,657,Cash
+5d867438,2024-02-21 23:00:00,1af473,Home Decor,Novel,1,212,212,Cash
+d18cf47f,2024-02-22 00:00:00,e93673,Beauty,Novel,2,343,686,Credit Card
+5c7264c8,2024-02-22 01:00:00,d8c1d4,Books,Lipstick,4,374,1496,Debit Card
+34b4a000,2024-02-22 02:00:00,ff1ed3,Clothing,Laptop,1,435,435,Credit Card
+e2c53568,2024-02-22 03:00:00,93002d,Beauty,Lipstick,2,105,210,Credit Card
+1b4f30a7,2024-02-22 04:00:00,e540e0,Home Decor,Novel,2,82,164,Cash
+7c8cc40f,2024-02-22 05:00:00,8ad450,Books,Novel,4,455,1820,Debit Card
+b5e1cb70,2024-02-22 06:00:00,02e54e,Clothing,Laptop,2,35,70,Credit Card
+e726d479,2024-02-22 07:00:00,e855c4,Books,Sofa,2,490,980,Credit Card
+02c23b58,2024-02-22 08:00:00,a93149,Beauty,T-Shirt,3,123,369,Cash
+2c7e02ed,2024-02-22 09:00:00,9e2389,Electronics,Laptop,1,149,149,UPI
+f9b23fb3,2024-02-22 10:00:00,5ce5f2,Books,T-Shirt,4,344,1376,UPI
+d606e473,2024-02-22 11:00:00,b96fdb,Clothing,T-Shirt,1,442,442,Debit Card
+404f67f4,2024-02-22 12:00:00,537bd7,Beauty,Laptop,4,202,808,Debit Card
+eabace70,2024-02-22 13:00:00,eeed0d,Home Decor,Laptop,2,339,678,Cash
+e48f503a,2024-02-22 14:00:00,ed43c8,Electronics,Lipstick,3,22,66,Debit Card
+8e09c4e7,2024-02-22 15:00:00,0583d6,Electronics,Novel,1,57,57,Cash
+e18b73b6,2024-02-22 16:00:00,f0620d,Home Decor,Lipstick,1,436,436,Cash
+a7298dc8,2024-02-22 17:00:00,d60d66,Books,T-Shirt,1,393,393,Cash
+bb58bcd9,2024-02-22 18:00:00,2e40da,Books,Lipstick,4,120,480,Debit Card
+9cca27a7,2024-02-22 19:00:00,7f03a0,Electronics,Laptop,4,483,1932,Credit Card
+d63806fe,2024-02-22 20:00:00,a6f09a,Electronics,Laptop,2,208,416,UPI
+f9f08a24,2024-02-22 21:00:00,a4c166,Beauty,Novel,2,285,570,Credit Card
+b705d001,2024-02-22 22:00:00,a9b434,Clothing,T-Shirt,2,28,56,UPI
+27439367,2024-02-22 23:00:00,cd1aeb,Electronics,Novel,4,173,692,Debit Card
+5364e868,2024-02-23 00:00:00,66ca62,Electronics,Novel,4,166,664,Debit Card
+26bdbdd5,2024-02-23 01:00:00,fea76e,Beauty,T-Shirt,2,453,906,Debit Card
+b430a4bc,2024-02-23 02:00:00,ff187f,Home Decor,T-Shirt,3,228,684,Debit Card
+3c6c64d5,2024-02-23 03:00:00,40987f,Electronics,Novel,3,409,1227,Credit Card
+1e3e352a,2024-02-23 04:00:00,36a9a4,Books,Laptop,2,142,284,UPI
+bb93f4fb,2024-02-23 05:00:00,c87119,Clothing,Lipstick,3,436,1308,Credit Card
+b29426ce,2024-02-23 06:00:00,466388,Electronics,Lipstick,4,438,1752,Cash
+194bd559,2024-02-23 07:00:00,d36e00,Clothing,Novel,3,324,972,UPI
+0613244f,2024-02-23 08:00:00,3f7dec,Beauty,Novel,3,77,231,UPI
+a46c16be,2024-02-23 09:00:00,3977f6,Clothing,Sofa,4,376,1504,Cash
+c3879ee9,2024-02-23 10:00:00,0a694c,Electronics,T-Shirt,1,152,152,Cash
+7f99d05c,2024-02-23 11:00:00,3418ea,Beauty,Lipstick,2,384,768,Cash
+234bfc52,2024-02-23 12:00:00,f7a4d1,Clothing,Sofa,1,100,100,Debit Card
+56b35118,2024-02-23 13:00:00,f53fbf,Clothing,Laptop,2,150,300,Debit Card
+40319c18,2024-02-23 14:00:00,ee00cf,Books,Lipstick,4,98,392,Debit Card
+9e37ce62,2024-02-23 15:00:00,d1bc18,Electronics,Sofa,2,496,992,Debit Card
+fe94e7d7,2024-02-23 16:00:00,689804,Electronics,Laptop,1,188,188,Cash
+d0a824f4,2024-02-23 17:00:00,e32768,Home Decor,Novel,2,58,116,Cash
+d0565bf3,2024-02-23 18:00:00,b77f0a,Electronics,Laptop,2,420,840,Cash
+802f2db4,2024-02-23 19:00:00,d000ed,Electronics,Laptop,4,425,1700,Cash
+d81fed2d,2024-02-23 20:00:00,ffdb80,Books,Laptop,4,239,956,Debit Card
+6928fbaa,2024-02-23 21:00:00,1897b1,Books,T-Shirt,3,357,1071,Cash
+2ed0878f,2024-02-23 22:00:00,bcec57,Clothing,Novel,4,207,828,Credit Card
+60e30ed8,2024-02-23 23:00:00,40987f,Clothing,Laptop,4,308,1232,Debit Card
+b46a85d2,2024-02-24 00:00:00,1e566b,Books,Laptop,1,261,261,Cash
+34f04801,2024-02-24 01:00:00,79e648,Home Decor,T-Shirt,1,227,227,Credit Card
+d936fdd7,2024-02-24 02:00:00,9ba44c,Clothing,Novel,2,60,120,Cash
+3683448a,2024-02-24 03:00:00,ad4f17,Beauty,Novel,2,380,760,Cash
+750a2d49,2024-02-24 04:00:00,2216f1,Clothing,Novel,4,305,1220,UPI
+f665382f,2024-02-24 05:00:00,ac54e7,Electronics,Sofa,4,45,180,Cash
+8e58e663,2024-02-24 06:00:00,9f5132,Clothing,T-Shirt,1,414,414,Cash
+a38a45ec,2024-02-24 07:00:00,485a36,Home Decor,Lipstick,2,219,438,Credit Card
+1b5f0f80,2024-02-24 08:00:00,180dac,Clothing,Novel,1,35,35,Debit Card
+320531e6,2024-02-24 09:00:00,184306,Beauty,T-Shirt,3,491,1473,UPI
+2fa7e2da,2024-02-24 10:00:00,e26ec3,Clothing,T-Shirt,1,329,329,Debit Card
+26fb8cbc,2024-02-24 11:00:00,60d951,Beauty,Sofa,3,42,126,UPI
+81054bdb,2024-02-24 12:00:00,9df3ae,Home Decor,Lipstick,1,389,389,Debit Card
+dd142f8a,2024-02-24 13:00:00,3f29cb,Home Decor,Lipstick,2,462,924,UPI
+7bac0079,2024-02-24 14:00:00,bb2360,Beauty,Lipstick,3,373,1119,Credit Card
+b09be5c8,2024-02-24 15:00:00,0fb4bf,Books,Laptop,2,368,736,Credit Card
+b948d617,2024-02-24 16:00:00,436ca6,Home Decor,T-Shirt,3,456,1368,Debit Card
+0c799ccd,2024-02-24 17:00:00,d8c1d4,Electronics,Novel,2,88,176,Cash
+7ba5f7f7,2024-02-24 18:00:00,c223ce,Books,Laptop,4,110,440,Cash
+e2ca4b14,2024-02-24 19:00:00,7680b8,Books,Lipstick,3,473,1419,Credit Card
+47c3ba6f,2024-02-24 20:00:00,cb4ba5,Books,Lipstick,4,362,1448,Cash
+4aa69f2a,2024-02-24 21:00:00,1cd16d,Clothing,Novel,4,25,100,UPI
+946258da,2024-02-24 22:00:00,9a1148,Electronics,T-Shirt,1,499,499,UPI
+a95a89a1,2024-02-24 23:00:00,9b70eb,Books,Laptop,2,184,368,Cash
+a3a2e4e5,2024-02-25 00:00:00,95c81d,Clothing,Novel,2,50,100,UPI
+8e9ec06b,2024-02-25 01:00:00,b08fef,Home Decor,Novel,2,433,866,Credit Card
+aeb9d7f9,2024-02-25 02:00:00,0a16fe,Clothing,Sofa,2,346,692,Credit Card
+ff4627f7,2024-02-25 03:00:00,d83b36,Books,T-Shirt,2,98,196,Debit Card
+0b48df1e,2024-02-25 04:00:00,c8fecf,Home Decor,Sofa,4,386,1544,Credit Card
+863c9aeb,2024-02-25 05:00:00,f12f7c,Beauty,Novel,4,447,1788,Credit Card
+a5cba87c,2024-02-25 06:00:00,be03b6,Home Decor,Lipstick,2,449,898,Cash
+f813fad6,2024-02-25 07:00:00,184306,Clothing,Novel,1,115,115,Credit Card
+fd7fdb8f,2024-02-25 08:00:00,9b8cee,Clothing,Lipstick,3,190,570,UPI
+5fdef7a8,2024-02-25 09:00:00,09abde,Clothing,Laptop,3,247,741,Credit Card
+fe065108,2024-02-25 10:00:00,63a7f4,Books,T-Shirt,3,86,258,Credit Card
+cc2ce31b,2024-02-25 11:00:00,1933b9,Books,Lipstick,2,106,212,Credit Card
+476a6b49,2024-02-25 12:00:00,231443,Books,Novel,3,407,1221,UPI
+b7bc143f,2024-02-25 13:00:00,6d8a42,Beauty,T-Shirt,2,165,330,UPI
+29cce78b,2024-02-25 14:00:00,2e7c73,Clothing,Sofa,2,62,124,Cash
+add4ca95,2024-02-25 15:00:00,1c1279,Books,Laptop,3,123,369,Cash
+bb7e6aa7,2024-02-25 16:00:00,184306,Electronics,Sofa,2,428,856,UPI
+f3adc995,2024-02-25 17:00:00,74031c,Electronics,Novel,3,43,129,Credit Card
+1568e6d2,2024-02-25 18:00:00,b719f1,Home Decor,Lipstick,2,199,398,Cash
+ac7f537b,2024-02-25 19:00:00,b6dfe6,Books,T-Shirt,4,71,284,Debit Card
+83cb19d8,2024-02-25 20:00:00,21bb3c,Electronics,Novel,1,247,247,UPI
+b118a891,2024-02-25 21:00:00,71536a,Clothing,Lipstick,2,201,402,Cash
+7776cd7b,2024-02-25 22:00:00,bceb75,Clothing,Lipstick,4,229,916,Credit Card
+1d875999,2024-02-25 23:00:00,99cce5,Clothing,Lipstick,1,338,338,Credit Card
+6033e04b,2024-02-26 00:00:00,f7dd1f,Books,T-Shirt,1,211,211,Debit Card
+d9c9ae78,2024-02-26 01:00:00,0fc9e3,Beauty,Novel,3,381,1143,UPI
+c3e36119,2024-02-26 02:00:00,bae1dd,Beauty,Novel,2,280,560,Cash
+e22dc0ed,2024-02-26 03:00:00,f59c2a,Electronics,T-Shirt,1,495,495,Credit Card
+e7bfd01c,2024-02-26 04:00:00,f5d634,Electronics,T-Shirt,1,93,93,Debit Card
+5ac6e8a1,2024-02-26 05:00:00,1b2cd5,Beauty,Novel,1,301,301,Credit Card
+331e8f82,2024-02-26 06:00:00,61e522,Clothing,Laptop,2,51,102,Debit Card
+e2a1ad03,2024-02-26 07:00:00,83e133,Books,Novel,2,249,498,Credit Card
+ddd92dde,2024-02-26 08:00:00,c8fecf,Home Decor,Novel,2,38,76,Credit Card
+0d20a2bb,2024-02-26 09:00:00,dccb9e,Beauty,Laptop,1,450,450,Debit Card
+ab6c97b1,2024-02-26 10:00:00,0ae342,Electronics,Lipstick,4,190,760,Debit Card
+4709fee3,2024-02-26 11:00:00,3e96e7,Beauty,Sofa,3,441,1323,UPI
+4b5291f6,2024-02-26 12:00:00,3e7683,Clothing,Sofa,1,161,161,Debit Card
+73481c98,2024-02-26 13:00:00,43bf8b,Clothing,Lipstick,4,459,1836,Credit Card
+b7d76cd1,2024-02-26 14:00:00,3f4a3e,Books,Laptop,3,43,129,Cash
+5f452320,2024-02-26 15:00:00,61ef35,Beauty,Lipstick,4,14,56,Debit Card
+6bb35a97,2024-02-26 16:00:00,5a355b,Books,T-Shirt,1,274,274,UPI
+8ef387a6,2024-02-26 17:00:00,5cbaa7,Home Decor,Sofa,2,78,156,UPI
+1e5cc860,2024-02-26 18:00:00,4b51ec,Electronics,Lipstick,1,243,243,UPI
+a7c7ab58,2024-02-26 19:00:00,446290,Electronics,Sofa,2,179,358,Credit Card
+ca930d07,2024-02-26 20:00:00,3977f6,Beauty,T-Shirt,1,41,41,UPI
+e1c7cdcf,2024-02-26 21:00:00,b36a69,Books,Novel,2,485,970,Debit Card
+a687faa2,2024-02-26 22:00:00,1d15a4,Beauty,T-Shirt,4,284,1136,Cash
+9bb54b59,2024-02-26 23:00:00,1ae409,Beauty,Laptop,1,306,306,UPI
+f4158630,2024-02-27 00:00:00,2aecc3,Beauty,T-Shirt,2,461,922,Debit Card
+122a4ba0,2024-02-27 01:00:00,50cd47,Home Decor,Laptop,1,169,169,Debit Card
+f755da49,2024-02-27 02:00:00,59fe4a,Beauty,Lipstick,4,499,1996,Debit Card
+7cf42dc8,2024-02-27 03:00:00,e69c2c,Beauty,Lipstick,2,391,782,UPI
+c8c8c77b,2024-02-27 04:00:00,5a355b,Books,Laptop,2,429,858,UPI
+0d64a56b,2024-02-27 05:00:00,fa5b82,Beauty,Laptop,1,446,446,Debit Card
+89d2b04a,2024-02-27 06:00:00,1897b1,Home Decor,Laptop,3,359,1077,Cash
+7aec507f,2024-02-27 07:00:00,d80b1d,Electronics,Sofa,4,382,1528,Cash
+a90bd41f,2024-02-27 08:00:00,a12678,Home Decor,Sofa,2,381,762,Debit Card
+fb47598f,2024-02-27 09:00:00,df0824,Books,Lipstick,4,317,1268,Debit Card
+bdbcc957,2024-02-27 10:00:00,a658a4,Beauty,T-Shirt,4,268,1072,Cash
+2f77d5c7,2024-02-27 11:00:00,1bc128,Clothing,Novel,2,373,746,Cash
+f957d4b7,2024-02-27 12:00:00,de5c05,Home Decor,Lipstick,4,458,1832,UPI
+e0c6ed52,2024-02-27 13:00:00,6b8fb7,Home Decor,Lipstick,2,400,800,UPI
+67084918,2024-02-27 14:00:00,a82434,Books,Novel,2,186,372,Debit Card
+62c8ad08,2024-02-27 15:00:00,ad4f17,Electronics,T-Shirt,3,52,156,UPI
+5963b3c5,2024-02-27 16:00:00,9f3c10,Electronics,Novel,1,57,57,Cash
+b6274c2b,2024-02-27 17:00:00,03adb4,Beauty,Lipstick,1,84,84,Debit Card
+eb5e40ef,2024-02-27 18:00:00,246cc6,Clothing,Lipstick,4,124,496,Debit Card
+f6cea9a1,2024-02-27 19:00:00,1e903c,Beauty,Laptop,4,227,908,Debit Card
+f34bf89f,2024-02-27 20:00:00,61e522,Books,Lipstick,3,499,1497,UPI
+bc5a8186,2024-02-27 21:00:00,282154,Books,Novel,3,444,1332,Debit Card
+b59c3e40,2024-02-27 22:00:00,11027e,Books,Sofa,4,281,1124,UPI
+d82d6b6a,2024-02-27 23:00:00,4ef533,Clothing,Novel,3,420,1260,Cash
+645c19c7,2024-02-28 00:00:00,51f9e6,Clothing,Lipstick,4,463,1852,Cash
+f71fb90f,2024-02-28 01:00:00,7e3148,Beauty,Lipstick,1,353,353,Debit Card
+3c9c332e,2024-02-28 02:00:00,32699c,Books,Lipstick,2,42,84,UPI
+ac363048,2024-02-28 03:00:00,0ab6ce,Clothing,Lipstick,4,52,208,Credit Card
+26815d16,2024-02-28 04:00:00,e7a15f,Beauty,Lipstick,4,27,108,Credit Card
+48a9c516,2024-02-28 05:00:00,720ce3,Clothing,T-Shirt,2,307,614,Credit Card
+ed2e6412,2024-02-28 06:00:00,e50fd0,Home Decor,Novel,2,499,998,Credit Card
+8a5b930e,2024-02-28 07:00:00,1cd0c0,Books,Novel,1,195,195,Debit Card
+928fc6d6,2024-02-28 08:00:00,7888ee,Home Decor,T-Shirt,3,314,942,Debit Card
+224bd022,2024-02-28 09:00:00,1d5e7c,Clothing,Sofa,4,200,800,UPI
+a8a9e5a9,2024-02-28 10:00:00,512f82,Electronics,T-Shirt,3,122,366,Debit Card
+1c1c7bf8,2024-02-28 11:00:00,6776ac,Home Decor,T-Shirt,1,228,228,UPI
+93a2f44a,2024-02-28 12:00:00,1f98e3,Home Decor,Laptop,4,130,520,Cash
+930ba496,2024-02-28 13:00:00,6d82aa,Home Decor,Sofa,3,53,159,Cash
+e056991c,2024-02-28 14:00:00,26b6c9,Books,Lipstick,1,173,173,Cash
+839e77bf,2024-02-28 15:00:00,e098d4,Beauty,T-Shirt,3,27,81,UPI
+93e760f1,2024-02-28 16:00:00,37e5d4,Home Decor,Sofa,4,482,1928,UPI
+a8d15681,2024-02-28 17:00:00,20f79d,Clothing,Sofa,2,66,132,UPI
+5e149d9f,2024-02-28 18:00:00,c0090b,Books,Novel,2,299,598,Cash
+6a393f4b,2024-02-28 19:00:00,2aecc3,Clothing,Laptop,1,279,279,UPI
+81b45463,2024-02-28 20:00:00,ac17d5,Books,Sofa,4,312,1248,UPI
+2b464d11,2024-02-28 21:00:00,9d1b18,Electronics,T-Shirt,2,283,566,Cash
+f0f4667d,2024-02-28 22:00:00,d9e3eb,Home Decor,Novel,2,316,632,Cash
+d5c96019,2024-02-28 23:00:00,0daf3e,Beauty,Laptop,3,307,921,Debit Card
+74815a6c,2024-02-29 00:00:00,8e6541,Home Decor,T-Shirt,1,291,291,Cash
+27718861,2024-02-29 01:00:00,d60d66,Home Decor,T-Shirt,1,13,13,Debit Card
+a7f35325,2024-02-29 02:00:00,3d5794,Home Decor,Sofa,1,314,314,UPI
+d24be5ef,2024-02-29 03:00:00,26b6c9,Electronics,Lipstick,2,441,882,UPI
+ab545c06,2024-02-29 04:00:00,d538ec,Clothing,Novel,3,378,1134,Debit Card
+5ed43b75,2024-02-29 05:00:00,cb773f,Home Decor,Sofa,1,177,177,Credit Card
+aadf60f6,2024-02-29 06:00:00,83cdef,Home Decor,Lipstick,1,229,229,Credit Card
+da1a6c27,2024-02-29 07:00:00,96c37e,Home Decor,T-Shirt,4,88,352,Debit Card
+799f809f,2024-02-29 08:00:00,a89122,Beauty,Lipstick,4,488,1952,Cash
+9b2873da,2024-02-29 09:00:00,d9e3eb,Beauty,Laptop,2,64,128,UPI
+597cf20f,2024-02-29 10:00:00,d19cca,Beauty,Novel,2,57,114,UPI
+03a21ddd,2024-02-29 11:00:00,f7ce1f,Electronics,Lipstick,2,40,80,Debit Card
+81f0e4b0,2024-02-29 12:00:00,e50fd0,Electronics,Laptop,1,329,329,UPI
+8d524ca7,2024-02-29 13:00:00,f5d634,Books,Novel,3,153,459,Cash
+f9819f8a,2024-02-29 14:00:00,90d7c6,Beauty,Lipstick,2,210,420,Debit Card
+3f0ec9b2,2024-02-29 15:00:00,09abde,Home Decor,Novel,2,241,482,UPI
+43dd7323,2024-02-29 16:00:00,09f096,Home Decor,T-Shirt,3,355,1065,Credit Card
+ee076f38,2024-02-29 17:00:00,df03df,Electronics,Laptop,3,129,387,Debit Card
+c7f28ca1,2024-02-29 18:00:00,17e1d4,Home Decor,Sofa,1,364,364,Cash
+d9387f41,2024-02-29 19:00:00,bb2360,Clothing,Laptop,1,117,117,Cash
+e45ac316,2024-02-29 20:00:00,97ddc5,Clothing,Novel,1,249,249,Cash
+6185f64e,2024-02-29 21:00:00,2aecc3,Home Decor,Sofa,2,489,978,Cash
+91cdba0a,2024-02-29 22:00:00,9ddbe1,Home Decor,Lipstick,1,457,457,Credit Card
+80859266,2024-02-29 23:00:00,bffec4,Home Decor,Lipstick,4,210,840,UPI
+932232b7,2024-03-01 00:00:00,567ab3,Electronics,Lipstick,3,368,1104,UPI
+7a11ac69,2024-03-01 01:00:00,65f7e4,Beauty,Sofa,3,393,1179,Cash
+3d846c65,2024-03-01 02:00:00,e540e0,Clothing,Sofa,1,25,25,Credit Card
+c7883b01,2024-03-01 03:00:00,d72dc0,Beauty,Sofa,3,53,159,Cash
+d41f034e,2024-03-01 04:00:00,57345f,Clothing,Lipstick,3,76,228,Cash
+d492b8bd,2024-03-01 05:00:00,5aa643,Clothing,Sofa,3,272,816,UPI
+d8956d5c,2024-03-01 06:00:00,1e8504,Books,T-Shirt,1,377,377,Debit Card
+7f01f56d,2024-03-01 07:00:00,bd36a2,Books,Sofa,1,469,469,Debit Card
+bfdc28db,2024-03-01 08:00:00,a883b9,Home Decor,Novel,1,43,43,Debit Card
+ec1bced6,2024-03-01 09:00:00,21bbf9,Electronics,Lipstick,1,405,405,Cash
+5ece906a,2024-03-01 10:00:00,e7a15f,Electronics,Lipstick,4,277,1108,Debit Card
+df434da9,2024-03-01 11:00:00,ecfd8e,Clothing,Sofa,1,361,361,Debit Card
+38e73b9e,2024-03-01 12:00:00,a0f224,Books,Laptop,2,338,676,UPI
+e8dd4748,2024-03-01 13:00:00,bdb07f,Home Decor,Sofa,3,423,1269,Debit Card
+4ecba600,2024-03-01 14:00:00,452506,Home Decor,Laptop,3,265,795,UPI
+3aea93f7,2024-03-01 15:00:00,aac587,Electronics,Novel,2,188,376,Credit Card
+3857cfad,2024-03-01 16:00:00,2a9411,Books,Laptop,2,181,362,Debit Card
+927b4ee3,2024-03-01 17:00:00,6d82aa,Books,Sofa,1,65,65,UPI
+b74cae45,2024-03-01 18:00:00,d4165a,Home Decor,Novel,1,286,286,UPI
+a7854b1b,2024-03-01 19:00:00,2c0034,Home Decor,Lipstick,3,266,798,Cash
+63bfaaec,2024-03-01 20:00:00,de5c05,Clothing,Lipstick,2,377,754,Cash
+6b2a7ea8,2024-03-01 21:00:00,dd9a01,Electronics,Lipstick,2,459,918,Cash
+b31950eb,2024-03-01 22:00:00,5ce5f2,Books,Novel,1,260,260,Cash
+296e7a70,2024-03-01 23:00:00,d36e00,Beauty,Sofa,3,14,42,UPI
+30b3d715,2024-03-02 00:00:00,7fa91b,Beauty,Laptop,2,338,676,Debit Card
+a78d430b,2024-03-02 01:00:00,658cee,Electronics,Lipstick,2,334,668,UPI
+56a272e9,2024-03-02 02:00:00,af8a35,Books,Laptop,2,350,700,Credit Card
+446f4091,2024-03-02 03:00:00,1be281,Beauty,Sofa,4,294,1176,Debit Card
+2effd4dd,2024-03-02 04:00:00,169123,Clothing,Novel,4,414,1656,Cash
+3cbead83,2024-03-02 05:00:00,0cfc2b,Clothing,Laptop,4,10,40,Debit Card
+5b358443,2024-03-02 06:00:00,4b3ab7,Electronics,Lipstick,4,45,180,Debit Card
+b156ece8,2024-03-02 07:00:00,5964b7,Clothing,Novel,3,78,234,Cash
+d915b583,2024-03-02 08:00:00,3e9b3c,Clothing,Novel,4,462,1848,UPI
+60247b3b,2024-03-02 09:00:00,fb048f,Electronics,Laptop,2,237,474,UPI
+8b02512f,2024-03-02 10:00:00,d538ec,Books,Sofa,2,22,44,Debit Card
+70dfd9b2,2024-03-02 11:00:00,d9e3eb,Clothing,Sofa,2,64,128,Credit Card
+56d25e8b,2024-03-02 12:00:00,11e14c,Beauty,Sofa,3,483,1449,Debit Card
+c4da5abe,2024-03-02 13:00:00,39e917,Electronics,Laptop,4,424,1696,Debit Card
+41d90ff9,2024-03-02 14:00:00,a9b582,Clothing,T-Shirt,2,196,392,Debit Card
+1854adff,2024-03-02 15:00:00,85ae39,Books,Laptop,3,79,237,UPI
+61a53be0,2024-03-02 16:00:00,8cb9b9,Electronics,Laptop,4,13,52,Cash
+86949b54,2024-03-02 17:00:00,e3dbd3,Beauty,Laptop,2,357,714,Debit Card
+025fa4f1,2024-03-02 18:00:00,9d1b18,Clothing,Laptop,3,309,927,Cash
+7f7452af,2024-03-02 19:00:00,bbfab4,Home Decor,Sofa,4,189,756,Credit Card
+34635286,2024-03-02 20:00:00,ddf97f,Beauty,Novel,2,303,606,Debit Card
+5c03a21e,2024-03-02 21:00:00,a42663,Electronics,Novel,2,238,476,Credit Card
+2b1f404e,2024-03-02 22:00:00,630ccf,Home Decor,Novel,2,412,824,Debit Card
+a4f5b7ad,2024-03-02 23:00:00,74031c,Clothing,T-Shirt,4,99,396,Credit Card
+4d20db7c,2024-03-03 00:00:00,727709,Electronics,Novel,3,41,123,Credit Card
+fb18cec3,2024-03-03 01:00:00,9d7d39,Books,Sofa,3,88,264,UPI
+e11d262b,2024-03-03 02:00:00,43bf8b,Home Decor,Lipstick,1,450,450,UPI
+5bbf09c5,2024-03-03 03:00:00,e6bc5a,Clothing,Sofa,2,271,542,Credit Card
+337334e5,2024-03-03 04:00:00,843c81,Beauty,Novel,4,403,1612,UPI
+ea74e2f8,2024-03-03 05:00:00,3f7dec,Electronics,T-Shirt,2,96,192,Credit Card
+2fd7c932,2024-03-03 06:00:00,499ab4,Electronics,Sofa,4,350,1400,UPI
+11193ba9,2024-03-03 07:00:00,1e2aca,Home Decor,T-Shirt,3,124,372,Cash
+05513c6a,2024-03-03 08:00:00,689804,Electronics,T-Shirt,1,175,175,UPI
+0411aceb,2024-03-03 09:00:00,ef93a4,Books,Laptop,4,143,572,UPI
+b718a209,2024-03-03 10:00:00,afe135,Electronics,Laptop,4,107,428,Credit Card
+792466df,2024-03-03 11:00:00,499ab4,Beauty,Lipstick,3,428,1284,Cash
+a229c541,2024-03-03 12:00:00,8b9634,Beauty,Novel,2,164,328,Credit Card
+5789865d,2024-03-03 13:00:00,d8c1d4,Electronics,Lipstick,3,155,465,Debit Card
+981d0a0b,2024-03-03 14:00:00,36e794,Electronics,Sofa,4,227,908,Cash
+1c04d410,2024-03-03 15:00:00,75428d,Clothing,Laptop,2,428,856,Cash
+5780ade9,2024-03-03 16:00:00,667c1a,Electronics,Laptop,4,377,1508,Cash
+3a37979e,2024-03-03 17:00:00,6bdb4a,Electronics,T-Shirt,4,58,232,Debit Card
+1fc54c47,2024-03-03 18:00:00,f310a8,Electronics,Lipstick,2,314,628,Cash
+123c4cd5,2024-03-03 19:00:00,e32768,Clothing,T-Shirt,4,384,1536,Debit Card
+e4d71692,2024-03-03 20:00:00,4b5844,Electronics,T-Shirt,3,135,405,Credit Card
+318473f2,2024-03-03 21:00:00,9a1148,Home Decor,Sofa,4,85,340,Cash
+9bdda20a,2024-03-03 22:00:00,5cbaa7,Home Decor,Novel,3,29,87,Credit Card
+f8f22c70,2024-03-03 23:00:00,08561f,Home Decor,Novel,3,320,960,UPI
+75e2c064,2024-03-04 00:00:00,a47564,Home Decor,Lipstick,3,361,1083,Credit Card
+f6e9f038,2024-03-04 01:00:00,9d4cce,Home Decor,T-Shirt,2,358,716,Credit Card
+c42fe344,2024-03-04 02:00:00,37228a,Clothing,Lipstick,4,494,1976,UPI
+cc2a9f41,2024-03-04 03:00:00,25853a,Electronics,Laptop,1,14,14,UPI
+1ebdf3c2,2024-03-04 04:00:00,10ce2b,Books,Sofa,3,466,1398,Credit Card
+dc7e6f2f,2024-03-04 05:00:00,aac587,Books,Lipstick,2,281,562,Debit Card
+69d2aabf,2024-03-04 06:00:00,e093b6,Electronics,T-Shirt,1,449,449,Credit Card
+3c2cf3eb,2024-03-04 07:00:00,fa4271,Electronics,Laptop,3,234,702,Credit Card
+2dd298d2,2024-03-04 08:00:00,aabeea,Beauty,T-Shirt,1,318,318,Debit Card
+75e07883,2024-03-04 09:00:00,2a7cd7,Electronics,Novel,1,106,106,UPI
+36f09dde,2024-03-04 10:00:00,6b81a8,Clothing,Laptop,3,13,39,UPI
+25e9d375,2024-03-04 11:00:00,6a6079,Clothing,Novel,1,99,99,Credit Card
+1df5d4d0,2024-03-04 12:00:00,79562f,Home Decor,Novel,2,318,636,Credit Card
+c2d89fa7,2024-03-04 13:00:00,1718ff,Beauty,Novel,4,70,280,UPI
+0d1c90b3,2024-03-04 14:00:00,9758c0,Clothing,T-Shirt,2,168,336,Debit Card
+1b7d9159,2024-03-04 15:00:00,642d5e,Beauty,Lipstick,3,472,1416,Cash
+8a18c02f,2024-03-04 16:00:00,cc9ba0,Books,Lipstick,1,78,78,UPI
+ca4a3dee,2024-03-04 17:00:00,83e133,Electronics,T-Shirt,3,62,186,Debit Card
+5bbc6fd4,2024-03-04 18:00:00,6474f7,Beauty,Sofa,4,220,880,Debit Card
+a4c2a8db,2024-03-04 19:00:00,a658a4,Clothing,Lipstick,4,297,1188,Credit Card
+25e73ce8,2024-03-04 20:00:00,7f03a0,Home Decor,Laptop,1,15,15,Debit Card
+05c3a7e0,2024-03-04 21:00:00,8761d7,Electronics,Laptop,1,353,353,UPI
+fe98c5a0,2024-03-04 22:00:00,9e2389,Beauty,T-Shirt,1,211,211,Debit Card
+c995617d,2024-03-04 23:00:00,9c1061,Clothing,Sofa,4,478,1912,Cash
+9bf6ffe2,2024-03-05 00:00:00,13e8e2,Electronics,Novel,4,212,848,Cash
+a82a7118,2024-03-05 01:00:00,092c22,Clothing,T-Shirt,4,188,752,UPI
+294fcab4,2024-03-05 02:00:00,2556f7,Home Decor,T-Shirt,3,276,828,Cash
+0b50f2e1,2024-03-05 03:00:00,a40a26,Home Decor,Sofa,3,58,174,Cash
+468adc8b,2024-03-05 04:00:00,985c9f,Books,Novel,4,157,628,Cash
+39905ce7,2024-03-05 05:00:00,e60281,Home Decor,Lipstick,1,144,144,Credit Card
+6a49d47a,2024-03-05 06:00:00,7e8063,Electronics,T-Shirt,4,179,716,Credit Card
+7cc81d52,2024-03-05 07:00:00,9de4c7,Home Decor,Lipstick,4,97,388,Cash
+948f6cc5,2024-03-05 08:00:00,200248,Books,T-Shirt,1,170,170,Cash
+b7c46663,2024-03-05 09:00:00,e0053e,Books,Laptop,2,186,372,Cash
+aec3df24,2024-03-05 10:00:00,36a9a4,Electronics,Sofa,1,136,136,Credit Card
+cd8cc9e9,2024-03-05 11:00:00,628f76,Clothing,Lipstick,4,473,1892,Credit Card
+a49588dc,2024-03-05 12:00:00,7c817c,Home Decor,T-Shirt,1,478,478,UPI
+f2e1e30e,2024-03-05 13:00:00,6b81a8,Electronics,Lipstick,4,112,448,Debit Card
+604d3591,2024-03-05 14:00:00,50f690,Home Decor,T-Shirt,4,109,436,UPI
+381c489b,2024-03-05 15:00:00,e6bc5a,Clothing,T-Shirt,3,218,654,Debit Card
+ffb7b9a2,2024-03-05 16:00:00,16a09f,Books,Sofa,1,440,440,Cash
+ed2763e5,2024-03-05 17:00:00,9d1b18,Clothing,Novel,2,230,460,Cash
+8e2a8d5e,2024-03-05 18:00:00,bfadaf,Home Decor,Novel,1,156,156,UPI
+d64ccd3f,2024-03-05 19:00:00,dd1d33,Home Decor,Lipstick,2,496,992,UPI
+1f04d6a8,2024-03-05 20:00:00,7064f8,Home Decor,Novel,1,14,14,Debit Card
+00a660ef,2024-03-05 21:00:00,fc3922,Home Decor,Novel,1,255,255,Credit Card
+0eb0302f,2024-03-05 22:00:00,bdb07f,Electronics,T-Shirt,4,246,984,Debit Card
+799d1676,2024-03-05 23:00:00,1e566b,Beauty,Sofa,4,244,976,Debit Card
+64614ba8,2024-03-06 00:00:00,66acf0,Electronics,Sofa,1,223,223,Cash
+ce250585,2024-03-06 01:00:00,7df600,Home Decor,Sofa,3,175,525,Cash
+5c21fd8e,2024-03-06 02:00:00,73f0cc,Electronics,Sofa,3,257,771,Debit Card
+8a5be058,2024-03-06 03:00:00,b6dfe6,Clothing,T-Shirt,3,357,1071,Cash
+6bdccea0,2024-03-06 04:00:00,2bb631,Beauty,Sofa,4,228,912,Cash
+66c8e97e,2024-03-06 05:00:00,d80b1d,Books,Laptop,1,457,457,Cash
+92426935,2024-03-06 06:00:00,fe4026,Electronics,Novel,4,20,80,Credit Card
+aa847f4e,2024-03-06 07:00:00,54fab6,Books,Sofa,4,273,1092,Credit Card
+999baf0b,2024-03-06 08:00:00,50e071,Home Decor,Sofa,1,132,132,Cash
+a84acd95,2024-03-06 09:00:00,9bd39e,Home Decor,Novel,2,46,92,UPI
+fe6404b2,2024-03-06 10:00:00,27fcdf,Home Decor,Laptop,4,247,988,UPI
+96c0ce39,2024-03-06 11:00:00,532e11,Beauty,Novel,2,289,578,Debit Card
+a681f7ce,2024-03-06 12:00:00,4a8434,Electronics,T-Shirt,2,344,688,Cash
+8036c2ab,2024-03-06 13:00:00,a12678,Books,T-Shirt,3,67,201,UPI
+d658b603,2024-03-06 14:00:00,9353e8,Books,Laptop,1,445,445,Credit Card
+aa12842e,2024-03-06 15:00:00,e6e784,Beauty,T-Shirt,3,188,564,Credit Card
+85686e09,2024-03-06 16:00:00,11e14c,Home Decor,T-Shirt,2,392,784,Cash
+962d8c6f,2024-03-06 17:00:00,959b14,Clothing,Novel,2,113,226,Credit Card
+117048be,2024-03-06 18:00:00,a6b61d,Electronics,Novel,3,35,105,Debit Card
+91dfc2ad,2024-03-06 19:00:00,cd1aeb,Books,Novel,3,397,1191,Credit Card
+dd18cd79,2024-03-06 20:00:00,ab7452,Home Decor,T-Shirt,1,283,283,Cash
+ec00dbba,2024-03-06 21:00:00,b25446,Books,Lipstick,3,362,1086,UPI
+ce986080,2024-03-06 22:00:00,b78ecd,Beauty,Sofa,1,369,369,Debit Card
+bbf82217,2024-03-06 23:00:00,9bd39e,Clothing,T-Shirt,1,421,421,Debit Card
+f073efd7,2024-03-07 00:00:00,98fb8a,Home Decor,T-Shirt,3,354,1062,UPI
+253aa0d1,2024-03-07 01:00:00,bd36a2,Electronics,Lipstick,2,301,602,Credit Card
+fbb7c9aa,2024-03-07 02:00:00,389383,Books,Sofa,4,276,1104,Debit Card
+bb1e125e,2024-03-07 03:00:00,af8a35,Books,Novel,2,285,570,UPI
+f7c81f6d,2024-03-07 04:00:00,775de5,Clothing,Novel,4,197,788,Cash
+c143dcde,2024-03-07 05:00:00,6474f7,Home Decor,T-Shirt,3,219,657,UPI
+01332203,2024-03-07 06:00:00,1933b9,Home Decor,Lipstick,3,252,756,UPI
+27568815,2024-03-07 07:00:00,184306,Home Decor,Sofa,1,204,204,Cash
+7a9eb887,2024-03-07 08:00:00,f7dcee,Beauty,Laptop,3,330,990,Cash
+b3f60b1b,2024-03-07 09:00:00,5f7b2e,Electronics,Novel,1,343,343,Credit Card
+741b29df,2024-03-07 10:00:00,381cc6,Home Decor,Novel,4,395,1580,Cash
+4cccad30,2024-03-07 11:00:00,a6b61d,Electronics,Lipstick,1,144,144,Cash
+b42e2914,2024-03-07 12:00:00,97707e,Beauty,Laptop,2,446,892,UPI
+80b47455,2024-03-07 13:00:00,d5fa58,Home Decor,Sofa,2,153,306,Cash
+ae815d79,2024-03-07 14:00:00,603fe0,Electronics,Sofa,1,406,406,Cash
+595deebf,2024-03-07 15:00:00,9e05c6,Clothing,Laptop,2,367,734,UPI
+409d7354,2024-03-07 16:00:00,a47564,Electronics,Sofa,3,251,753,UPI
+87b836a8,2024-03-07 17:00:00,de5c05,Books,Sofa,3,226,678,Debit Card
+d4657ad4,2024-03-07 18:00:00,322b62,Books,Lipstick,3,129,387,UPI
+ce8f6556,2024-03-07 19:00:00,11027e,Home Decor,T-Shirt,3,440,1320,Debit Card
+b84e6b20,2024-03-07 20:00:00,c6bb91,Electronics,Lipstick,1,126,126,Credit Card
+0b7be815,2024-03-07 21:00:00,656752,Clothing,Sofa,2,173,346,Credit Card
+0aec6aa2,2024-03-07 22:00:00,c0f584,Clothing,Sofa,2,69,138,Cash
+f8885a5e,2024-03-07 23:00:00,636007,Books,Sofa,3,289,867,Credit Card
+6b8ebe97,2024-03-08 00:00:00,fbc727,Electronics,Sofa,3,370,1110,Credit Card
+d439b9d7,2024-03-08 01:00:00,ee00cf,Clothing,T-Shirt,3,339,1017,Cash
+965b9fb3,2024-03-08 02:00:00,940c3d,Home Decor,Laptop,2,67,134,Debit Card
+8ab5a38b,2024-03-08 03:00:00,db7bff,Clothing,Novel,3,276,828,Cash
+672ada47,2024-03-08 04:00:00,1e566b,Beauty,Sofa,3,151,453,Debit Card
+a061710d,2024-03-08 05:00:00,9d106b,Home Decor,T-Shirt,3,387,1161,UPI
+608e0bf3,2024-03-08 06:00:00,7eef43,Home Decor,Laptop,4,44,176,UPI
+dca03f92,2024-03-08 07:00:00,6860f0,Beauty,Laptop,3,207,621,Debit Card
+ba11a31d,2024-03-08 08:00:00,76c8fb,Books,Sofa,2,481,962,Debit Card
+d7cd245d,2024-03-08 09:00:00,ecfd8e,Clothing,T-Shirt,3,490,1470,Debit Card
+14975fbf,2024-03-08 10:00:00,ca68e4,Books,Lipstick,4,90,360,UPI
+ecaaa242,2024-03-08 11:00:00,9bd481,Clothing,Sofa,2,44,88,Debit Card
+6c26a0c3,2024-03-08 12:00:00,4e1657,Clothing,Sofa,3,288,864,Cash
+ae388723,2024-03-08 13:00:00,79e648,Electronics,Sofa,4,242,968,Credit Card
+41b43343,2024-03-08 14:00:00,08a16f,Clothing,T-Shirt,2,394,788,Debit Card
+e7888261,2024-03-08 15:00:00,cb2083,Beauty,T-Shirt,3,319,957,Credit Card
+b839adbb,2024-03-08 16:00:00,ce061d,Beauty,Sofa,1,286,286,Cash
+c4f4109a,2024-03-08 17:00:00,4b51ec,Home Decor,Sofa,2,270,540,UPI
+4383029d,2024-03-08 18:00:00,389383,Home Decor,T-Shirt,4,229,916,Debit Card
+3e3d89ee,2024-03-08 19:00:00,6a2856,Beauty,Sofa,3,80,240,UPI
+4cf8f94d,2024-03-08 20:00:00,26031c,Beauty,Lipstick,4,55,220,Debit Card
+dc05a282,2024-03-08 21:00:00,35af9d,Books,Sofa,3,23,69,UPI
+58c13c4d,2024-03-08 22:00:00,3b936d,Beauty,Laptop,1,259,259,UPI
+758f1d2e,2024-03-08 23:00:00,aea03b,Books,Sofa,3,201,603,UPI
+0455c097,2024-03-09 00:00:00,60d951,Electronics,T-Shirt,3,178,534,UPI
+8efc5ff3,2024-03-09 01:00:00,8af74d,Electronics,T-Shirt,3,78,234,Cash
+df9901f7,2024-03-09 02:00:00,cb773f,Beauty,Laptop,2,117,234,Credit Card
+5beb0662,2024-03-09 03:00:00,32c04b,Home Decor,Sofa,2,306,612,UPI
+879e4aa2,2024-03-09 04:00:00,32927d,Electronics,Laptop,2,164,328,UPI
+6d7480d4,2024-03-09 05:00:00,61e522,Home Decor,Novel,1,206,206,Debit Card
+bcd6fd69,2024-03-09 06:00:00,79e648,Clothing,Lipstick,2,383,766,UPI
+5f1e3d2e,2024-03-09 07:00:00,a0eb2a,Electronics,Lipstick,1,228,228,Cash
+2850c84d,2024-03-09 08:00:00,7c9790,Books,Lipstick,2,410,820,Credit Card
+ed5d55c1,2024-03-09 09:00:00,058198,Home Decor,Laptop,2,395,790,Credit Card
+3826c313,2024-03-09 10:00:00,2a6646,Books,Novel,4,153,612,UPI
+34e59f7f,2024-03-09 11:00:00,df5cf3,Home Decor,Laptop,4,66,264,Debit Card
+efee8d28,2024-03-09 12:00:00,92f42e,Home Decor,Novel,2,432,864,UPI
+0181c1b7,2024-03-09 13:00:00,9a1148,Electronics,Novel,4,52,208,Credit Card
+313e3549,2024-03-09 14:00:00,9ba44c,Books,Novel,2,210,420,Debit Card
+7fa45709,2024-03-09 15:00:00,658cee,Home Decor,Novel,4,82,328,Debit Card
+3572e33d,2024-03-09 16:00:00,63dc2a,Home Decor,Lipstick,4,499,1996,Debit Card
+5a19456a,2024-03-09 17:00:00,585151,Clothing,Novel,2,60,120,Credit Card
+d6c44263,2024-03-09 18:00:00,3230b4,Clothing,Laptop,2,489,978,UPI
+56b4fb0c,2024-03-09 19:00:00,a40a26,Beauty,Sofa,2,422,844,Debit Card
+6a2d2e6d,2024-03-09 20:00:00,5538a3,Books,Sofa,1,286,286,Credit Card
+980d10ae,2024-03-09 21:00:00,c690cb,Books,T-Shirt,4,345,1380,Debit Card
+97b61850,2024-03-09 22:00:00,cebc22,Electronics,T-Shirt,3,166,498,Cash
+0d4e1d32,2024-03-09 23:00:00,d40b64,Beauty,Laptop,4,126,504,Cash
+3af85868,2024-03-10 00:00:00,d07df3,Books,T-Shirt,3,380,1140,Cash
+cf890d1d,2024-03-10 01:00:00,48d760,Home Decor,Sofa,2,426,852,Cash
+a9b7b4e5,2024-03-10 02:00:00,41b60a,Home Decor,Lipstick,4,331,1324,Debit Card
+251377a3,2024-03-10 03:00:00,60d951,Books,Sofa,1,426,426,Debit Card
+8251791c,2024-03-10 04:00:00,ef941e,Beauty,Laptop,2,175,350,UPI
+17bfc669,2024-03-10 05:00:00,791f39,Clothing,Sofa,4,128,512,Credit Card
+bf666cdc,2024-03-10 06:00:00,9388bb,Beauty,Sofa,4,316,1264,UPI
+9363075c,2024-03-10 07:00:00,0a694c,Electronics,Laptop,1,154,154,Debit Card
+b87920f6,2024-03-10 08:00:00,531de4,Electronics,Sofa,1,59,59,Debit Card
+9d01c4f2,2024-03-10 09:00:00,eb6746,Beauty,Novel,2,415,830,Debit Card
+54c376b0,2024-03-10 10:00:00,4fcc8a,Books,Novel,3,308,924,Debit Card
+49f1daee,2024-03-10 11:00:00,452346,Home Decor,T-Shirt,1,465,465,UPI
+1b6110ed,2024-03-10 12:00:00,d07df3,Home Decor,T-Shirt,3,180,540,Credit Card
+49fdaba1,2024-03-10 13:00:00,1efff5,Beauty,Novel,1,456,456,UPI
+d98104c8,2024-03-10 14:00:00,74e34e,Home Decor,Novel,4,466,1864,Debit Card
+5cb81794,2024-03-10 15:00:00,4b3ab7,Electronics,Novel,1,269,269,UPI
+008c8b32,2024-03-10 16:00:00,4b3ab7,Home Decor,Novel,1,409,409,Credit Card
+7f0a8d3a,2024-03-10 17:00:00,55721d,Electronics,Sofa,1,481,481,UPI
+94ed0b85,2024-03-10 18:00:00,20c88e,Electronics,Novel,3,354,1062,Debit Card
+eed7d96d,2024-03-10 19:00:00,fde82f,Clothing,Lipstick,4,477,1908,Debit Card
+3d97acff,2024-03-10 20:00:00,d10352,Books,T-Shirt,3,495,1485,UPI
+9f3cc8d1,2024-03-10 21:00:00,df03df,Electronics,Novel,2,302,604,Cash
+7a2e3ea1,2024-03-10 22:00:00,09aaef,Beauty,Sofa,2,50,100,Credit Card
+fe46915f,2024-03-10 23:00:00,8eb823,Books,T-Shirt,3,477,1431,Credit Card
+2bc082a9,2024-03-11 00:00:00,1e2aca,Electronics,Lipstick,4,67,268,UPI
+2d6fc797,2024-03-11 01:00:00,ee92a5,Books,Sofa,4,469,1876,UPI
+048f0ae1,2024-03-11 02:00:00,339a50,Home Decor,Lipstick,1,401,401,Debit Card
+b139f4d0,2024-03-11 03:00:00,a38696,Home Decor,Laptop,1,208,208,Debit Card
+ebf0ceff,2024-03-11 04:00:00,335482,Clothing,T-Shirt,2,47,94,Cash
+1e338136,2024-03-11 05:00:00,d673c7,Home Decor,Sofa,1,168,168,Credit Card
+01d4ac82,2024-03-11 06:00:00,ea5046,Clothing,Laptop,1,67,67,Credit Card
+5b147e2e,2024-03-11 07:00:00,9a67bd,Beauty,Sofa,4,306,1224,Cash
+5cbeb492,2024-03-11 08:00:00,8cb9b9,Books,T-Shirt,2,232,464,UPI
+3302d057,2024-03-11 09:00:00,9bfc49,Clothing,T-Shirt,3,87,261,Credit Card
+4926015e,2024-03-11 10:00:00,a883b9,Home Decor,T-Shirt,3,297,891,Debit Card
+403648ef,2024-03-11 11:00:00,53afab,Beauty,T-Shirt,4,393,1572,Credit Card
+7c7629ef,2024-03-11 12:00:00,7270dd,Electronics,Sofa,3,158,474,Debit Card
+dd45df2e,2024-03-11 13:00:00,a1ac40,Home Decor,Novel,4,401,1604,Cash
+097331fb,2024-03-11 14:00:00,917c1b,Clothing,Novel,2,119,238,Cash
+25c36c95,2024-03-11 15:00:00,1beced,Beauty,Lipstick,3,270,810,Debit Card
+25923a86,2024-03-11 16:00:00,00b49a,Electronics,Novel,4,121,484,UPI
+f7854d90,2024-03-11 17:00:00,e50fd0,Home Decor,Laptop,3,95,285,Credit Card
+3e94bf16,2024-03-11 18:00:00,d3b955,Electronics,Sofa,2,317,634,Debit Card
+3073dfa2,2024-03-11 19:00:00,b92b74,Home Decor,Novel,1,24,24,Credit Card
+73b47ad5,2024-03-11 20:00:00,31a545,Books,Sofa,4,239,956,Credit Card
+d66fd5fd,2024-03-11 21:00:00,5e2217,Clothing,Laptop,4,210,840,UPI
+acdb4d99,2024-03-11 22:00:00,31f38a,Home Decor,Laptop,2,184,368,Credit Card
+0c2484c6,2024-03-11 23:00:00,1af473,Beauty,Laptop,3,202,606,Debit Card
+69568110,2024-03-12 00:00:00,0d28a1,Clothing,Novel,1,321,321,Cash
+b3e4c103,2024-03-12 01:00:00,5ac382,Clothing,Laptop,1,315,315,Credit Card
+c2be9cfc,2024-03-12 02:00:00,c5c830,Home Decor,Novel,2,471,942,Debit Card
+f6e31a17,2024-03-12 03:00:00,37f14f,Electronics,Laptop,2,270,540,Credit Card
+175a0a34,2024-03-12 04:00:00,a9a2b0,Home Decor,T-Shirt,2,232,464,Credit Card
+012027a8,2024-03-12 05:00:00,56a8d9,Home Decor,Lipstick,4,322,1288,Cash
+49a9484a,2024-03-12 06:00:00,335482,Books,Novel,1,448,448,Cash
+a79765d1,2024-03-12 07:00:00,9f2660,Beauty,Laptop,3,368,1104,Debit Card
+1aa1009d,2024-03-12 08:00:00,14d85a,Beauty,T-Shirt,2,437,874,UPI
+0e442cf6,2024-03-12 09:00:00,68cd22,Clothing,T-Shirt,4,316,1264,Debit Card
+3a1f95f5,2024-03-12 10:00:00,622979,Home Decor,Sofa,4,158,632,Debit Card
+a9e1a456,2024-03-12 11:00:00,d3d467,Home Decor,Laptop,4,435,1740,Debit Card
+30919810,2024-03-12 12:00:00,60c508,Clothing,Sofa,4,142,568,UPI
+e1824658,2024-03-12 13:00:00,b8e59b,Home Decor,Lipstick,4,21,84,Credit Card
+ae0d1a3a,2024-03-12 14:00:00,f7dcee,Home Decor,Sofa,1,351,351,Cash
+cc1c9ad1,2024-03-12 15:00:00,3977f6,Electronics,Sofa,4,94,376,Cash
+bd158644,2024-03-12 16:00:00,22f1a7,Beauty,Novel,4,261,1044,Cash
+653a7a71,2024-03-12 17:00:00,ca68e4,Clothing,Sofa,2,191,382,Cash
+95ddcc31,2024-03-12 18:00:00,9388bb,Books,Sofa,1,191,191,Credit Card
+ecb18f06,2024-03-12 19:00:00,a43eea,Home Decor,Sofa,1,280,280,Debit Card
+a1cf81f5,2024-03-12 20:00:00,08d3e4,Beauty,Novel,1,403,403,Cash
+5e9b7a69,2024-03-12 21:00:00,7c6499,Clothing,T-Shirt,1,483,483,UPI
+0bb064b0,2024-03-12 22:00:00,66ca62,Home Decor,Laptop,2,468,936,Cash
+dc5b4ef2,2024-03-12 23:00:00,08d3e4,Electronics,Sofa,1,328,328,Cash
+c7a37810,2024-03-13 00:00:00,43949d,Beauty,Novel,4,459,1836,Credit Card
+d2d6d5ab,2024-03-13 01:00:00,96ff57,Clothing,Novel,2,499,998,Credit Card
+5c83746f,2024-03-13 02:00:00,c5c830,Electronics,T-Shirt,2,386,772,Cash
+c3769ee2,2024-03-13 03:00:00,ef1539,Beauty,Lipstick,2,495,990,Credit Card
+eda44adb,2024-03-13 04:00:00,54579a,Clothing,Novel,3,362,1086,UPI
+71ab8f0f,2024-03-13 05:00:00,580dca,Clothing,Sofa,4,401,1604,Credit Card
+c0cf713d,2024-03-13 06:00:00,9b70eb,Beauty,Novel,1,494,494,Credit Card
+83b3b9cc,2024-03-13 07:00:00,ddf118,Beauty,T-Shirt,2,117,234,UPI
+65ba836a,2024-03-13 08:00:00,51f9e6,Beauty,T-Shirt,1,436,436,Cash
+d795b1f5,2024-03-13 09:00:00,36864d,Electronics,Sofa,2,390,780,UPI
+f08983b7,2024-03-13 10:00:00,62a73d,Home Decor,Sofa,1,250,250,Credit Card
+2bd6bd31,2024-03-13 11:00:00,e9ef6b,Home Decor,Laptop,4,419,1676,Credit Card
+4dbd283d,2024-03-13 12:00:00,d538ec,Clothing,Laptop,1,318,318,Credit Card
+3f5b15b8,2024-03-13 13:00:00,df5cf3,Books,Sofa,2,131,262,UPI
+e6de2790,2024-03-13 14:00:00,3d3774,Clothing,Sofa,3,426,1278,UPI
+48f9ddbf,2024-03-13 15:00:00,e26ec3,Clothing,T-Shirt,4,311,1244,Credit Card
+70114ea3,2024-03-13 16:00:00,a6b61d,Beauty,Sofa,2,255,510,Credit Card
+cc5552ea,2024-03-13 17:00:00,e15d65,Electronics,Laptop,4,446,1784,Credit Card
+8e85c986,2024-03-13 18:00:00,3b936d,Home Decor,Novel,2,292,584,Credit Card
+609b4f0a,2024-03-13 19:00:00,a453b1,Books,Lipstick,1,67,67,UPI
+b93dcba8,2024-03-13 20:00:00,e32768,Electronics,Sofa,3,353,1059,UPI
+3fcfa589,2024-03-13 21:00:00,9e05c6,Beauty,Laptop,2,264,528,Credit Card
+25eadb80,2024-03-13 22:00:00,aac587,Home Decor,Sofa,1,144,144,UPI
+04844fbe,2024-03-13 23:00:00,66acf0,Beauty,Novel,1,113,113,UPI
+98f24587,2024-03-14 00:00:00,6a9c9e,Clothing,T-Shirt,2,134,268,Cash
+f25698fe,2024-03-14 01:00:00,e32768,Home Decor,Sofa,4,267,1068,UPI
+7e9c48f2,2024-03-14 02:00:00,36864d,Beauty,Laptop,4,412,1648,UPI
+909985cc,2024-03-14 03:00:00,80d1dc,Books,Sofa,2,194,388,Cash
+9ed1ca64,2024-03-14 04:00:00,0a0472,Clothing,Lipstick,3,468,1404,UPI
+6a9a101c,2024-03-14 05:00:00,9353e8,Clothing,Novel,1,465,465,UPI
+01c8014b,2024-03-14 06:00:00,a89122,Books,Laptop,2,437,874,Cash
+65cc2123,2024-03-14 07:00:00,7f8f6e,Books,Novel,2,100,200,Credit Card
+30f21e48,2024-03-14 08:00:00,0f572d,Electronics,Lipstick,2,453,906,Credit Card
+6139b7f0,2024-03-14 09:00:00,791f39,Home Decor,T-Shirt,3,374,1122,Cash
+22570001,2024-03-14 10:00:00,d129cd,Clothing,T-Shirt,1,165,165,Debit Card
+61fbced9,2024-03-14 11:00:00,74031c,Books,Sofa,4,355,1420,UPI
+e17271a4,2024-03-14 12:00:00,b08fef,Books,Laptop,1,179,179,Cash
+30b67062,2024-03-14 13:00:00,7888ee,Electronics,Laptop,1,479,479,Credit Card
+e0ec9d3f,2024-03-14 14:00:00,a38696,Books,T-Shirt,3,274,822,Cash
+a12b96f5,2024-03-14 15:00:00,09aaef,Home Decor,Sofa,2,160,320,UPI
+a7cd27b1,2024-03-14 16:00:00,aac587,Clothing,Laptop,3,496,1488,Credit Card
+3ef6255f,2024-03-14 17:00:00,8b9634,Clothing,Lipstick,1,482,482,Cash
+f737db33,2024-03-14 18:00:00,1513de,Clothing,Novel,4,128,512,Cash
+587b299a,2024-03-14 19:00:00,0a694c,Electronics,T-Shirt,3,57,171,UPI
+697b70d6,2024-03-14 20:00:00,d10352,Beauty,Lipstick,3,31,93,Debit Card
+edc32375,2024-03-14 21:00:00,985c9f,Books,Lipstick,1,271,271,Debit Card
+64a8baf9,2024-03-14 22:00:00,6341df,Electronics,Sofa,4,438,1752,Debit Card
+b0e49f45,2024-03-14 23:00:00,7bc79f,Home Decor,Lipstick,4,452,1808,UPI
+b22ccfea,2024-03-15 00:00:00,3301f1,Home Decor,Lipstick,2,368,736,Cash
+365a2caa,2024-03-15 01:00:00,d16086,Electronics,T-Shirt,2,490,980,Cash
+dc10067a,2024-03-15 02:00:00,894646,Electronics,Laptop,1,115,115,Credit Card
+2565376d,2024-03-15 03:00:00,73f0cc,Beauty,Lipstick,1,84,84,UPI
+fbb3b94a,2024-03-15 04:00:00,b92b74,Beauty,T-Shirt,4,86,344,Debit Card
+25a350f3,2024-03-15 05:00:00,c0b07d,Home Decor,T-Shirt,4,310,1240,Debit Card
+940038d7,2024-03-15 06:00:00,4a8434,Home Decor,T-Shirt,2,63,126,Cash
+95cff454,2024-03-15 07:00:00,1de488,Electronics,Laptop,2,307,614,Cash
+358a3fb0,2024-03-15 08:00:00,8c767a,Beauty,T-Shirt,2,45,90,Credit Card
+e74f7616,2024-03-15 09:00:00,6d2563,Clothing,Lipstick,3,134,402,UPI
+59dfb56a,2024-03-15 10:00:00,11027e,Home Decor,Laptop,1,177,177,Cash
+dd08a535,2024-03-15 11:00:00,4b117d,Clothing,Novel,3,468,1404,UPI
+f646519f,2024-03-15 12:00:00,e540e0,Beauty,Novel,4,360,1440,Debit Card
+2a647ab5,2024-03-15 13:00:00,d8c1d4,Beauty,Novel,1,251,251,Cash
+791e2d4b,2024-03-15 14:00:00,26b6c9,Home Decor,T-Shirt,4,185,740,Debit Card
+52823571,2024-03-15 15:00:00,10ce2b,Books,Lipstick,1,380,380,Credit Card
+dcb3cbff,2024-03-15 16:00:00,afe135,Electronics,Laptop,2,80,160,UPI
+fbdfb201,2024-03-15 17:00:00,fde82f,Books,Laptop,1,235,235,UPI
+917a1af1,2024-03-15 18:00:00,f1d09c,Clothing,T-Shirt,2,49,98,Debit Card
+86b29406,2024-03-15 19:00:00,f0c87e,Home Decor,Laptop,3,50,150,Credit Card
+c89e7dd5,2024-03-15 20:00:00,064624,Beauty,Novel,2,294,588,Credit Card
+3fdf4e98,2024-03-15 21:00:00,08a79b,Home Decor,Laptop,4,113,452,Credit Card
+a7272ddd,2024-03-15 22:00:00,5652da,Beauty,Laptop,1,158,158,UPI
+d1d32a04,2024-03-15 23:00:00,499ab4,Clothing,Lipstick,2,180,360,Cash
+b277329c,2024-03-16 00:00:00,622979,Clothing,Sofa,4,206,824,Debit Card
+cab3e618,2024-03-16 01:00:00,d6f4c1,Electronics,Laptop,2,28,56,UPI
+988a6f38,2024-03-16 02:00:00,628f76,Beauty,Lipstick,4,392,1568,Debit Card
+a47b2d80,2024-03-16 03:00:00,a77707,Beauty,Sofa,1,389,389,Debit Card
+c372591e,2024-03-16 04:00:00,fa3119,Electronics,T-Shirt,1,39,39,UPI
+14398733,2024-03-16 05:00:00,0a4dfb,Beauty,Sofa,3,309,927,UPI
+aac61d1a,2024-03-16 06:00:00,d5f2e3,Electronics,Lipstick,3,37,111,Cash
+eac8a1f8,2024-03-16 07:00:00,87142e,Electronics,Sofa,1,481,481,Credit Card
+f443dd08,2024-03-16 08:00:00,15ba0d,Books,Lipstick,4,93,372,Cash
+fdc3583f,2024-03-16 09:00:00,206687,Clothing,Sofa,2,387,774,UPI
+4776be44,2024-03-16 10:00:00,034e5a,Beauty,Laptop,3,93,279,Debit Card
+a4563698,2024-03-16 11:00:00,fa5b82,Home Decor,Sofa,2,114,228,Credit Card
+407a5f45,2024-03-16 12:00:00,4f01a0,Books,T-Shirt,4,339,1356,Cash
+dfb960ad,2024-03-16 13:00:00,ad14a2,Beauty,T-Shirt,2,456,912,UPI
+bdafab37,2024-03-16 14:00:00,a82434,Home Decor,Novel,4,101,404,Debit Card
+c2de2558,2024-03-16 15:00:00,ac0060,Clothing,Sofa,3,256,768,Debit Card
+447d459a,2024-03-16 16:00:00,fe2f1d,Clothing,T-Shirt,4,380,1520,UPI
+2f132e7a,2024-03-16 17:00:00,bd36a2,Books,Lipstick,4,341,1364,UPI
+34712523,2024-03-16 18:00:00,a93bd0,Electronics,Laptop,3,269,807,Debit Card
+dc44e050,2024-03-16 19:00:00,e5662a,Beauty,T-Shirt,4,132,528,Debit Card
+58164913,2024-03-16 20:00:00,085a79,Electronics,Lipstick,1,431,431,Cash
+92a94da6,2024-03-16 21:00:00,bcec57,Home Decor,Laptop,3,278,834,UPI
+08925e2c,2024-03-16 22:00:00,989d13,Clothing,Lipstick,2,351,702,Debit Card
+9adf5687,2024-03-16 23:00:00,cef8e5,Electronics,Sofa,3,274,822,UPI
+2f27e724,2024-03-17 00:00:00,b9e5a6,Home Decor,Novel,1,19,19,Debit Card
+dc57fb46,2024-03-17 01:00:00,897d59,Clothing,Sofa,1,398,398,Credit Card
+f04895cb,2024-03-17 02:00:00,6b2c09,Home Decor,Sofa,1,373,373,Debit Card
+6f881fa5,2024-03-17 03:00:00,5b826e,Beauty,Laptop,2,100,200,UPI
+8c406893,2024-03-17 04:00:00,64ed02,Books,Laptop,4,234,936,UPI
+21603207,2024-03-17 05:00:00,e15a0f,Clothing,Sofa,1,255,255,Cash
+91ab1d5d,2024-03-17 06:00:00,68f3ee,Clothing,Laptop,4,395,1580,UPI
+3d5f83fc,2024-03-17 07:00:00,613ae3,Home Decor,Novel,1,16,16,Cash
+0ffe3d54,2024-03-17 08:00:00,1cd16d,Beauty,Lipstick,1,164,164,Credit Card
+f79aab06,2024-03-17 09:00:00,3afbdc,Books,Laptop,3,207,621,Debit Card
+b3c40c9f,2024-03-17 10:00:00,40987f,Beauty,T-Shirt,1,73,73,UPI
+b4fea82b,2024-03-17 11:00:00,d3b955,Home Decor,T-Shirt,4,41,164,Debit Card
+606d6460,2024-03-17 12:00:00,6d2563,Books,Laptop,4,420,1680,Credit Card
+95a131a6,2024-03-17 13:00:00,452506,Books,Laptop,3,293,879,Cash
+1c83b277,2024-03-17 14:00:00,00992f,Books,Sofa,3,182,546,Debit Card
+f8def876,2024-03-17 15:00:00,25853a,Beauty,T-Shirt,1,378,378,Debit Card
+49d7df2b,2024-03-17 16:00:00,4b3ab7,Electronics,Novel,1,96,96,Cash
+6b3976a4,2024-03-17 17:00:00,ac0060,Home Decor,Laptop,2,226,452,Credit Card
+e8c45623,2024-03-17 18:00:00,953d32,Electronics,T-Shirt,3,17,51,Debit Card
+f5578771,2024-03-17 19:00:00,50cd47,Electronics,Novel,2,305,610,Cash
+f2ba2776,2024-03-17 20:00:00,9c1061,Electronics,Lipstick,3,254,762,Debit Card
+6b866989,2024-03-17 21:00:00,b1815f,Beauty,Laptop,2,306,612,UPI
+e9250264,2024-03-17 22:00:00,5538a3,Clothing,Sofa,1,274,274,Debit Card
+8021e273,2024-03-17 23:00:00,351018,Beauty,T-Shirt,3,491,1473,Cash
+8b0a5c1f,2024-03-18 00:00:00,485a36,Clothing,Novel,4,212,848,Debit Card
+bb38cc7c,2024-03-18 01:00:00,338ae2,Books,T-Shirt,2,381,762,Credit Card
+6c4b6c8d,2024-03-18 02:00:00,26b6c9,Books,Laptop,2,403,806,Cash
+521cb7a4,2024-03-18 03:00:00,1e2aca,Electronics,Novel,2,215,430,Debit Card
+abaa1891,2024-03-18 04:00:00,a0f224,Books,Sofa,2,82,164,Debit Card
+35f0ea8d,2024-03-18 05:00:00,a93149,Home Decor,Lipstick,1,66,66,UPI
+918eb0bc,2024-03-18 06:00:00,3f29cb,Clothing,Novel,2,216,432,Cash
+d151c8c4,2024-03-18 07:00:00,466388,Clothing,Lipstick,4,455,1820,Debit Card
+7bd66e6b,2024-03-18 08:00:00,7bc79f,Clothing,Novel,4,456,1824,Credit Card
+2b8f832f,2024-03-18 09:00:00,72b94a,Clothing,Lipstick,1,47,47,Debit Card
+0fc8b865,2024-03-18 10:00:00,90bf99,Beauty,Novel,2,499,998,UPI
+59ca8e44,2024-03-18 11:00:00,c6e3fc,Electronics,T-Shirt,1,454,454,UPI
+ad1a86e4,2024-03-18 12:00:00,87bf97,Books,Sofa,1,101,101,Cash
+525b06bb,2024-03-18 13:00:00,b719f1,Clothing,Novel,2,414,828,UPI
+1d354e63,2024-03-18 14:00:00,be03b6,Beauty,T-Shirt,2,34,68,UPI
+96fb6c82,2024-03-18 15:00:00,b70eaa,Electronics,T-Shirt,1,114,114,Cash
+fed88917,2024-03-18 16:00:00,656752,Electronics,T-Shirt,3,268,804,UPI
+c0279aa1,2024-03-18 17:00:00,e093b6,Clothing,Sofa,3,476,1428,Debit Card
+0841ced6,2024-03-18 18:00:00,b5b7da,Beauty,T-Shirt,3,65,195,Cash
+147de3f3,2024-03-18 19:00:00,d35b1d,Books,Lipstick,2,497,994,Debit Card
+f40a3fde,2024-03-18 20:00:00,e948d6,Clothing,Lipstick,3,320,960,UPI
+fe45ef7e,2024-03-18 21:00:00,a883b9,Books,Novel,1,161,161,UPI
+0bc9e3cb,2024-03-18 22:00:00,49b796,Beauty,Laptop,1,456,456,Cash
+a416020c,2024-03-18 23:00:00,d6f4c1,Clothing,Lipstick,2,212,424,Debit Card
+ceae384c,2024-03-19 00:00:00,537bd7,Clothing,Sofa,4,223,892,Debit Card
+064d775d,2024-03-19 01:00:00,b70880,Electronics,Laptop,2,148,296,Debit Card
+ea55b529,2024-03-19 02:00:00,63001a,Books,Novel,4,283,1132,Cash
+cd7b9f33,2024-03-19 03:00:00,b1a4f4,Books,Sofa,2,352,704,Debit Card
+1b682482,2024-03-19 04:00:00,18e34f,Books,Novel,2,64,128,Cash
+8dc27c3b,2024-03-19 05:00:00,0db9a5,Clothing,Lipstick,4,402,1608,UPI
+1b0d4894,2024-03-19 06:00:00,9d1b18,Home Decor,Novel,4,35,140,Credit Card
+d74679e6,2024-03-19 07:00:00,a7156f,Electronics,Lipstick,3,343,1029,Cash
+2fdb38fd,2024-03-19 08:00:00,97d0b6,Beauty,Sofa,3,432,1296,Cash
+36dfd920,2024-03-19 09:00:00,335482,Electronics,Sofa,4,358,1432,UPI
+4d106b95,2024-03-19 10:00:00,8c1f24,Clothing,Laptop,4,268,1072,Cash
+11745bbb,2024-03-19 11:00:00,ef1b86,Home Decor,Laptop,2,194,388,UPI
+d3db7eb0,2024-03-19 12:00:00,51bee5,Home Decor,T-Shirt,1,463,463,Cash
+295af7ce,2024-03-19 13:00:00,4cc3df,Books,Sofa,4,97,388,Debit Card
+cd79e22c,2024-03-19 14:00:00,a82434,Books,Sofa,4,491,1964,UPI
+5a0a96ba,2024-03-19 15:00:00,940c3d,Home Decor,T-Shirt,3,361,1083,UPI
+70202b58,2024-03-19 16:00:00,78195c,Clothing,Lipstick,3,126,378,UPI
+ebe4c5fd,2024-03-19 17:00:00,9bd39e,Clothing,Laptop,2,252,504,Cash
+657e198a,2024-03-19 18:00:00,3850d4,Home Decor,Sofa,2,317,634,UPI
+5f1a3246,2024-03-19 19:00:00,87bf97,Books,Novel,1,393,393,Debit Card
+c6388972,2024-03-19 20:00:00,0289d3,Beauty,Lipstick,3,216,648,Credit Card
+8ad39ce8,2024-03-19 21:00:00,c5dcf8,Clothing,Novel,4,219,876,Debit Card
+da121267,2024-03-19 22:00:00,ad14a2,Clothing,Laptop,3,79,237,Credit Card
+9c29aa35,2024-03-19 23:00:00,c768fe,Home Decor,Sofa,1,17,17,Cash
+1350bf69,2024-03-20 00:00:00,28c9c9,Electronics,Novel,1,415,415,Credit Card
+e07a56e4,2024-03-20 01:00:00,b77f0a,Beauty,T-Shirt,2,295,590,Credit Card
+98a8c5ce,2024-03-20 02:00:00,c6bb91,Home Decor,Lipstick,1,15,15,Cash
+55f4c68a,2024-03-20 03:00:00,cc9ba0,Home Decor,T-Shirt,4,202,808,Credit Card
+0add6c3d,2024-03-20 04:00:00,f415cd,Beauty,Laptop,1,313,313,Credit Card
+0fd64ad7,2024-03-20 05:00:00,46bd28,Clothing,Sofa,1,362,362,Debit Card
+a6005252,2024-03-20 06:00:00,4ddebc,Clothing,Sofa,3,36,108,UPI
+8bfa2439,2024-03-20 07:00:00,1de488,Electronics,Lipstick,4,199,796,Debit Card
+2382bef3,2024-03-20 08:00:00,1e3c19,Home Decor,Sofa,4,323,1292,UPI
+b82a0d94,2024-03-20 09:00:00,36a9a4,Home Decor,T-Shirt,3,376,1128,Cash
+3e5e392b,2024-03-20 10:00:00,2556f7,Home Decor,Lipstick,3,365,1095,Credit Card
+ce33a5a6,2024-03-20 11:00:00,6730ff,Home Decor,Laptop,3,137,411,UPI
+a673bddd,2024-03-20 12:00:00,dc303e,Home Decor,Lipstick,3,430,1290,Cash
+cee65798,2024-03-20 13:00:00,6ca609,Electronics,T-Shirt,2,335,670,Credit Card
+43866c9d,2024-03-20 14:00:00,231443,Books,T-Shirt,2,489,978,Credit Card
+b5750592,2024-03-20 15:00:00,45811b,Books,Sofa,2,99,198,Debit Card
+a3ea21f0,2024-03-20 16:00:00,4b5844,Electronics,Lipstick,2,379,758,Cash
+84ef2eab,2024-03-20 17:00:00,e88f34,Books,T-Shirt,3,149,447,Cash
+7406c729,2024-03-20 18:00:00,8588e6,Books,Laptop,2,480,960,Debit Card
+797183d8,2024-03-20 19:00:00,37e5d4,Clothing,Novel,2,88,176,Credit Card
+5536560f,2024-03-20 20:00:00,7888ee,Home Decor,T-Shirt,2,319,638,Credit Card
+de4711d0,2024-03-20 21:00:00,a87c8d,Home Decor,T-Shirt,4,246,984,Credit Card
+0a1e169d,2024-03-20 22:00:00,1af473,Electronics,Laptop,4,205,820,Debit Card
+bf456324,2024-03-20 23:00:00,34d625,Clothing,Laptop,2,243,486,Debit Card
+22927bf6,2024-03-21 00:00:00,f7a4d1,Home Decor,Sofa,2,415,830,Credit Card
+f0e8a900,2024-03-21 01:00:00,7dea6c,Books,Laptop,4,253,1012,Debit Card
+53b68cf5,2024-03-21 02:00:00,53afab,Electronics,Lipstick,2,321,642,UPI
+f8acb3e7,2024-03-21 03:00:00,c2c497,Home Decor,Novel,4,362,1448,UPI
+666333cd,2024-03-21 04:00:00,a47564,Electronics,Lipstick,1,129,129,Cash
+b8b5e6eb,2024-03-21 05:00:00,aabeea,Electronics,Lipstick,2,469,938,Credit Card
+3dffb981,2024-03-21 06:00:00,a69236,Electronics,Novel,4,488,1952,UPI
+5aab2064,2024-03-21 07:00:00,eb6746,Books,Laptop,1,230,230,Credit Card
+f4112778,2024-03-21 08:00:00,684ae2,Home Decor,Novel,4,203,812,UPI
+be562cc5,2024-03-21 09:00:00,0daf3e,Beauty,Laptop,2,316,632,Credit Card
+08648e76,2024-03-21 10:00:00,1216f3,Electronics,Laptop,2,17,34,UPI
+61dc1faf,2024-03-21 11:00:00,c5df74,Clothing,Novel,3,456,1368,Cash
+5a0940b3,2024-03-21 12:00:00,3418ea,Home Decor,Novel,1,196,196,UPI
+2a624c7d,2024-03-21 13:00:00,6bdb4a,Books,Laptop,1,179,179,Cash
+9d0ed5f6,2024-03-21 14:00:00,68bb34,Books,Novel,4,373,1492,Debit Card
+015ece44,2024-03-21 15:00:00,4a8fd8,Clothing,Lipstick,3,50,150,UPI
+7157c4b2,2024-03-21 16:00:00,3afbdc,Home Decor,Laptop,4,280,1120,Credit Card
+ad527611,2024-03-21 17:00:00,092c22,Home Decor,Sofa,4,48,192,Debit Card
+790c201f,2024-03-21 18:00:00,09d42f,Beauty,Novel,1,375,375,Credit Card
+c7040333,2024-03-21 19:00:00,3fe6f2,Books,Sofa,4,65,260,Debit Card
+750ee904,2024-03-21 20:00:00,2c35b7,Clothing,Lipstick,1,129,129,UPI
+e03b2fb4,2024-03-21 21:00:00,6e6bc3,Clothing,Novel,2,35,70,Debit Card
+838a5b06,2024-03-21 22:00:00,064a47,Home Decor,Novel,1,268,268,UPI
+4c9c6064,2024-03-21 23:00:00,deabb3,Beauty,Lipstick,1,448,448,Cash
+4aec3db9,2024-03-22 00:00:00,6bdb4a,Home Decor,Sofa,1,113,113,Debit Card
+7fc1221f,2024-03-22 01:00:00,0daf3e,Electronics,Sofa,3,369,1107,Debit Card
+d47177b7,2024-03-22 02:00:00,83722d,Clothing,Sofa,1,405,405,Debit Card
+685fc485,2024-03-22 03:00:00,15ba0d,Electronics,Novel,2,171,342,Cash
+7222be35,2024-03-22 04:00:00,87142e,Beauty,Lipstick,2,235,470,Debit Card
+50d91c14,2024-03-22 05:00:00,9c1e73,Beauty,Laptop,2,232,464,Credit Card
+0e8aeffc,2024-03-22 06:00:00,9c1061,Clothing,Novel,4,469,1876,Debit Card
+db6df974,2024-03-22 07:00:00,ca68e4,Beauty,Novel,1,176,176,UPI
+c59f8fe8,2024-03-22 08:00:00,de5c05,Electronics,Sofa,1,457,457,Debit Card
+2b05875b,2024-03-22 09:00:00,eb54c2,Beauty,Lipstick,1,439,439,Cash
+4ee49c03,2024-03-22 10:00:00,a93bd0,Books,Sofa,4,263,1052,Cash
+36be7376,2024-03-22 11:00:00,dccb9e,Beauty,Lipstick,3,342,1026,Cash
+a9e9e4ef,2024-03-22 12:00:00,8c767a,Beauty,Sofa,4,40,160,UPI
+ca71a091,2024-03-22 13:00:00,0583d6,Clothing,Novel,4,100,400,Cash
+694917e5,2024-03-22 14:00:00,d3d467,Clothing,Novel,4,147,588,Debit Card
+ebc29098,2024-03-22 15:00:00,7ee0ca,Books,T-Shirt,2,354,708,UPI
+0ba653ad,2024-03-22 16:00:00,0583d6,Beauty,T-Shirt,1,390,390,Credit Card
+b4894626,2024-03-22 17:00:00,e6e784,Home Decor,Novel,3,382,1146,Cash
+caa1ba67,2024-03-22 18:00:00,6a6079,Beauty,Laptop,2,454,908,Cash
+afa76204,2024-03-22 19:00:00,e1b97f,Books,T-Shirt,2,248,496,UPI
+4051da93,2024-03-22 20:00:00,0583d6,Electronics,Novel,4,499,1996,Debit Card
+3dc85712,2024-03-22 21:00:00,531de4,Clothing,Laptop,2,138,276,Cash
+f93a8e9e,2024-03-22 22:00:00,41bc7a,Beauty,Laptop,3,44,132,Cash
+565ea369,2024-03-22 23:00:00,914cae,Clothing,Lipstick,4,351,1404,UPI
+37a0ba34,2024-03-23 00:00:00,c5df74,Beauty,Novel,2,315,630,Cash
+6a52a06e,2024-03-23 01:00:00,fbc727,Beauty,Lipstick,4,203,812,Debit Card
+49da82a1,2024-03-23 02:00:00,8963d3,Clothing,T-Shirt,1,228,228,Credit Card
+c86dc0cd,2024-03-23 03:00:00,11027e,Electronics,Laptop,1,13,13,UPI
+21340c37,2024-03-23 04:00:00,a883b9,Beauty,T-Shirt,3,313,939,Debit Card
+7a9f8d6c,2024-03-23 05:00:00,5ad076,Home Decor,T-Shirt,2,260,520,UPI
+d82f82ea,2024-03-23 06:00:00,59fe4a,Books,Laptop,3,183,549,Credit Card
+cd18ea16,2024-03-23 07:00:00,2e7c73,Beauty,Laptop,3,161,483,Credit Card
+661054ff,2024-03-23 08:00:00,e6e784,Beauty,Lipstick,2,133,266,Credit Card
+ac02a425,2024-03-23 09:00:00,e69c2c,Beauty,Sofa,3,159,477,UPI
+561c1b4f,2024-03-23 10:00:00,e0cc69,Beauty,Lipstick,1,284,284,Cash
+ad4d9763,2024-03-23 11:00:00,1e2aca,Beauty,Sofa,2,33,66,UPI
+73ddc928,2024-03-23 12:00:00,ac8724,Home Decor,Novel,1,442,442,Debit Card
+90204a32,2024-03-23 13:00:00,9c1e73,Clothing,Sofa,4,444,1776,Credit Card
+95834686,2024-03-23 14:00:00,d82c21,Books,Lipstick,2,276,552,Cash
+1cfae17c,2024-03-23 15:00:00,8e01c2,Books,Sofa,1,330,330,Credit Card
+d51702fc,2024-03-23 16:00:00,cb4ba5,Clothing,T-Shirt,1,498,498,Debit Card
+71208654,2024-03-23 17:00:00,9b08b4,Electronics,Novel,1,408,408,Cash
+04294d5e,2024-03-23 18:00:00,27fcdf,Electronics,Laptop,2,118,236,Credit Card
+a68eaad5,2024-03-23 19:00:00,f7dd1f,Books,Lipstick,4,340,1360,Cash
+c530b172,2024-03-23 20:00:00,7064f8,Home Decor,Lipstick,2,437,874,Debit Card
+b7ef8fd5,2024-03-23 21:00:00,3e9b3c,Home Decor,Laptop,2,488,976,Cash
+94f67a77,2024-03-23 22:00:00,c5dfd5,Books,T-Shirt,1,230,230,Cash
+7d6b9766,2024-03-23 23:00:00,a769ab,Beauty,Laptop,4,251,1004,Credit Card
+4c94e685,2024-03-24 00:00:00,aea03b,Electronics,Laptop,2,292,584,Credit Card
+5a14796a,2024-03-24 01:00:00,2540a6,Clothing,Laptop,4,398,1592,Cash
+2e2729ec,2024-03-24 02:00:00,a77707,Electronics,Laptop,2,339,678,UPI
+e4b35b49,2024-03-24 03:00:00,0ab6ce,Home Decor,Novel,2,295,590,Cash
+6a7ee3b1,2024-03-24 04:00:00,09c52b,Clothing,Novel,1,431,431,UPI
+4f13b5d6,2024-03-24 05:00:00,13da0f,Electronics,Lipstick,2,397,794,UPI
+18606ca0,2024-03-24 06:00:00,13e8e2,Home Decor,Sofa,4,89,356,Debit Card
+8a1e7b94,2024-03-24 07:00:00,dc88ae,Beauty,Sofa,4,253,1012,Debit Card
+222b96d1,2024-03-24 08:00:00,e6a700,Home Decor,Laptop,1,416,416,UPI
+c6e8172e,2024-03-24 09:00:00,bea91a,Electronics,Novel,1,53,53,Cash
+cde8628a,2024-03-24 10:00:00,452506,Beauty,Novel,2,362,724,Cash
+00d99c32,2024-03-24 11:00:00,4b5844,Clothing,Novel,1,212,212,Credit Card
+75aca67b,2024-03-24 12:00:00,c984e3,Books,Laptop,4,398,1592,Debit Card
+6554b280,2024-03-24 13:00:00,bf128f,Books,T-Shirt,3,116,348,Debit Card
+f937ebd9,2024-03-24 14:00:00,aea03b,Beauty,Novel,3,154,462,UPI
+f0b042cb,2024-03-24 15:00:00,2e7c73,Books,Lipstick,2,462,924,Debit Card
+9801a195,2024-03-24 16:00:00,6b2c09,Electronics,T-Shirt,2,377,754,Credit Card
+2c0275fd,2024-03-24 17:00:00,baac2b,Home Decor,Lipstick,4,384,1536,Cash
+1c200c1e,2024-03-24 18:00:00,e30430,Electronics,Sofa,4,318,1272,Credit Card
+e16a11ed,2024-03-24 19:00:00,f93065,Electronics,Laptop,3,163,489,Debit Card
+025d285d,2024-03-24 20:00:00,a55c33,Electronics,Lipstick,3,60,180,Debit Card
+15d46f66,2024-03-24 21:00:00,197942,Home Decor,Sofa,3,33,99,Cash
+7f7be0a8,2024-03-24 22:00:00,3d3774,Books,Novel,3,349,1047,Credit Card
+2b3c7105,2024-03-24 23:00:00,c0b07d,Clothing,Sofa,4,76,304,Cash
+11c35c9b,2024-03-25 00:00:00,780364,Beauty,Novel,4,17,68,Cash
+4abeb8cf,2024-03-25 01:00:00,b96fdb,Clothing,Lipstick,3,451,1353,Credit Card
+720c2b87,2024-03-25 02:00:00,1c6a85,Books,Laptop,3,496,1488,Cash
+cb047832,2024-03-25 03:00:00,8ccac6,Electronics,Sofa,3,379,1137,Cash
+e635d30c,2024-03-25 04:00:00,e093b6,Beauty,Laptop,3,432,1296,Debit Card
+0c94451a,2024-03-25 05:00:00,deabb3,Clothing,T-Shirt,2,146,292,Cash
+cd772867,2024-03-25 06:00:00,61ef35,Home Decor,Novel,2,147,294,Credit Card
+50870e73,2024-03-25 07:00:00,d82c21,Books,Sofa,3,488,1464,Debit Card
+b583d82b,2024-03-25 08:00:00,67e362,Books,Sofa,4,269,1076,Credit Card
+2a27319d,2024-03-25 09:00:00,decbdb,Clothing,Sofa,4,462,1848,UPI
+5c47dbff,2024-03-25 10:00:00,cb773f,Electronics,Sofa,1,314,314,UPI
+48696793,2024-03-25 11:00:00,7680b8,Electronics,Lipstick,1,396,396,Credit Card
+7d19941e,2024-03-25 12:00:00,7bc79f,Home Decor,Laptop,2,412,824,Cash
+6a9e1773,2024-03-25 13:00:00,9f2660,Books,Lipstick,2,381,762,Debit Card
+63550ac5,2024-03-25 14:00:00,360f57,Books,Laptop,1,14,14,UPI
+42d7b12a,2024-03-25 15:00:00,720ce3,Clothing,Laptop,4,293,1172,Debit Card
+b01ba963,2024-03-25 16:00:00,6d2563,Home Decor,Sofa,2,265,530,Credit Card
+9504b97b,2024-03-25 17:00:00,1029b3,Electronics,Novel,1,437,437,Credit Card
+57640fdc,2024-03-25 18:00:00,900d8c,Home Decor,T-Shirt,4,216,864,Cash
+8eb3cf4b,2024-03-25 19:00:00,16a09f,Home Decor,Novel,4,420,1680,Credit Card
+d88b062a,2024-03-25 20:00:00,485e3b,Books,Lipstick,3,216,648,Debit Card
+0847e0c8,2024-03-25 21:00:00,184306,Books,Novel,3,183,549,Debit Card
+2734e165,2024-03-25 22:00:00,1bc128,Clothing,Lipstick,3,99,297,UPI
+f3d99f5d,2024-03-25 23:00:00,e098d4,Beauty,Lipstick,4,156,624,Cash
+7aa27d7e,2024-03-26 00:00:00,827a0b,Books,Novel,2,245,490,Credit Card
+c0c58441,2024-03-26 01:00:00,3f84b9,Clothing,Lipstick,4,220,880,Credit Card
+18aafc01,2024-03-26 02:00:00,ee92a5,Beauty,Laptop,3,333,999,Debit Card
+ab92a3ab,2024-03-26 03:00:00,7dea6c,Books,Sofa,3,15,45,Credit Card
+9e17244e,2024-03-26 04:00:00,5f7b2e,Home Decor,Novel,2,19,38,UPI
+2026ef8e,2024-03-26 05:00:00,83722d,Clothing,Lipstick,1,88,88,Cash
+21a2f940,2024-03-26 06:00:00,bfadaf,Beauty,Laptop,4,41,164,Credit Card
+fee33ef3,2024-03-26 07:00:00,541935,Clothing,T-Shirt,2,425,850,Cash
+239dfede,2024-03-26 08:00:00,085a79,Books,Novel,1,327,327,UPI
+fda53d6f,2024-03-26 09:00:00,686e35,Home Decor,Lipstick,1,183,183,Credit Card
+5dbaa26c,2024-03-26 10:00:00,34d625,Clothing,Sofa,1,440,440,UPI
+1058b7ec,2024-03-26 11:00:00,6b2c09,Beauty,T-Shirt,2,461,922,UPI
+ac0e3cb1,2024-03-26 12:00:00,bceb75,Home Decor,Lipstick,1,179,179,Debit Card
+7b1cfc8b,2024-03-26 13:00:00,7a76dc,Books,Novel,3,122,366,UPI
+a365e081,2024-03-26 14:00:00,35c723,Electronics,Laptop,4,93,372,Cash
+883a07f4,2024-03-26 15:00:00,6b2c09,Books,Laptop,3,89,267,UPI
+290d4b32,2024-03-26 16:00:00,959052,Books,Lipstick,1,485,485,Cash
+9ba27512,2024-03-26 17:00:00,888bce,Home Decor,Sofa,4,373,1492,Cash
+48f9f089,2024-03-26 18:00:00,2abf6e,Home Decor,Novel,1,254,254,Cash
+ed7ece26,2024-03-26 19:00:00,9370f2,Beauty,Sofa,2,404,808,Debit Card
+fbb636bc,2024-03-26 20:00:00,dcb83b,Clothing,Laptop,3,375,1125,Credit Card
+24708a49,2024-03-26 21:00:00,bae1dd,Electronics,T-Shirt,4,52,208,Credit Card
+eea06ea4,2024-03-26 22:00:00,70edb6,Clothing,Sofa,1,353,353,UPI
+fb5eb3d3,2024-03-26 23:00:00,973dac,Clothing,Lipstick,4,32,128,Cash
+c6265d01,2024-03-27 00:00:00,c690cb,Books,Lipstick,3,119,357,Cash
+77935447,2024-03-27 01:00:00,b3a29e,Electronics,Lipstick,2,418,836,UPI
+8225dc7a,2024-03-27 02:00:00,ff2f04,Beauty,Laptop,4,329,1316,Debit Card
+647693d6,2024-03-27 03:00:00,959052,Electronics,Novel,1,249,249,UPI
+14d7dc28,2024-03-27 04:00:00,5d31de,Home Decor,T-Shirt,4,416,1664,Credit Card
+d0d7c4bc,2024-03-27 05:00:00,d70515,Electronics,Sofa,1,442,442,UPI
+2a2329d7,2024-03-27 06:00:00,d9e3eb,Home Decor,Novel,3,45,135,UPI
+0b591108,2024-03-27 07:00:00,f5a254,Books,Sofa,1,453,453,Debit Card
+430b19f5,2024-03-27 08:00:00,0ab6ce,Clothing,T-Shirt,2,140,280,Debit Card
+1f58c2cc,2024-03-27 09:00:00,bf6461,Clothing,T-Shirt,4,18,72,Cash
+953b1191,2024-03-27 10:00:00,9ea783,Beauty,Laptop,1,297,297,Debit Card
+af3b3e75,2024-03-27 11:00:00,24a01f,Beauty,Lipstick,3,405,1215,Debit Card
+2b78ffa3,2024-03-27 12:00:00,fe2f1d,Home Decor,Lipstick,3,31,93,Credit Card
+170a7359,2024-03-27 13:00:00,1029b3,Electronics,Sofa,1,143,143,UPI
+cb4f79bc,2024-03-27 14:00:00,32927d,Home Decor,T-Shirt,2,19,38,UPI
+58d60371,2024-03-27 15:00:00,d72dc0,Beauty,Laptop,3,56,168,Debit Card
+425311da,2024-03-27 16:00:00,8215fb,Clothing,Lipstick,1,214,214,Cash
+46d16df2,2024-03-27 17:00:00,4a8434,Beauty,T-Shirt,2,170,340,Debit Card
+1c63cd97,2024-03-27 18:00:00,46bd28,Books,Lipstick,4,451,1804,Debit Card
+31e9eb91,2024-03-27 19:00:00,169123,Books,Sofa,4,85,340,Debit Card
+756d2b35,2024-03-27 20:00:00,2b8bd1,Beauty,Lipstick,3,110,330,Debit Card
+3b1786b1,2024-03-27 21:00:00,83cdef,Home Decor,T-Shirt,2,267,534,Credit Card
+5fefddf5,2024-03-27 22:00:00,0583d6,Books,Laptop,2,471,942,Debit Card
+70c708a1,2024-03-27 23:00:00,c5940a,Beauty,Lipstick,4,346,1384,UPI
+97e07d96,2024-03-28 00:00:00,ef5a17,Home Decor,Sofa,2,391,782,Debit Card
+af218bfc,2024-03-28 01:00:00,b92b74,Clothing,T-Shirt,1,240,240,Cash
+c2c8b8a4,2024-03-28 02:00:00,7064f8,Clothing,Laptop,3,383,1149,Debit Card
+4745f259,2024-03-28 03:00:00,d8c1d4,Clothing,Novel,2,310,620,Debit Card
+d1af48ef,2024-03-28 04:00:00,5652da,Home Decor,Novel,1,490,490,Debit Card
+ba8c1caf,2024-03-28 05:00:00,e3dbd3,Home Decor,Sofa,4,306,1224,UPI
+73ce9ba1,2024-03-28 06:00:00,888bce,Books,Lipstick,1,157,157,Credit Card
+ee8504e3,2024-03-28 07:00:00,a0f224,Beauty,T-Shirt,3,486,1458,UPI
+4feaaf79,2024-03-28 08:00:00,ddf97f,Clothing,Laptop,1,156,156,Debit Card
+d0514432,2024-03-28 09:00:00,d14e0c,Beauty,T-Shirt,1,22,22,Credit Card
+91871e7e,2024-03-28 10:00:00,5b826e,Home Decor,T-Shirt,1,273,273,Credit Card
+3bfb5289,2024-03-28 11:00:00,74031c,Books,Sofa,2,78,156,Cash
+f705b5d8,2024-03-28 12:00:00,85ae39,Electronics,T-Shirt,3,10,30,Credit Card
+1ae4f895,2024-03-28 13:00:00,fa4271,Beauty,Sofa,1,191,191,UPI
+5929df84,2024-03-28 14:00:00,c6ddcf,Electronics,Novel,3,336,1008,Cash
+dd848dad,2024-03-28 15:00:00,658cee,Clothing,Novel,2,295,590,Debit Card
+fac910ca,2024-03-28 16:00:00,31a237,Clothing,Lipstick,3,51,153,Cash
+ce0da679,2024-03-28 17:00:00,c55e03,Books,Lipstick,3,123,369,Credit Card
+61fc676d,2024-03-28 18:00:00,37228a,Books,Sofa,3,121,363,Debit Card
+01061a0e,2024-03-28 19:00:00,3f4a3e,Electronics,Sofa,1,451,451,UPI
+26927814,2024-03-28 20:00:00,37f14f,Clothing,Sofa,4,491,1964,UPI
+1280d0be,2024-03-28 21:00:00,4a8434,Beauty,Lipstick,1,455,455,Credit Card
+c1d67b9c,2024-03-28 22:00:00,d538ec,Clothing,Novel,3,296,888,Credit Card
+36f19c60,2024-03-28 23:00:00,fdbb3f,Clothing,Sofa,4,409,1636,UPI
+cd4dd8f7,2024-03-29 00:00:00,34d625,Clothing,Novel,2,117,234,Cash
+a300d9ff,2024-03-29 01:00:00,87bf97,Home Decor,T-Shirt,4,274,1096,Debit Card
+87b867dd,2024-03-29 02:00:00,add371,Home Decor,Novel,1,467,467,UPI
+32884196,2024-03-29 03:00:00,464392,Clothing,Sofa,2,384,768,Cash
+e6eaff92,2024-03-29 04:00:00,973dac,Clothing,T-Shirt,3,32,96,Debit Card
+8967a1ee,2024-03-29 05:00:00,10ce2b,Home Decor,T-Shirt,4,314,1256,Cash
+59341e3d,2024-03-29 06:00:00,6d2563,Beauty,T-Shirt,2,271,542,Cash
+f31ce608,2024-03-29 07:00:00,2bb631,Home Decor,Novel,4,292,1168,Debit Card
+303be814,2024-03-29 08:00:00,381cc6,Clothing,T-Shirt,3,186,558,Cash
+ea3eb37a,2024-03-29 09:00:00,a55c33,Beauty,Lipstick,3,123,369,UPI
+6ba860fc,2024-03-29 10:00:00,00b49a,Home Decor,Novel,1,193,193,UPI
+c2428adf,2024-03-29 11:00:00,a453b1,Clothing,Laptop,3,223,669,UPI
+b923d6f7,2024-03-29 12:00:00,7fb211,Electronics,Novel,3,471,1413,Credit Card
+cea6af8b,2024-03-29 13:00:00,36a9a4,Electronics,Sofa,4,465,1860,Cash
+5256c7bd,2024-03-29 14:00:00,1e2aca,Electronics,Sofa,4,406,1624,Credit Card
+e07c4814,2024-03-29 15:00:00,45811b,Books,T-Shirt,3,465,1395,UPI
+9e1cb687,2024-03-29 16:00:00,4b3ab7,Clothing,Laptop,4,330,1320,Cash
+81cae939,2024-03-29 17:00:00,65f7e4,Clothing,Sofa,2,208,416,Cash
+90488d84,2024-03-29 18:00:00,3f7dec,Electronics,Lipstick,2,184,368,Cash
+845bde33,2024-03-29 19:00:00,bf7f78,Books,Sofa,3,49,147,UPI
+4c5a3a9f,2024-03-29 20:00:00,97ddc5,Electronics,T-Shirt,1,125,125,Debit Card
+7b5e0be3,2024-03-29 21:00:00,8f8b02,Home Decor,Novel,1,208,208,Credit Card
+87f63311,2024-03-29 22:00:00,9aefbc,Home Decor,Sofa,1,199,199,Credit Card
+1a17f42a,2024-03-29 23:00:00,5c8e36,Home Decor,Novel,4,50,200,UPI
+f8633abc,2024-03-30 00:00:00,4b3ab7,Clothing,Novel,3,246,738,Debit Card
+d46111aa,2024-03-30 01:00:00,cb13dc,Home Decor,Novel,1,340,340,Cash
+02d27b28,2024-03-30 02:00:00,e5e89c,Clothing,Novel,4,474,1896,Cash
+e731fa51,2024-03-30 03:00:00,647657,Clothing,Laptop,3,483,1449,Credit Card
+a0d85941,2024-03-30 04:00:00,c768fe,Books,Novel,3,404,1212,UPI
+f32e691e,2024-03-30 05:00:00,bfadaf,Books,Novel,2,270,540,Debit Card
+36b9c600,2024-03-30 06:00:00,57345f,Books,Lipstick,4,380,1520,UPI
+d69a8a8c,2024-03-30 07:00:00,2c0f09,Clothing,T-Shirt,2,474,948,Cash
+df27939d,2024-03-30 08:00:00,d36e00,Books,Novel,3,90,270,Credit Card
+a6cc702d,2024-03-30 09:00:00,3cc777,Clothing,Lipstick,3,409,1227,Credit Card
+52220ca1,2024-03-30 10:00:00,525387,Home Decor,Sofa,3,402,1206,Cash
+2b6ad711,2024-03-30 11:00:00,ac0060,Clothing,Novel,4,186,744,Cash
+52ef5c7a,2024-03-30 12:00:00,c80e99,Home Decor,Lipstick,1,440,440,Cash
+5d7e4ccc,2024-03-30 13:00:00,18e34f,Electronics,Sofa,3,23,69,Credit Card
+16884ae9,2024-03-30 14:00:00,9b50e1,Beauty,T-Shirt,2,270,540,Cash
+05e6cf91,2024-03-30 15:00:00,f0620d,Electronics,Lipstick,3,35,105,Debit Card
+6f7c4547,2024-03-30 16:00:00,7c6499,Beauty,Lipstick,2,33,66,Cash
+98e2780b,2024-03-30 17:00:00,2540a6,Home Decor,Laptop,1,448,448,Debit Card
+e9d9efc1,2024-03-30 18:00:00,689804,Clothing,Novel,3,67,201,UPI
+731e93d3,2024-03-30 19:00:00,158a7f,Beauty,Sofa,1,193,193,Credit Card
+afe16cd7,2024-03-30 20:00:00,1efff5,Home Decor,Lipstick,2,49,98,Debit Card
+368f5211,2024-03-30 21:00:00,b1815f,Electronics,Lipstick,3,74,222,Debit Card
+ed5ad7e9,2024-03-30 22:00:00,575c46,Clothing,Lipstick,4,284,1136,UPI
+92397d0d,2024-03-30 23:00:00,e948d6,Books,T-Shirt,3,354,1062,UPI
+76b9476e,2024-03-31 00:00:00,41b11c,Clothing,Laptop,4,372,1488,UPI
+3d8ff572,2024-03-31 01:00:00,f91db7,Electronics,Lipstick,1,461,461,Credit Card
+8a210779,2024-03-31 02:00:00,6f4024,Electronics,Lipstick,4,115,460,Credit Card
+d4e87435,2024-03-31 03:00:00,63a7f4,Books,Sofa,2,365,730,Debit Card
+890c51f9,2024-03-31 04:00:00,91d9c7,Clothing,Laptop,2,181,362,Debit Card
+ce5e24dc,2024-03-31 05:00:00,1b2cd5,Clothing,Lipstick,3,154,462,Debit Card
+1e07fb33,2024-03-31 06:00:00,1db120,Electronics,Laptop,3,397,1191,Cash
+53b7e8b9,2024-03-31 07:00:00,99d9cc,Home Decor,T-Shirt,1,147,147,Cash
+382a649d,2024-03-31 08:00:00,64dda7,Home Decor,Lipstick,4,244,976,Credit Card
+f54cc95e,2024-03-31 09:00:00,e5662a,Clothing,Lipstick,4,387,1548,Debit Card
+641a81df,2024-03-31 10:00:00,68bb34,Electronics,Laptop,1,179,179,Debit Card
+b8cf6c94,2024-03-31 11:00:00,57bb4e,Clothing,T-Shirt,4,343,1372,Credit Card
+dafd84fb,2024-03-31 12:00:00,f59c2a,Books,Laptop,3,416,1248,Credit Card
+dc4f7a06,2024-03-31 13:00:00,1af473,Books,Sofa,3,439,1317,UPI
+e0229f75,2024-03-31 14:00:00,973dac,Electronics,Laptop,1,25,25,Debit Card
+f637585a,2024-03-31 15:00:00,e5662a,Books,Lipstick,4,308,1232,Cash
+0830db8d,2024-03-31 16:00:00,b25446,Clothing,Lipstick,3,218,654,Debit Card
+f291c253,2024-03-31 17:00:00,344e6a,Electronics,Laptop,2,488,976,UPI
+18a8aa09,2024-03-31 18:00:00,4557e1,Clothing,Sofa,2,116,232,UPI
+ae3928af,2024-03-31 19:00:00,5f5fb5,Home Decor,Lipstick,3,149,447,UPI
+160b4eff,2024-03-31 20:00:00,0e7f83,Clothing,Lipstick,1,421,421,UPI
+c940fb93,2024-03-31 21:00:00,3d5794,Electronics,T-Shirt,4,58,232,Cash
+cdc569d3,2024-03-31 22:00:00,7fe81c,Home Decor,Novel,3,342,1026,Credit Card
+38078b92,2024-03-31 23:00:00,8c81e9,Home Decor,Lipstick,3,77,231,UPI
+99e4bcab,2024-04-01 00:00:00,642d5e,Home Decor,Sofa,1,341,341,UPI
+58254ba0,2024-04-01 01:00:00,9bd481,Clothing,Lipstick,3,153,459,UPI
+52150e37,2024-04-01 02:00:00,5d31de,Clothing,Novel,3,49,147,Debit Card
+ce333c1e,2024-04-01 03:00:00,d82c21,Beauty,T-Shirt,2,91,182,UPI
+a0a571ec,2024-04-01 04:00:00,ef941e,Clothing,Laptop,1,428,428,Credit Card
+7fae9832,2024-04-01 05:00:00,bffec4,Clothing,Sofa,3,382,1146,Debit Card
+a0363940,2024-04-01 06:00:00,4a2f5b,Books,Novel,1,42,42,Cash
+8040cfff,2024-04-01 07:00:00,70edb6,Beauty,Lipstick,2,478,956,Cash
+396a050c,2024-04-01 08:00:00,59df81,Clothing,Laptop,2,371,742,UPI
+bdd4cadd,2024-04-01 09:00:00,11fb51,Books,Laptop,1,204,204,UPI
+74b2206b,2024-04-01 10:00:00,ef5a17,Home Decor,Sofa,2,423,846,Debit Card
+be373bb1,2024-04-01 11:00:00,847711,Beauty,Sofa,1,85,85,Credit Card
+8d738bca,2024-04-01 12:00:00,642d5e,Home Decor,T-Shirt,4,51,204,Debit Card
+a87b74e1,2024-04-01 13:00:00,585dcb,Clothing,Sofa,2,485,970,UPI
+58d750e4,2024-04-01 14:00:00,0fb4bf,Electronics,Sofa,2,344,688,Debit Card
+22cadd37,2024-04-01 15:00:00,67f933,Electronics,Lipstick,4,226,904,Cash
+d01981de,2024-04-01 16:00:00,98fb8a,Books,Sofa,4,29,116,Credit Card
+49bd296f,2024-04-01 17:00:00,8f8b02,Books,Laptop,1,190,190,Debit Card
+b8af5bd6,2024-04-01 18:00:00,a47564,Books,Novel,4,113,452,Credit Card
+23ab5fa8,2024-04-01 19:00:00,5ad076,Electronics,Novel,3,217,651,Debit Card
+c6a9796b,2024-04-01 20:00:00,91d9c7,Books,Novel,4,475,1900,UPI
+b94ea5b2,2024-04-01 21:00:00,4cd602,Home Decor,Novel,3,132,396,Credit Card
+5b34739f,2024-04-01 22:00:00,232afc,Books,Novel,3,273,819,UPI
+d192f292,2024-04-01 23:00:00,31f38a,Home Decor,Lipstick,2,230,460,UPI
+be3c93eb,2024-04-02 00:00:00,550b13,Books,Laptop,2,481,962,Credit Card
+bec603c0,2024-04-02 01:00:00,436ca6,Clothing,Novel,1,50,50,Credit Card
+8ed7804f,2024-04-02 02:00:00,8936ea,Electronics,Lipstick,4,95,380,UPI
+181e0e19,2024-04-02 03:00:00,335482,Clothing,Laptop,4,87,348,Credit Card
+ffcc58b7,2024-04-02 04:00:00,9ef8fa,Beauty,Sofa,2,419,838,Credit Card
+752cfd0e,2024-04-02 05:00:00,0fb4bf,Beauty,Laptop,2,148,296,Debit Card
+c0c9b7ce,2024-04-02 06:00:00,0d28a1,Beauty,Laptop,4,305,1220,UPI
+a5e79d88,2024-04-02 07:00:00,b48490,Beauty,Lipstick,2,146,292,Credit Card
+ce1285bd,2024-04-02 08:00:00,a55c33,Beauty,Novel,1,435,435,Credit Card
+3eee4fe2,2024-04-02 09:00:00,58d0d4,Home Decor,T-Shirt,2,383,766,Credit Card
+60313785,2024-04-02 10:00:00,4ef533,Beauty,Novel,1,134,134,UPI
+ebb5395d,2024-04-02 11:00:00,f12f7c,Electronics,Novel,3,97,291,Cash
+b56dffec,2024-04-02 12:00:00,897d59,Beauty,Sofa,1,242,242,Credit Card
+04dae6f6,2024-04-02 13:00:00,7270dd,Books,Lipstick,1,454,454,UPI
+ffff86d6,2024-04-02 14:00:00,9f3c10,Beauty,Laptop,2,83,166,Credit Card
+ee2015d2,2024-04-02 15:00:00,e940d4,Electronics,Lipstick,2,179,358,Debit Card
+ffc5bab7,2024-04-02 16:00:00,db7bff,Electronics,T-Shirt,4,206,824,Credit Card
+104fac4d,2024-04-02 17:00:00,66acf0,Books,Novel,4,165,660,UPI
+317c3854,2024-04-02 18:00:00,3418ea,Books,Lipstick,4,397,1588,Debit Card
+b41922f4,2024-04-02 19:00:00,0fc9e3,Beauty,T-Shirt,1,389,389,Credit Card
+918e55cc,2024-04-02 20:00:00,720ce3,Electronics,Sofa,2,18,36,Debit Card
+1ab162e5,2024-04-02 21:00:00,dc88ae,Clothing,T-Shirt,2,133,266,Credit Card
+966e56dc,2024-04-02 22:00:00,87bf97,Clothing,Lipstick,3,342,1026,Debit Card
+71a4b133,2024-04-02 23:00:00,7ee0ca,Beauty,Lipstick,4,225,900,Credit Card
+7d95fc7e,2024-04-03 00:00:00,2cc2a9,Electronics,Laptop,4,295,1180,Credit Card
+367d9fe7,2024-04-03 01:00:00,9ba44c,Electronics,Laptop,4,376,1504,UPI
+7ef85d22,2024-04-03 02:00:00,b55e0e,Beauty,Laptop,4,492,1968,Cash
+d2618b2f,2024-04-03 03:00:00,0cc277,Books,Lipstick,4,198,792,UPI
+6a14538a,2024-04-03 04:00:00,13e8e2,Electronics,Novel,1,51,51,UPI
+8d7f72e0,2024-04-03 05:00:00,135dd1,Home Decor,Novel,3,429,1287,Cash
+68aa9c40,2024-04-03 06:00:00,827a0b,Home Decor,Novel,3,161,483,UPI
+aa247346,2024-04-03 07:00:00,d82c21,Beauty,Sofa,2,252,504,Debit Card
+49142c5e,2024-04-03 08:00:00,a9b434,Books,Lipstick,1,148,148,Credit Card
+c889d3e2,2024-04-03 09:00:00,9de4c7,Books,T-Shirt,1,271,271,Credit Card
+a5ebb049,2024-04-03 10:00:00,297c4b,Electronics,Novel,2,488,976,UPI
+609dd80b,2024-04-03 11:00:00,f7a4d1,Home Decor,T-Shirt,3,203,609,Cash
+1d28b031,2024-04-03 12:00:00,54579a,Beauty,Laptop,2,413,826,Credit Card
+4fbb1d5c,2024-04-03 13:00:00,c6bb91,Clothing,T-Shirt,2,364,728,UPI
+15825c0c,2024-04-03 14:00:00,eb6746,Books,Lipstick,3,288,864,Credit Card
+47808d5f,2024-04-03 15:00:00,69dd1d,Clothing,Novel,4,479,1916,Credit Card
+1afe6ed4,2024-04-03 16:00:00,c6bb91,Books,Laptop,4,345,1380,UPI
+6cfa3472,2024-04-03 17:00:00,1be281,Electronics,Novel,3,214,642,Cash
+d3320349,2024-04-03 18:00:00,f3f135,Clothing,Lipstick,4,471,1884,Cash
+199a125f,2024-04-03 19:00:00,3301f1,Books,Lipstick,3,461,1383,UPI
+81b179f7,2024-04-03 20:00:00,4f01a0,Home Decor,T-Shirt,3,462,1386,Credit Card
+d96f9931,2024-04-03 21:00:00,689804,Books,Lipstick,2,287,574,Debit Card
+97df2e4f,2024-04-03 22:00:00,1718ff,Electronics,Sofa,4,177,708,Credit Card
+04f3d67c,2024-04-03 23:00:00,322b62,Books,Sofa,2,105,210,Cash
+d19543b8,2024-04-04 00:00:00,27fcdf,Home Decor,T-Shirt,3,245,735,Debit Card
+b3973533,2024-04-04 01:00:00,d14e0c,Clothing,Laptop,1,402,402,Debit Card
+d08f313c,2024-04-04 02:00:00,f7ce1f,Books,Novel,1,277,277,Credit Card
+962fb13b,2024-04-04 03:00:00,f7dd1f,Electronics,Sofa,3,423,1269,Cash
+edb5ebee,2024-04-04 04:00:00,006294,Clothing,Novel,4,64,256,UPI
+a01e2f0c,2024-04-04 05:00:00,51d319,Clothing,Laptop,4,103,412,UPI
+53cc35af,2024-04-04 06:00:00,c8fecf,Clothing,Laptop,1,263,263,Credit Card
+d613c185,2024-04-04 07:00:00,a5f9cf,Beauty,Sofa,4,116,464,Cash
+2b7a78f7,2024-04-04 08:00:00,96a538,Clothing,Laptop,4,285,1140,UPI
+e02df49d,2024-04-04 09:00:00,b3a29e,Books,Lipstick,3,394,1182,Debit Card
+1f2bec95,2024-04-04 10:00:00,57345f,Books,Laptop,4,15,60,Cash
+38b2e842,2024-04-04 11:00:00,10c2a7,Clothing,Lipstick,2,333,666,Debit Card
+35ed63cc,2024-04-04 12:00:00,9d7d39,Electronics,Novel,2,464,928,Cash
+f0ea2651,2024-04-04 13:00:00,dccb9e,Clothing,Laptop,4,331,1324,Cash
+c542e575,2024-04-04 14:00:00,684ae2,Clothing,Novel,1,128,128,Cash
+1f3190fd,2024-04-04 15:00:00,22adfd,Beauty,Laptop,4,133,532,UPI
+8f3d81e6,2024-04-04 16:00:00,1718ff,Home Decor,Lipstick,1,11,11,Cash
+b1da08a3,2024-04-04 17:00:00,f3a502,Beauty,Laptop,1,349,349,Cash
+2440903b,2024-04-04 18:00:00,9353e8,Beauty,Laptop,3,72,216,Debit Card
+a0a158c6,2024-04-04 19:00:00,c87119,Home Decor,Sofa,1,428,428,Cash
+70c3ac34,2024-04-04 20:00:00,8ecd26,Books,Novel,1,278,278,Cash
+7047b30f,2024-04-04 21:00:00,fea76e,Books,Laptop,1,351,351,Debit Card
+8b33bebe,2024-04-04 22:00:00,7f03a0,Clothing,Sofa,3,318,954,UPI
+75bf0c2b,2024-04-04 23:00:00,ad14a2,Beauty,Lipstick,4,62,248,Debit Card
+07871b85,2024-04-05 00:00:00,7270dd,Books,Lipstick,3,202,606,Debit Card
+c1ddcb63,2024-04-05 01:00:00,db7bff,Books,Sofa,4,210,840,Credit Card
+3ed3c2d5,2024-04-05 02:00:00,75d8b9,Clothing,Lipstick,3,401,1203,Debit Card
+20c20e52,2024-04-05 03:00:00,0f572d,Beauty,T-Shirt,3,433,1299,Credit Card
+a76fc080,2024-04-05 04:00:00,2a7cd7,Books,T-Shirt,2,268,536,Cash
+2b575808,2024-04-05 05:00:00,67cf85,Books,Sofa,4,120,480,Debit Card
+20d481c2,2024-04-05 06:00:00,f96d13,Clothing,Novel,1,472,472,Cash
+15492814,2024-04-05 07:00:00,6a2856,Home Decor,Laptop,2,430,860,UPI
+1fe8b8e4,2024-04-05 08:00:00,13e8e2,Clothing,T-Shirt,3,470,1410,UPI
+5d982bff,2024-04-05 09:00:00,1b5abd,Books,Novel,3,45,135,UPI
+b9726237,2024-04-05 10:00:00,1e3c19,Clothing,Lipstick,3,346,1038,Credit Card
+44e69833,2024-04-05 11:00:00,6b81a8,Electronics,Laptop,4,80,320,UPI
+a6d7dba0,2024-04-05 12:00:00,567ab3,Beauty,Novel,4,362,1448,Debit Card
+08d10f5d,2024-04-05 13:00:00,d28ef1,Books,Novel,1,217,217,Debit Card
+94751240,2024-04-05 14:00:00,452346,Home Decor,Sofa,1,416,416,Debit Card
+d12baf8a,2024-04-05 15:00:00,f4a7dd,Electronics,Lipstick,2,151,302,UPI
+cf403199,2024-04-05 16:00:00,2573ba,Home Decor,Novel,4,105,420,Debit Card
+119b3d26,2024-04-05 17:00:00,a3633d,Books,Novel,3,175,525,UPI
+c6862fa9,2024-04-05 18:00:00,60a719,Electronics,Sofa,2,77,154,Debit Card
+5cb6c8be,2024-04-05 19:00:00,1ef710,Books,T-Shirt,3,430,1290,Debit Card
+cc718571,2024-04-05 20:00:00,eb83ec,Home Decor,Lipstick,3,478,1434,Cash
+c701265d,2024-04-05 21:00:00,231443,Books,Lipstick,1,128,128,Cash
+4e15bd42,2024-04-05 22:00:00,db7a6a,Books,T-Shirt,2,343,686,Debit Card
+40c4c9b8,2024-04-05 23:00:00,fea76e,Electronics,Lipstick,4,217,868,UPI
+08be68d3,2024-04-06 00:00:00,6d82aa,Clothing,Laptop,4,443,1772,Cash
+61530a58,2024-04-06 01:00:00,9de4c7,Home Decor,T-Shirt,4,126,504,Cash
+d6f7d774,2024-04-06 02:00:00,903a0f,Books,Laptop,4,290,1160,Debit Card
+c181d0f0,2024-04-06 03:00:00,1efff5,Home Decor,Laptop,3,307,921,Cash
+63111fe2,2024-04-06 04:00:00,3e7677,Clothing,Sofa,1,330,330,Cash
+e750b1e3,2024-04-06 05:00:00,959052,Books,Novel,2,93,186,Credit Card
+cf85164e,2024-04-06 06:00:00,cdaebd,Beauty,Lipstick,4,70,280,Credit Card
+c996fbaa,2024-04-06 07:00:00,d16086,Home Decor,Lipstick,3,219,657,Credit Card
+e29b6a31,2024-04-06 08:00:00,cd1aeb,Clothing,T-Shirt,4,477,1908,UPI
+e30355ee,2024-04-06 09:00:00,a93bd0,Books,Novel,1,172,172,Credit Card
+0a2a51af,2024-04-06 10:00:00,9df3ae,Beauty,Lipstick,4,445,1780,Credit Card
+2a90031e,2024-04-06 11:00:00,1ef710,Electronics,Lipstick,4,146,584,Credit Card
+adfb61a7,2024-04-06 12:00:00,8ecd26,Electronics,Novel,2,271,542,Credit Card
+cf6e3b14,2024-04-06 13:00:00,0a694c,Home Decor,Laptop,3,279,837,Credit Card
+2629dc84,2024-04-06 14:00:00,b48490,Clothing,Laptop,4,350,1400,Cash
+90cf419d,2024-04-06 15:00:00,6776ac,Electronics,Laptop,3,99,297,UPI
+3f25405e,2024-04-06 16:00:00,21bb3c,Electronics,Novel,4,484,1936,Cash
+95a6725c,2024-04-06 17:00:00,31a237,Books,T-Shirt,4,135,540,Cash
+b7619b08,2024-04-06 18:00:00,3b936d,Beauty,Lipstick,3,219,657,Credit Card
+c798556b,2024-04-06 19:00:00,628f76,Books,T-Shirt,2,72,144,Credit Card
+81b38fa7,2024-04-06 20:00:00,d26049,Books,Novel,4,347,1388,Credit Card
+be1d2423,2024-04-06 21:00:00,c5940a,Clothing,Laptop,4,488,1952,UPI
+19663f97,2024-04-06 22:00:00,ca7942,Beauty,Sofa,3,485,1455,Debit Card
+d58f7ec9,2024-04-06 23:00:00,ee00cf,Home Decor,Laptop,2,13,26,Cash
+e3ee0c4a,2024-04-07 00:00:00,39788c,Home Decor,Sofa,1,235,235,Credit Card
+2b29fe00,2024-04-07 01:00:00,cdfbac,Electronics,Sofa,4,324,1296,Cash
+5afc774e,2024-04-07 02:00:00,9ef8fa,Books,Novel,4,147,588,UPI
+8af05983,2024-04-07 03:00:00,76c8fb,Beauty,T-Shirt,3,160,480,Cash
+a5b6f08f,2024-04-07 04:00:00,a4c166,Home Decor,Lipstick,2,346,692,UPI
+8ea0f10c,2024-04-07 05:00:00,d8b630,Books,Sofa,3,33,99,Cash
+c4eda995,2024-04-07 06:00:00,9d1b18,Books,Lipstick,1,149,149,UPI
+c65df9c3,2024-04-07 07:00:00,20f79d,Books,Lipstick,2,61,122,Credit Card
+40b60cf9,2024-04-07 08:00:00,71536a,Clothing,Sofa,1,401,401,Debit Card
+2dcfed2f,2024-04-07 09:00:00,d17cfd,Books,Sofa,1,38,38,Credit Card
+31080a8a,2024-04-07 10:00:00,b21113,Electronics,Novel,4,136,544,UPI
+392976d2,2024-04-07 11:00:00,a6b61d,Electronics,Sofa,3,244,732,UPI
+5bcbb8fa,2024-04-07 12:00:00,2cc2a9,Electronics,T-Shirt,3,495,1485,Cash
+e32ccd10,2024-04-07 13:00:00,62990d,Electronics,Laptop,4,276,1104,UPI
+0a352d60,2024-04-07 14:00:00,058198,Electronics,Novel,4,418,1672,Cash
+a3a80f85,2024-04-07 15:00:00,d35b1d,Beauty,Sofa,2,102,204,UPI
+587efb67,2024-04-07 16:00:00,89b95c,Books,Laptop,2,461,922,Debit Card
+dbad69f0,2024-04-07 17:00:00,0583d6,Home Decor,T-Shirt,3,257,771,Cash
+0aa0cdc8,2024-04-07 18:00:00,d19cca,Books,T-Shirt,1,55,55,Cash
+2f2543d2,2024-04-07 19:00:00,6776ac,Electronics,T-Shirt,1,398,398,UPI
+839391f8,2024-04-07 20:00:00,11027e,Clothing,Laptop,1,90,90,Cash
+b02b13a2,2024-04-07 21:00:00,580dca,Books,Sofa,1,99,99,Debit Card
+2741cb7c,2024-04-07 22:00:00,1cb934,Beauty,Lipstick,4,215,860,UPI
+404f7165,2024-04-07 23:00:00,ca7942,Books,Sofa,3,63,189,Credit Card
+ec7b90d9,2024-04-08 00:00:00,ef93a4,Clothing,Lipstick,2,286,572,Cash
+b2ebcd77,2024-04-08 01:00:00,ac0060,Clothing,Lipstick,1,382,382,UPI
+c9715b97,2024-04-08 02:00:00,75428d,Clothing,Laptop,1,76,76,Credit Card
+3d8f24a5,2024-04-08 03:00:00,9ea783,Electronics,T-Shirt,4,100,400,Debit Card
+62cb43c8,2024-04-08 04:00:00,d70515,Electronics,T-Shirt,3,48,144,UPI
+56d58ba3,2024-04-08 05:00:00,485e3b,Beauty,T-Shirt,3,145,435,Cash
+b7edadce,2024-04-08 06:00:00,e1b97f,Clothing,Laptop,3,41,123,Debit Card
+2ceef654,2024-04-08 07:00:00,36e794,Home Decor,Lipstick,1,27,27,Credit Card
+691b7688,2024-04-08 08:00:00,10ce2b,Electronics,Lipstick,3,334,1002,Cash
+728b1c0b,2024-04-08 09:00:00,49faaf,Beauty,Sofa,3,242,726,Cash
+e669b9b6,2024-04-08 10:00:00,64dda7,Books,Lipstick,2,157,314,UPI
+d23dac78,2024-04-08 11:00:00,d8f0a4,Books,Sofa,2,440,880,Debit Card
+6031cf43,2024-04-08 12:00:00,4fcc8a,Electronics,Novel,1,64,64,Debit Card
+eb75c609,2024-04-08 13:00:00,14d85a,Beauty,Laptop,2,36,72,Debit Card
+e8153ac5,2024-04-08 14:00:00,628f76,Home Decor,Lipstick,1,51,51,Credit Card
+86bc90a8,2024-04-08 15:00:00,446290,Electronics,Laptop,1,394,394,Credit Card
+91286798,2024-04-08 16:00:00,41bc7a,Beauty,Sofa,2,196,392,Cash
+088d8dd8,2024-04-08 17:00:00,d3b955,Home Decor,Sofa,1,302,302,Credit Card
+7e52a1e5,2024-04-08 18:00:00,9b8cee,Books,Novel,4,415,1660,Cash
+882c85bf,2024-04-08 19:00:00,9ea783,Beauty,T-Shirt,1,333,333,Cash
+f153223b,2024-04-08 20:00:00,647657,Books,Sofa,3,291,873,Credit Card
+f438412c,2024-04-08 21:00:00,b48490,Books,Laptop,1,65,65,Debit Card
+32aafd4f,2024-04-08 22:00:00,10ce2b,Electronics,Sofa,1,418,418,Credit Card
+41177211,2024-04-08 23:00:00,39e917,Beauty,Laptop,2,314,628,UPI
+3a2efc16,2024-04-09 00:00:00,e2d32e,Home Decor,T-Shirt,2,329,658,Cash
+237e93b9,2024-04-09 01:00:00,bea91a,Home Decor,Lipstick,3,286,858,UPI
+57935f34,2024-04-09 02:00:00,006294,Home Decor,Sofa,4,329,1316,UPI
+9d0fb8e0,2024-04-09 03:00:00,40987f,Beauty,Laptop,4,11,44,Cash
+b417b982,2024-04-09 04:00:00,e948d6,Books,Lipstick,4,164,656,Debit Card
+72dba9e1,2024-04-09 05:00:00,d8b630,Clothing,Novel,1,403,403,Credit Card
+350cc352,2024-04-09 06:00:00,cb1b4b,Electronics,Novel,4,61,244,Cash
+0519b8b3,2024-04-09 07:00:00,b5b7da,Electronics,Novel,3,451,1353,Credit Card
+e898eafd,2024-04-09 08:00:00,a82434,Home Decor,Laptop,4,493,1972,Debit Card
+c0e041c8,2024-04-09 09:00:00,fa3119,Books,T-Shirt,2,478,956,Debit Card
+8a023a27,2024-04-09 10:00:00,5802d9,Home Decor,Laptop,2,158,316,Credit Card
+af0ed1de,2024-04-09 11:00:00,065958,Books,Lipstick,2,221,442,Cash
+4ec3129b,2024-04-09 12:00:00,8af74d,Beauty,T-Shirt,1,469,469,UPI
+69becdc1,2024-04-09 13:00:00,3fe6f2,Beauty,T-Shirt,3,219,657,Credit Card
+47ef76aa,2024-04-09 14:00:00,73d905,Books,Laptop,4,114,456,Debit Card
+460fa0dd,2024-04-09 15:00:00,1ae409,Books,Novel,1,102,102,UPI
+1b2753dc,2024-04-09 16:00:00,6ce74b,Beauty,T-Shirt,2,113,226,UPI
+cbf51442,2024-04-09 17:00:00,ca7942,Electronics,T-Shirt,2,40,80,Debit Card
+a9f81894,2024-04-09 18:00:00,2540a6,Clothing,Sofa,1,189,189,UPI
+f4cdf6ce,2024-04-09 19:00:00,48ca82,Beauty,Laptop,4,267,1068,Cash
+69492875,2024-04-09 20:00:00,464392,Home Decor,Lipstick,3,301,903,UPI
+aece4549,2024-04-09 21:00:00,1e8504,Beauty,Lipstick,3,102,306,Credit Card
+01b52d9f,2024-04-09 22:00:00,2a7cd7,Books,Lipstick,2,313,626,Cash
+5fdfbf0f,2024-04-09 23:00:00,9f5132,Books,Novel,3,469,1407,UPI
+db61baf5,2024-04-10 00:00:00,328221,Electronics,Novel,2,83,166,Debit Card
+75745033,2024-04-10 01:00:00,464c90,Clothing,Novel,2,406,812,Cash
+59619b28,2024-04-10 02:00:00,70c078,Beauty,Lipstick,3,116,348,Debit Card
+fb357639,2024-04-10 03:00:00,a769ab,Clothing,Novel,4,74,296,Debit Card
+21ff9112,2024-04-10 04:00:00,686e35,Books,Sofa,3,362,1086,Debit Card
+96c513f3,2024-04-10 05:00:00,39e917,Electronics,T-Shirt,1,77,77,Cash
+4b01b34d,2024-04-10 06:00:00,bf128f,Clothing,Laptop,4,67,268,Debit Card
+63244b0d,2024-04-10 07:00:00,3e1b48,Books,Laptop,1,473,473,UPI
+5e20fced,2024-04-10 08:00:00,1e903c,Electronics,T-Shirt,4,420,1680,Debit Card
+c5c3f10b,2024-04-10 09:00:00,064624,Books,Laptop,4,202,808,Cash
+c2693692,2024-04-10 10:00:00,51f9e6,Beauty,Sofa,4,163,652,Credit Card
+0205e265,2024-04-10 11:00:00,66acf0,Electronics,Novel,2,70,140,UPI
+66da7a52,2024-04-10 12:00:00,3125a6,Clothing,T-Shirt,3,426,1278,UPI
+ea83f60b,2024-04-10 13:00:00,0fb4bf,Electronics,Sofa,4,363,1452,Cash
+78d9e478,2024-04-10 14:00:00,5f7b2e,Clothing,Laptop,2,412,824,Debit Card
+f5572588,2024-04-10 15:00:00,092c22,Electronics,T-Shirt,4,442,1768,Cash
+6b41ff72,2024-04-10 16:00:00,fd1cfb,Electronics,Novel,1,233,233,UPI
+4dd3ae2d,2024-04-10 17:00:00,9f5492,Beauty,Laptop,3,168,504,Cash
+259470cd,2024-04-10 18:00:00,605ac5,Books,Sofa,1,239,239,UPI
+be1786e5,2024-04-10 19:00:00,8b77b6,Beauty,Lipstick,3,198,594,UPI
+d221d65e,2024-04-10 20:00:00,2e6228,Electronics,Lipstick,4,313,1252,Cash
+4f8b6e44,2024-04-10 21:00:00,fe2f1d,Electronics,Novel,4,260,1040,Cash
+b60cefaa,2024-04-10 22:00:00,d19cca,Clothing,Laptop,4,387,1548,Cash
+0d8e6309,2024-04-10 23:00:00,4b117d,Clothing,Lipstick,1,385,385,UPI
+df61d63c,2024-04-11 00:00:00,4e8d63,Books,T-Shirt,1,451,451,Credit Card
+aa953bd5,2024-04-11 01:00:00,f92445,Electronics,Laptop,2,492,984,Cash
+f96ddf05,2024-04-11 02:00:00,00c7a0,Beauty,Laptop,4,335,1340,UPI
+3054957e,2024-04-11 03:00:00,389383,Home Decor,Laptop,4,300,1200,Credit Card
+864ad0a9,2024-04-11 04:00:00,7e5624,Beauty,T-Shirt,3,332,996,Debit Card
+67ef388d,2024-04-11 05:00:00,af8a35,Electronics,Laptop,2,76,152,Debit Card
+3a6f4d80,2024-04-11 06:00:00,1efff5,Electronics,Laptop,3,358,1074,UPI
+c0b294e7,2024-04-11 07:00:00,a47bab,Books,Novel,4,118,472,Debit Card
+570aa4a9,2024-04-11 08:00:00,deabb3,Beauty,Sofa,2,402,804,UPI
+319be8da,2024-04-11 09:00:00,00c7a0,Beauty,Sofa,4,33,132,UPI
+e3067fa7,2024-04-11 10:00:00,d94e1a,Books,Novel,2,186,372,Cash
+babef63d,2024-04-11 11:00:00,56b912,Beauty,Novel,4,148,592,Credit Card
+abad932d,2024-04-11 12:00:00,13dcc8,Clothing,T-Shirt,4,287,1148,Credit Card
+b8ab69e3,2024-04-11 13:00:00,a2a17c,Clothing,Sofa,1,167,167,Debit Card
+6511e5d5,2024-04-11 14:00:00,26c89a,Beauty,Laptop,3,15,45,Cash
+a3b9d697,2024-04-11 15:00:00,065958,Books,Sofa,3,287,861,Credit Card
+810fb04d,2024-04-11 16:00:00,550b13,Home Decor,T-Shirt,3,353,1059,UPI
+f9cd8782,2024-04-11 17:00:00,2a7cd7,Home Decor,Laptop,4,394,1576,Cash
+5893e74d,2024-04-11 18:00:00,7064f8,Electronics,T-Shirt,1,271,271,Credit Card
+338883d7,2024-04-11 19:00:00,c0b07d,Clothing,Novel,1,313,313,Cash
+af558553,2024-04-11 20:00:00,6e6bc3,Electronics,Sofa,3,450,1350,UPI
+0087c207,2024-04-11 21:00:00,62a73d,Home Decor,Lipstick,4,370,1480,Debit Card
+e68c30cd,2024-04-11 22:00:00,1be281,Electronics,Novel,2,498,996,Cash
+208fe4c2,2024-04-11 23:00:00,a7156f,Beauty,Novel,2,251,502,Debit Card
+19aaf95e,2024-04-12 00:00:00,a12651,Home Decor,Sofa,4,446,1784,UPI
+2c998e28,2024-04-12 01:00:00,20f79d,Clothing,Lipstick,1,398,398,Cash
+20639c01,2024-04-12 02:00:00,e32768,Beauty,Lipstick,3,376,1128,Debit Card
+efd630e7,2024-04-12 03:00:00,e5e89c,Home Decor,Lipstick,2,32,64,Cash
+10069074,2024-04-12 04:00:00,991cf9,Beauty,Novel,3,82,246,Credit Card
+41a95228,2024-04-12 05:00:00,6d82aa,Beauty,Novel,1,207,207,Debit Card
+96d213c4,2024-04-12 06:00:00,ea5046,Electronics,Sofa,1,123,123,Debit Card
+bba138ac,2024-04-12 07:00:00,b0f232,Books,Lipstick,1,52,52,UPI
+24e8b1a4,2024-04-12 08:00:00,d17cfd,Home Decor,Sofa,4,213,852,UPI
+09293c36,2024-04-12 09:00:00,14d85a,Beauty,Laptop,1,240,240,Cash
+1eab7a2e,2024-04-12 10:00:00,15ba0d,Clothing,Sofa,4,444,1776,UPI
+21cfcc97,2024-04-12 11:00:00,4f01a0,Clothing,T-Shirt,1,171,171,UPI
+1e3f1062,2024-04-12 12:00:00,452346,Home Decor,Lipstick,3,190,570,UPI
+3e375627,2024-04-12 13:00:00,158a7f,Beauty,Sofa,3,454,1362,UPI
+0f37f9c9,2024-04-12 14:00:00,ca7942,Beauty,Lipstick,1,68,68,UPI
+f850c2f1,2024-04-12 15:00:00,45811b,Home Decor,T-Shirt,4,361,1444,Debit Card
+32c39a42,2024-04-12 16:00:00,dc88ae,Books,Laptop,1,399,399,Debit Card
+313b83c8,2024-04-12 17:00:00,181bb0,Books,Sofa,3,411,1233,UPI
+d1673714,2024-04-12 18:00:00,6a2856,Books,Sofa,1,115,115,Cash
+e1e8cec3,2024-04-12 19:00:00,f0a89d,Home Decor,T-Shirt,3,219,657,Debit Card
+112904b5,2024-04-12 20:00:00,d10352,Books,T-Shirt,3,33,99,UPI
+d7c98e2b,2024-04-12 21:00:00,5f5fb5,Home Decor,Laptop,3,189,567,Cash
+c0e237d4,2024-04-12 22:00:00,4b5844,Beauty,Lipstick,4,362,1448,Credit Card
+11480a71,2024-04-12 23:00:00,fa6447,Books,T-Shirt,1,305,305,Debit Card
+c9912b52,2024-04-13 00:00:00,122a5c,Electronics,Laptop,3,20,60,UPI
+d2555cd1,2024-04-13 01:00:00,9d4cce,Beauty,Sofa,2,196,392,Credit Card
+a6301254,2024-04-13 02:00:00,bd36a2,Books,Sofa,4,358,1432,Debit Card
+765fc291,2024-04-13 03:00:00,647657,Clothing,Novel,4,187,748,Debit Card
+9d4b2619,2024-04-13 04:00:00,3c6a35,Books,T-Shirt,1,456,456,Cash
+cbcd7045,2024-04-13 05:00:00,f4a7dd,Beauty,Sofa,4,395,1580,Debit Card
+0e32a1e8,2024-04-13 06:00:00,4b3ab7,Electronics,Lipstick,4,232,928,Cash
+0c71ec55,2024-04-13 07:00:00,ba6084,Books,Laptop,2,293,586,Credit Card
+302dfcd4,2024-04-13 08:00:00,452506,Electronics,Lipstick,4,200,800,Credit Card
+56aaafe7,2024-04-13 09:00:00,8e6541,Home Decor,T-Shirt,4,178,712,Credit Card
+30c44352,2024-04-13 10:00:00,59fe4a,Electronics,Laptop,3,471,1413,Credit Card
+4cad6e17,2024-04-13 11:00:00,6f742e,Home Decor,Lipstick,4,68,272,UPI
+985f3ac2,2024-04-13 12:00:00,51d319,Books,Lipstick,2,28,56,Cash
+06fe12a2,2024-04-13 13:00:00,6d2563,Home Decor,Novel,3,99,297,Cash
+ea641f28,2024-04-13 14:00:00,532e11,Home Decor,Lipstick,4,269,1076,Debit Card
+928f921f,2024-04-13 15:00:00,46bd28,Home Decor,Sofa,4,378,1512,Credit Card
+320f8159,2024-04-13 16:00:00,13dcc8,Electronics,Sofa,4,186,744,UPI
+cd6e15ff,2024-04-13 17:00:00,e93673,Books,Laptop,3,392,1176,Debit Card
+52fcb326,2024-04-13 18:00:00,001faa,Electronics,Laptop,3,100,300,UPI
+a1220a67,2024-04-13 19:00:00,2a7cd7,Home Decor,Sofa,2,349,698,Cash
+ac62e0fc,2024-04-13 20:00:00,afe135,Books,Novel,1,14,14,Credit Card
+6efbc1ac,2024-04-13 21:00:00,6f4024,Books,Laptop,4,477,1908,Cash
+f9a2cbc5,2024-04-13 22:00:00,37c8ce,Beauty,Laptop,3,481,1443,UPI
+c72c5b68,2024-04-13 23:00:00,e7a15f,Beauty,Novel,1,341,341,Credit Card
+3f35f5e3,2024-04-14 00:00:00,689804,Electronics,Sofa,1,108,108,Debit Card
+a9b29a34,2024-04-14 01:00:00,e1b97f,Clothing,Novel,2,194,388,Credit Card
+4688a984,2024-04-14 02:00:00,1d7a65,Beauty,Lipstick,1,56,56,Debit Card
+a5e486d3,2024-04-14 03:00:00,c5df74,Beauty,Laptop,4,445,1780,Credit Card

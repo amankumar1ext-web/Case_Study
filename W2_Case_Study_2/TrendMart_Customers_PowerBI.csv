@@ -1,0 +1,1001 @@
+Customer_ID,Name,Age,Gender,Location,Total_Spent
+3c4189,Kevin Hanna,22,Female,Los Angeles,4179
+912124,Marisa Sullivan,60,Other,Los Angeles,1683
+3babe0,Shawn Gonzales,45,Female,Houston,358
+b198b8,Charles Mejia,68,Male,New York,1541
+2156a9,Kimberly Francis,43,Female,Los Angeles,2911
+6655ea,Jenna Carroll,26,Female,Chicago,3106
+6790f4,Angela Gomez,66,Other,Chicago,745
+e76cec,Frank Krueger,21,Male,Chicago,4482
+2b401b,Amanda Mitchell,39,Other,Houston,2082
+f694e2,Christopher Austin,36,Male,Chicago,3357
+fd0c3f,Cynthia Guzman,26,Other,New York,4606
+faf7d8,John Miller,28,Other,New York,4512
+20344d,Tiffany Robinson,68,Female,New York,526
+e2a722,Kristen Phillips,68,Male,Los Angeles,2852
+d0975b,Robin Ford,53,Male,New York,654
+4c01ac,Maureen Smith,30,Male,Los Angeles,3066
+7c7355,Joe Stanley,18,Other,New York,941
+be9cd9,Courtney Padilla,27,Male,Miami,4384
+1cf8df,Joseph Rosales,27,Male,New York,657
+7912f7,Joshua Donovan,41,Female,New York,3744
+9ea88e,Charles Ruiz,43,Male,Chicago,3216
+c214c8,Cheryl Russell,36,Male,Chicago,661
+50d226,Mark Hoffman,41,Female,Miami,2738
+c9cbae,Cynthia Campbell,55,Male,Los Angeles,770
+33d6ed,Oscar Walton,69,Female,New York,4113
+e3a6f2,Pamela Underwood,45,Female,Chicago,1182
+76ad7a,Samuel Wang,44,Female,Chicago,3441
+82521b,Chelsea Foster,63,Female,Los Angeles,932
+ed1ca5,Andrew Rogers,35,Other,New York,2240
+c19272,Clifford Smith,23,Male,New York,1704
+a8223b,Terry Smith,20,Male,Miami,3896
+fde552,Rebecca Hughes,54,Other,Houston,129
+23b5a0,Martin Davis,63,Male,New York,2249
+377735,Todd Woodard,65,Other,Chicago,2439
+34d280,Tammy Silva,30,Male,Los Angeles,1320
+d29f7b,Christopher Nichols,49,Other,Los Angeles,838
+b97b7c,Brian Davis,68,Male,New York,2042
+7f30ee,Jose Martin,67,Other,Chicago,1753
+26c866,Heather Jordan,52,Female,Chicago,3176
+34afa2,Kristopher Jackson,59,Male,Chicago,1901
+f60394,Eric Wright,57,Male,Chicago,130
+eb7e0f,Ashley Smith,32,Other,New York,1126
+d095c4,Theresa Matthews,45,Female,Houston,987
+cbb500,Annette Hoffman,54,Female,Houston,3527
+6a5e54,Austin Jones,23,Female,Miami,3030
+6810d9,Daniel Johnson,36,Male,Houston,1470
+0bec5d,Ronald Simpson,44,Other,Houston,4258
+b91db0,Michael Parsons,20,Other,New York,1907
+adaf7e,Sherry Haynes,18,Male,Chicago,2072
+c36bc5,Andrew Schaefer,67,Male,Chicago,4292
+a3a7ef,Peggy Martin,19,Other,Chicago,1083
+6e915b,Bruce Hughes,69,Female,Houston,4390
+7b414f,William Frazier,36,Male,Miami,4245
+1269e7,Jacob Mcmillan,69,Other,Chicago,2769
+7a6c89,Tina Horne,30,Other,Miami,3484
+265246,Debbie Ramirez,56,Male,Miami,1244
+69cae7,Stanley Harrell,46,Other,Miami,2772
+f1d449,Mary Stewart,39,Male,Miami,2804
+2fbd21,Christina Jacobs,57,Male,Houston,4283
+f6d696,Melanie Sherman,22,Male,Chicago,4313
+72437a,Heather Levy,67,Other,Chicago,4712
+571e0c,Stacie Potter,62,Female,Miami,3020
+faf318,Todd Suarez,65,Female,New York,3634
+c2aa49,Annette Hernandez,58,Male,New York,483
+3f0f9b,Nancy Cruz,22,Male,New York,4719
+f864bc,Michaela Collins,32,Other,New York,2575
+7c79ef,Jamie Simmons,32,Other,Houston,4023
+d5bde2,Lacey Smith,69,Male,Chicago,4457
+1adfc0,Jennifer Bond,56,Other,Houston,4531
+c24bcf,Rachel Webster,60,Other,Chicago,3278
+6f05a0,Michael Walker,47,Female,New York,4958
+9f523c,Michael Walker,47,Other,New York,2676
+b23e94,Michael Reid,46,Female,Chicago,3166
+19888e,Shelly Moore,26,Male,Miami,3461
+4bdbec,Stephanie James,31,Female,Miami,4520
+937b94,Pamela Carrillo,22,Other,New York,908
+34e014,Brittany Chen,18,Female,Chicago,1139
+5ad9a8,Jeremy Jackson,64,Male,Miami,3446
+4d49da,Stefanie Wallace,65,Male,Los Angeles,4369
+6a7f80,Amy Anderson,63,Other,New York,3695
+134284,Jessica Harding,45,Female,New York,1853
+f46062,Christopher Sharp,64,Male,Houston,3204
+d0acbe,Sandra Mckenzie,45,Other,Los Angeles,2921
+e607c6,Elizabeth Nielsen,39,Female,Los Angeles,1806
+808b6c,Nathan Rodriguez,25,Male,Houston,248
+25266b,Gabrielle Pierce,32,Female,New York,3396
+69164e,Stacey Rodriguez PhD,22,Other,Houston,3787
+a723f2,Nicole Jones,49,Female,Los Angeles,2186
+d8ebef,Roger Morris,43,Female,New York,942
+6cfe2c,David Wong,20,Male,Los Angeles,907
+2e6079,Thomas Willis,18,Female,Los Angeles,4138
+ad4f50,Kaylee Maldonado,41,Female,New York,905
+508584,Nicholas Hill,23,Other,Houston,1186
+14c8f5,Dylan Richardson,40,Female,New York,2306
+e4c9e0,Christopher Cannon,64,Female,Los Angeles,1925
+a7d1d5,Justin Campbell,54,Female,Los Angeles,840
+2c0ff8,Gregory Barker,24,Female,Houston,2463
+8e4287,John Smith,29,Male,New York,166
+a1cfd5,Erik Rivera,41,Other,Chicago,3178
+3b5721,David Boyer,23,Male,Houston,1360
+94d66c,Sheena Watts,50,Female,Los Angeles,2177
+84c587,Rhonda Price,39,Male,Houston,4356
+4f7cfa,Kimberly Marshall,34,Female,Los Angeles,238
+8ebb47,Heather May,63,Female,Miami,4177
+68924a,Michael Steele,24,Male,Houston,1196
+c76822,Scott Aguirre,30,Male,Houston,1365
+9baadd,Mark Nichols,35,Female,Los Angeles,327
+6fc8d3,Susan Vaughan,36,Male,Houston,3640
+fbe6dc,Erin Contreras,69,Other,Los Angeles,4662
+5e1a55,Tony Foster,23,Female,New York,3538
+c5edc5,Catherine Taylor,62,Other,Houston,3753
+394f6e,Michelle Chambers,55,Female,New York,3771
+fac931,David Reyes,65,Other,Houston,1179
+764b78,Paul Fowler,26,Male,Los Angeles,1740
+7b251b,Sarah Johns,39,Other,Los Angeles,3064
+5c437d,Rebecca Jimenez,19,Male,New York,3510
+e28241,Bryan Serrano,32,Female,Miami,3245
+910a5c,Kayla Bailey,46,Other,Miami,218
+7aa996,Michael Serrano,47,Female,Los Angeles,4919
+f4a6aa,Jennifer Butler,23,Male,Chicago,2478
+d94a8d,Kenneth Stanton,22,Male,New York,3134
+99c6bc,Cindy Jordan,32,Other,Chicago,615
+a41551,Calvin Anderson,59,Other,Los Angeles,2800
+5ef2cb,Shawna Jackson,30,Male,Houston,866
+fb830c,Joseph Johnston,47,Male,Chicago,3266
+42acd2,Hunter Ford,37,Female,Los Angeles,4694
+da73b9,Kayla Peterson,34,Female,Miami,3613
+009426,Cody Lopez,42,Female,Los Angeles,4338
+deeb02,Melissa Hayden,42,Female,Miami,1819
+ce09f7,Alicia Ramirez,50,Other,Houston,835
+998606,Jim Jones,40,Other,Los Angeles,889
+432e80,Joshua Rodriguez,28,Other,Chicago,2093
+89e015,Carrie Valdez,62,Female,Los Angeles,785
+cb95b3,Henry Arnold,33,Male,Los Angeles,4019
+4d28be,Shari Thomas,29,Male,Houston,2425
+48807e,Gary Johnson,67,Male,New York,4384
+bc13bd,Joshua Lee,62,Female,Los Angeles,2269
+c8f5a1,Matthew Rodriguez,32,Male,Miami,2306
+fde81a,Alexis Barnes,36,Female,Miami,4669
+bdffac,David Fox,32,Female,New York,1405
+743218,Christina Clayton,61,Other,Chicago,4264
+d98f5f,Claire Adams,54,Female,Houston,3028
+a024a6,Mrs. Kaylee Johnson,58,Male,New York,549
+7dd719,Adrian Manning,62,Female,Chicago,4688
+165d17,Wendy Hill,49,Male,Chicago,4319
+ef4d17,Pamela Castro,57,Male,Los Angeles,4172
+f07936,Lisa Brennan,22,Other,Los Angeles,4807
+696714,Amanda Hansen,24,Other,Los Angeles,4427
+deb863,Hunter Johnston,55,Female,Miami,4052
+a7c543,Amy Hughes,68,Male,Miami,3253
+517c87,Jason Hobbs,54,Other,Los Angeles,998
+a6eac5,Vanessa Martinez,55,Male,Los Angeles,1072
+c7810b,Kristen Myers,42,Male,Houston,205
+c4ca97,Ryan Carter,31,Other,New York,1536
+0b2ce2,Jon Evans,27,Female,Los Angeles,1252
+062485,Jeff Miller,43,Male,Los Angeles,2295
+f8480b,Amy Wells,27,Other,Los Angeles,1184
+5fb1f2,Brian Burch,31,Male,Chicago,3967
+135b92,Matthew Lam,47,Other,Houston,4217
+c65c2e,Lori Wallace,60,Male,Chicago,2992
+f94e7d,Ian Chavez,43,Female,Houston,4830
+f42bb5,Amber Steele,25,Other,Miami,1816
+bc954b,Crystal Oconnell,60,Female,Los Angeles,1678
+d48b6b,Susan Rogers,59,Other,Chicago,3494
+3d3019,Christine Li,64,Other,New York,550
+7d731f,William Edwards,34,Female,New York,2937
+846475,Tiffany Weber,50,Male,New York,835
+29c32f,Pamela Thomas,25,Male,Miami,3779
+97aaa0,Wanda Morgan,34,Female,Los Angeles,3638
+31aaca,Danny Warner,62,Female,New York,3371
+379b6e,Zachary Green,68,Other,Miami,3812
+2f88a8,Kathleen Mccoy,50,Other,Los Angeles,3972
+484e76,Glenda Chapman,60,Other,Miami,3954
+615559,Amanda Rhodes DVM,32,Other,New York,2494
+f3c229,Marvin Figueroa,43,Other,New York,4572
+a8c4b1,William Baker,24,Other,Los Angeles,3561
+d48235,Amanda Moore,31,Male,Miami,1060
+f249ec,Connie Ortiz,36,Female,Los Angeles,851
+4ff89f,Brooke Hanson,22,Male,New York,3878
+2f6861,Brittany Richardson,55,Other,Chicago,1012
+f38f02,John Luna,40,Male,Miami,2520
+50d1b1,John Fritz,41,Other,Chicago,1424
+d5a394,Brianna Frank,62,Other,Los Angeles,4587
+7fbad0,Scott Hamilton,24,Female,Miami,2529
+03f047,Veronica Henderson,64,Male,New York,2290
+bb2dd3,Susan Hale,38,Male,New York,1466
+026fb0,Breanna Hatfield,44,Male,New York,862
+b5ce5b,Lacey Gilmore,41,Other,Chicago,4646
+a1f7f9,Shane Leon,18,Female,New York,3148
+d19ca5,Haley Jones,23,Female,Houston,4515
+91a639,James Anderson,35,Other,Los Angeles,4133
+47c638,Natalie Nguyen,65,Other,Houston,3872
+27c56d,Nicholas Powers Jr.,67,Female,Los Angeles,2947
+ef8569,Elizabeth Chase,56,Female,Miami,2704
+135273,Francis Lawrence,53,Other,Los Angeles,912
+6d80fe,James Schmidt,49,Female,Los Angeles,2300
+d87c8d,Olivia Jones,18,Female,Houston,2971
+412aeb,Paul Cunningham,32,Female,Miami,2666
+f6d2db,John Olson,66,Male,Chicago,1343
+7e3070,Michelle Alvarez,31,Female,Houston,160
+1be1d3,William Moore,26,Male,Chicago,2440
+2cd6f3,Brad Mendoza,67,Female,Chicago,3603
+42f1bd,Brooke Brown,43,Female,Miami,2005
+641463,Jennifer English,52,Male,Miami,4731
+841a87,Madison Bell,31,Male,New York,1055
+161de1,Austin Armstrong,61,Female,Chicago,4351
+ceb3d2,Michael Harvey,28,Other,New York,2849
+0f54db,Cameron Mckenzie,21,Female,Chicago,2672
+eda3c5,Kelly Meyer,28,Female,Miami,4745
+52cbd0,Mary Hudson,52,Female,Chicago,1931
+380fe2,Charles Escobar,36,Female,New York,622
+f17822,Harold Eaton,52,Other,Chicago,2217
+bc6a16,Michael Mueller,37,Female,Los Angeles,1809
+ad0242,Katherine Marshall,51,Female,New York,642
+f3d752,Dr. Emily Jones,24,Other,New York,3710
+2ebfcc,Kimberly Doyle,54,Other,Los Angeles,4028
+4944ca,Ashley Murphy,69,Other,New York,570
+14b993,Christian Mckenzie,64,Male,Los Angeles,3748
+5ce66a,Cheryl Freeman,25,Other,New York,4128
+c69c7f,Adam Bell,68,Male,New York,2765
+b15daa,Vincent Mcpherson,22,Male,Miami,2414
+825172,Patrick Palmer,44,Other,Chicago,1002
+8d8cc8,Mrs. Wanda Rogers,53,Female,Miami,1119
+b040c8,Charles Pacheco,41,Male,Los Angeles,4377
+851882,Juan Hawkins,19,Female,Houston,3590
+f62620,Cody Miranda,21,Other,Los Angeles,3783
+cd4679,Dalton Gutierrez,41,Male,Miami,4386
+8d75c8,Richard Blackburn,31,Other,Chicago,2851
+de0fd8,Antonio Morales DVM,29,Male,Miami,4898
+9be049,James Garcia,35,Male,New York,4972
+a5f0ed,Gina Mckay,55,Other,New York,1936
+2e32e2,Rebecca Thompson,21,Male,Houston,3505
+e3119a,Christina Cruz,32,Other,Los Angeles,3102
+c5a7ea,Amy Fisher,68,Other,Miami,1070
+36f042,Richard Burke,59,Other,Chicago,550
+e6d7ce,Mason Ramsey,50,Other,Chicago,2852
+de7164,Robert Wise,19,Male,Los Angeles,4206
+b86e1b,Tyler Price,24,Male,Miami,2530
+806336,Carrie Coleman,18,Male,Chicago,1616
+324138,Angela Lewis,20,Female,Miami,2999
+856b7c,Blake Oneal,44,Female,New York,547
+29ca01,Anna Rodriguez,45,Female,Miami,1460
+a89f11,Russell Martin,31,Other,Houston,4317
+713c4a,Tanner Berger,68,Male,Houston,285
+e92271,Joshua Daniels,53,Other,Houston,4901
+ac77f9,Lori Hall,43,Male,Los Angeles,815
+3461eb,Justin Robinson,20,Other,Houston,4430
+e866bb,Julie Stevens,68,Female,Houston,2892
+c3b467,Rebecca Clayton,54,Male,Los Angeles,2804
+2472ba,Raymond Perry,62,Other,Los Angeles,2857
+e4f28d,Andrew Clark,40,Female,Miami,455
+b16a45,Annette Stein,68,Male,Los Angeles,3559
+b358df,Paula Adkins,48,Other,Los Angeles,2022
+169c72,Christian Bradley,38,Male,Houston,4502
+f6773f,Mariah Wolfe,30,Male,Miami,817
+3854f6,Emma Kirby,39,Female,Houston,4121
+268d73,Caitlin Martinez,66,Male,New York,755
+d75002,Pamela Levy,65,Other,Los Angeles,830
+427368,Steven Sanders,20,Other,Chicago,4636
+80dd64,Amber Wise,23,Male,Chicago,1274
+81677a,Paul Grant,31,Male,Houston,1365
+749cf7,Brent Stephens,68,Male,Los Angeles,2521
+322ab7,Tara Anderson,65,Female,Los Angeles,3640
+babbca,Joseph Martinez,43,Male,Houston,502
+60e4af,Thomas Reid,24,Other,Miami,2309
+b382d4,Melissa Fitzgerald,50,Female,Houston,1311
+2b3307,Alejandro Cohen,30,Female,Chicago,4739
+6050a6,James Liu,20,Other,Los Angeles,1111
+ecf53f,Larry Dorsey,33,Female,Los Angeles,3551
+d92165,Kimberly Rose,31,Male,Chicago,604
+f81026,Bryan Livingston,46,Male,New York,4286
+34952a,Mr. Shaun Nelson,65,Female,Houston,304
+9c3e21,Cheryl Welch,41,Male,New York,3392
+7d27ad,Daniel Johnson,39,Other,New York,1955
+14dcc1,Alicia Robertson,24,Male,New York,1385
+dc3fbf,Eric Miller,18,Male,New York,3271
+67ba19,Whitney Morrison,34,Other,Los Angeles,1051
+f30ce2,Rebecca Mann,22,Other,Miami,4839
+b7739f,Cathy Ryan,26,Male,Los Angeles,4949
+479a80,Amber Thornton,29,Female,New York,2382
+9316d1,Mary Mullins,47,Female,Houston,4142
+d1c109,Diana Pierce,66,Male,New York,2792
+2e6a34,Jenny Baird,43,Other,Houston,2658
+c9b24b,Kevin Johnson,61,Other,Houston,3767
+4614fa,Pamela Gonzalez,61,Female,Miami,3358
+b430be,Victoria Smith,25,Other,Chicago,3850
+e6c3e0,Frank Cervantes,49,Female,Los Angeles,2885
+86912d,Joseph Mckay,29,Other,Los Angeles,3821
+3c9e2e,Deborah Clark,58,Other,Miami,136
+5dcc16,Kelsey Fernandez,50,Male,Miami,4085
+93f006,Ronald Patterson,69,Other,Chicago,598
+5f845b,Brandon Watkins,50,Other,Los Angeles,4388
+2cc6a5,Virginia Potter,69,Male,Los Angeles,923
+3358e3,Bradley Jensen,63,Other,Los Angeles,4115
+35aead,Steven Rivera,27,Female,Chicago,326
+340fa2,Gerald Long,46,Female,Los Angeles,4578
+e10e37,Justin Ochoa,24,Male,New York,3769
+cf5ea5,Anthony Adams,41,Other,New York,2126
+f3440f,James Cruz,34,Other,Chicago,2510
+b3fa0c,Jonathan French,62,Male,Miami,2429
+2eb578,Ann Sims,65,Other,Houston,1383
+9139da,Jeffrey Vincent,37,Female,Miami,3462
+cf4be0,Susan Cole,37,Female,New York,3455
+c98704,Karen Bailey,69,Female,Houston,1920
+b55b1d,Lisa Rhodes,24,Male,Houston,171
+988708,Jennifer Stanley,36,Other,New York,4093
+6dea48,Jessica Thomas,27,Female,New York,4521
+55ea80,John Rodriguez,56,Other,Houston,3586
+b6337c,Steven Miller,23,Female,Los Angeles,926
+e50368,Tiffany Donovan,45,Female,Houston,3074
+2c4ab8,Benjamin Smith,53,Female,Chicago,1315
+28b3e6,Mr. Cody Estrada,30,Female,Los Angeles,3874
+7d79c3,Danielle Burch,23,Female,Miami,512
+01b137,Kristin Reed,65,Male,New York,2976
+492bcd,Thomas Gordon,49,Female,Chicago,1269
+f16a65,Jorge Kelly,22,Male,Houston,3585
+509053,Keith Best,46,Male,Miami,807
+2a7267,Valerie Johnson,35,Male,Houston,3524
+32f346,Erika Yoder,22,Other,Houston,4415
+817f0a,Jesus Simmons,66,Other,Houston,3649
+b0ca74,Michael Glenn,42,Male,New York,4888
+674271,Daniel Jimenez,43,Female,Miami,4405
+329999,Andrew Williamson,18,Male,New York,983
+276777,Patrick Hayes,69,Female,Chicago,4197
+1be786,Marcus Garcia,55,Other,Houston,2163
+d1fb27,Richard Wheeler,36,Other,Miami,2787
+62fba1,Stephanie Barton,36,Male,New York,3560
+fe9ab8,Amy Sandoval,40,Male,New York,4343
+fcf788,Natasha Ray,53,Other,Chicago,4322
+36ecae,Angela Lyons,44,Female,Houston,4763
+0c40d4,Janet Buckley,33,Other,Los Angeles,3506
+597236,Beverly Martinez,29,Other,Miami,580
+10282e,Heather Francis,48,Other,Miami,2542
+c07f19,Mary Kelly,65,Male,Miami,3749
+6ba094,Michael Bond,53,Male,New York,1332
+3c3c3a,Matthew Stout,57,Female,Miami,1705
+d2ce65,Michael Downs,32,Other,Chicago,2293
+e27748,Susan Bell,43,Other,New York,2919
+d63835,John Francis,40,Female,New York,4276
+5b0319,Mike Dawson,54,Other,Los Angeles,3891
+6e6d24,Teresa Freeman MD,48,Male,Los Angeles,4011
+02ee73,Rebecca Scott,50,Male,Chicago,2187
+791641,Nicole Miller,33,Other,Chicago,589
+e882e6,Linda Patterson,58,Female,Miami,3624
+841184,Catherine Harris,39,Male,Houston,1236
+14934a,Rebecca Clark,29,Female,Miami,102
+01e658,Amanda Bryant,57,Female,Chicago,2823
+b70f19,Todd Murphy,66,Female,Los Angeles,598
+669628,William Shelton,61,Other,Chicago,1200
+8c2866,Michael Shaw,59,Other,Houston,1002
+5a68fd,Alicia Wilcox,46,Other,New York,3127
+75da44,Anna Hartman,57,Male,New York,2003
+ce8c13,Ryan Short,35,Other,Houston,2476
+00ba34,Hector Maddox,21,Female,Houston,2650
+b783d6,Heather Evans,69,Male,New York,4083
+6c261a,Jason Singh,53,Female,Los Angeles,2845
+399187,Daniel Owens,33,Male,Los Angeles,2343
+f4ddbf,Susan Jones,57,Other,New York,4191
+61e15c,Taylor Hamilton,62,Other,New York,2956
+04f438,Erik Malone,56,Other,Miami,2052
+89ca21,Victoria Campbell,28,Other,Los Angeles,691
+d1db51,Brian Collins,44,Other,Miami,2890
+8611f2,Sherry Cooley,27,Male,Houston,3648
+3716bc,Jessica Wright,48,Male,Los Angeles,1119
+a3857b,Joshua Wood,63,Male,New York,599
+1fa5d9,David Wagner,29,Other,Los Angeles,918
+3ae702,Eugene Watson,46,Other,Chicago,1672
+2d99ba,Jacob Dougherty,26,Female,Los Angeles,3589
+9fcafa,Jeffrey Stevens,62,Female,Los Angeles,3414
+cc7a41,Sophia Proctor,25,Male,Los Angeles,1646
+ee25c7,Hector Rodriguez,61,Other,Houston,2238
+c23ac9,Robert Benitez,24,Female,Chicago,4622
+eb0bf4,Carolyn Fuentes MD,52,Female,Los Angeles,3429
+703239,Michael Olson,56,Male,New York,283
+9ddb92,Carly Freeman,35,Other,Los Angeles,1196
+3ab2bf,Linda Davis,61,Male,Houston,1773
+a890b5,Gloria Cortez,59,Other,Chicago,4659
+9a6049,Steven Bell,38,Other,New York,2302
+d0d6d0,Jason Thomas,39,Other,Miami,4915
+4cc23c,Steven Hernandez Jr.,42,Female,New York,689
+006075,Joshua Lopez,38,Female,Miami,2856
+5beaa2,Dean Brown,68,Female,Chicago,439
+9c056a,Robert Gonzales,36,Female,Miami,1172
+4c9dcb,Sarah Moss,61,Other,Miami,369
+d5f1b8,Judith Romero,35,Male,Houston,636
+726865,Kenneth Rios,35,Female,Houston,398
+77b24f,Ian Hartman,67,Other,New York,1879
+c78bdd,Jesus English,60,Other,New York,1673
+afff0e,Christopher Clayton,50,Male,Houston,1171
+d9ee02,Willie Allen,42,Female,New York,4027
+21651b,Marcus Gregory,28,Other,Chicago,3768
+6f8a2b,Carlos Ross,54,Female,New York,4884
+a199e2,Robert Curtis,56,Female,Chicago,4661
+2184cd,Stephanie Snow,29,Other,New York,1304
+f44ab1,Michael Brown,64,Female,Chicago,757
+87534f,Brenda Johnson,56,Other,Miami,1037
+218f83,Elizabeth Kennedy,30,Female,Houston,2364
+7cb4ed,Douglas Klein,52,Other,Los Angeles,4491
+155821,Jessica Mercado,24,Male,New York,2256
+6f73d5,Jamie Scott,36,Female,New York,4830
+4f7695,Ronald Burns,52,Other,New York,1445
+e3e7c8,Anthony Cohen,42,Female,Miami,2725
+a16ce0,Charlotte Buck,60,Other,Houston,4780
+8a82a5,Daniel Rhodes,30,Male,Houston,4794
+521b39,Erica Smith,46,Female,Houston,2796
+de9b34,Hannah Marks,30,Other,Chicago,1094
+6e4a29,Fernando Henry,56,Female,Miami,891
+1be5c5,Nathan Ford,56,Male,Houston,3229
+0bfdea,Philip Hudson,55,Male,Chicago,797
+6b1832,Todd Price,51,Other,Houston,4866
+a7169a,Matthew Jacobs,45,Female,Los Angeles,4574
+a2f6f0,Ronnie Smith,37,Other,Chicago,3306
+bd8d93,Gabrielle Duke,20,Other,Chicago,4051
+10e68c,Tina Michael,42,Other,Houston,2968
+7f4a9b,Francisco Mills,49,Male,Chicago,4380
+f91ced,April Baird,40,Female,Los Angeles,3851
+e20993,John Miller,30,Female,Miami,1257
+c1b0d8,Anna Butler,31,Other,New York,533
+072e46,Susan Beard,18,Male,Los Angeles,264
+f48def,Shannon Hayes,67,Other,New York,3341
+3b5ff1,Richard Moore,43,Male,New York,3508
+1bd746,Lisa Taylor,26,Male,Houston,3357
+fa5be2,Charles Villa,37,Female,New York,1944
+969342,Michael Buchanan,64,Female,Houston,1661
+07d0fa,Jillian Black,25,Other,New York,1599
+8298f6,Patrick Johnson,50,Female,Chicago,3121
+f3b263,Christina Porter,59,Female,Chicago,1114
+3bf3d1,Roberto Bryan,53,Female,New York,2984
+0f3d44,Robin Cabrera,42,Male,Houston,713
+4d0e81,Jacob Wiley,34,Female,Los Angeles,4631
+48b19c,Joseph Myers,26,Male,Chicago,629
+0a5d97,James Jacobs,43,Female,Miami,411
+56d2e5,Danielle Walker,45,Male,Miami,2435
+97508f,John Hernandez,64,Male,Los Angeles,202
+4f1de8,Margaret Williams,64,Female,Miami,394
+5fc397,Lauren Best,27,Male,Houston,834
+e577d5,Tracy Jackson,63,Other,Houston,1143
+141d09,Scott Morgan,29,Male,Miami,467
+97b5a6,Lisa Mitchell,54,Other,Chicago,3116
+e39d70,Erica Odom,44,Other,New York,4210
+137b7a,Deborah Dixon,56,Other,Chicago,1527
+527037,Mr. Cody Howard MD,68,Male,Houston,4403
+e80e72,Steven Evans,37,Male,Chicago,3182
+d05778,Wayne Owens,50,Male,Miami,2832
+05429a,Adrienne Russell,38,Other,Los Angeles,629
+a5d69a,Andrew Armstrong,31,Male,Los Angeles,2413
+f70b97,Robert Abbott,30,Female,Houston,2062
+bba1a2,Madison Morton,37,Male,New York,4109
+046876,Mr. Mark Soto MD,63,Female,Los Angeles,1591
+fadeac,Jesse Downs,41,Female,Chicago,1812
+d57f68,Mariah Long,35,Female,Chicago,4936
+8ac958,Kara Brooks,39,Other,Houston,3427
+6d9e41,Mary Bass,30,Other,Houston,2287
+644edb,Joseph Robinson,23,Male,Los Angeles,3674
+6f213a,Ralph Salinas,33,Other,Miami,2026
+56f3fd,Dominique Hall MD,33,Female,Chicago,4595
+929607,Brian Wagner,44,Male,New York,1388
+3099a6,Sarah Gonzalez,63,Female,New York,1741
+8ef359,Michael Peterson,65,Male,Los Angeles,876
+bcd9b6,Susan Harris,44,Other,Chicago,131
+b56e88,Christopher Raymond,61,Female,Chicago,1037
+092674,Alexis Ward,22,Other,Chicago,3306
+ef2256,Michael Smith,42,Female,Houston,3857
+d08f0b,Philip Curry,45,Male,New York,2145
+a7a4af,Ashley Sanders,42,Other,Houston,1868
+ae2b48,Benjamin Ryan,41,Male,Miami,3560
+ce36f2,Tony Graves,33,Other,Los Angeles,4920
+3e42fa,Natalie Martinez,39,Other,Houston,4625
+23ec1e,Derek Cox,51,Female,Chicago,427
+b79214,Juan Holmes,26,Female,Chicago,4623
+a7b820,Troy Johnson,59,Other,Miami,2846
+de5fce,Bradley Rich,22,Other,Houston,4667
+b384b0,Paul Gibson,24,Male,Houston,1204
+c57ffd,Anthony Ponce,65,Female,Chicago,386
+3349ba,Kevin Thomas,54,Female,Miami,2067
+220693,Benjamin Jones,48,Female,Miami,381
+e3b88c,Connor Williams,55,Female,Los Angeles,3933
+b41934,Samantha Benjamin,27,Other,Los Angeles,2844
+a0a6cd,Patrick Griffin,58,Male,Miami,1052
+57b538,Crystal Gillespie,19,Male,Chicago,881
+809b24,Gerald Harris,68,Male,Chicago,772
+7f32c7,Ryan Medina,38,Male,Chicago,1789
+ab03ae,Dominique Freeman,48,Female,Los Angeles,4513
+69b1e8,Wayne Sutton,32,Other,New York,4207
+7f2786,Deborah James,45,Other,Houston,1036
+0b305f,Michael Martin,30,Other,Chicago,3999
+ffe6fb,Anthony Kim,18,Other,Houston,807
+55d826,Andrea Ruiz,41,Female,Chicago,4731
+4f9e79,Lee Wilcox,44,Male,Houston,212
+236aec,Jamie Ball,42,Female,Miami,4702
+0dfd21,Jacqueline Rowe,64,Female,Miami,1903
+b9edbb,Sharon Pierce,31,Other,Chicago,4011
+777e71,Karen Rasmussen,29,Female,Chicago,2343
+bc1af7,Tammy Carter,54,Male,Chicago,3991
+26de12,Michael Jones,34,Female,New York,3811
+188867,Tiffany Morris,61,Male,Miami,929
+fe11c9,Kimberly George,27,Female,New York,181
+111961,Linda Wright,64,Female,Houston,4059
+768ea0,Christina Cook,59,Male,Miami,1118
+c72a82,Thomas Davis,63,Male,Miami,4107
+d06f0c,Rebecca Nelson,51,Male,New York,347
+ffb53b,Troy Bond,25,Other,Houston,572
+1c8468,Carly Davis,46,Female,Miami,2921
+559198,Cory Miller,39,Female,Chicago,3661
+82bbd5,Grant Hampton,30,Other,Chicago,2455
+4a8ec4,Erin Smith,45,Other,Chicago,364
+af09c7,Patricia Chandler,37,Female,Chicago,4743
+ac1f21,Stacy Lawson,20,Male,Houston,1564
+a33fd6,Erica Benson,24,Male,Miami,1027
+a2a44a,Jennifer Berry,67,Male,New York,2373
+eee69d,Kevin Washington,63,Female,Miami,1472
+d9e26e,Evelyn Palmer,54,Male,New York,2386
+9050c3,Christopher Smith,51,Other,Houston,3255
+43b21e,Jordan Brown,19,Male,Chicago,414
+eb1d04,Kimberly Glenn,26,Female,Houston,3025
+2e00bc,Nancy Campbell,41,Male,Houston,2115
+7726e9,William Hart,37,Female,Chicago,2507
+4974a3,Reginald Ross,68,Other,Chicago,1316
+bbca43,Rodney Gonzalez,47,Male,Houston,238
+ed5871,Natalie Nguyen,41,Male,Houston,2350
+c3389e,Daniel Kim,54,Female,Houston,2277
+e52bb4,Tony Duffy,48,Other,Los Angeles,2652
+af83e5,Kayla Lee,61,Female,Houston,4137
+dee43b,Edward Brown,42,Male,Chicago,4029
+6a745f,William Vazquez,39,Male,Los Angeles,4693
+5ade9d,Lisa Lam,32,Other,Los Angeles,3986
+b7a2e1,Holly Vasquez,36,Male,Los Angeles,1554
+bd858f,Joseph Boyd,31,Other,New York,697
+ab65f0,Sheila Cameron,30,Other,New York,1598
+b649b5,William Smith,43,Other,Miami,272
+cd5360,Crystal Nguyen,23,Other,Los Angeles,1466
+f20635,Stephen Hernandez,54,Male,New York,1997
+80f669,Craig King,39,Female,Miami,4386
+037ee3,Daniel Mcmillan,22,Male,Chicago,743
+8275bc,Ashley Smith,68,Male,Miami,1068
+f4772a,Matthew Moore,64,Male,Chicago,2137
+19b01f,Michael Cook,47,Other,Houston,3705
+caa71f,Katrina Park,66,Female,Los Angeles,4205
+d7db4a,William Clark,49,Female,New York,2814
+ac83df,Katie Lowe,33,Male,Houston,3678
+703312,Taylor Richardson,44,Other,Chicago,4193
+569178,Corey Johnson,33,Other,Chicago,2415
+b93d15,Michelle Davis,24,Other,Miami,1424
+42b06d,Cynthia Solomon,56,Female,Miami,4462
+9931e4,Jay Hancock,69,Other,New York,4090
+b6113b,Susan Evans,21,Other,Chicago,1704
+7aa72c,Christopher Peck,53,Male,New York,1390
+60eeab,Zoe Berry,23,Other,Houston,4659
+6b8a4d,Karen Freeman,33,Other,Chicago,3820
+b829c0,Linda Brown,37,Other,Chicago,4986
+8a7203,Troy Nelson,44,Female,Miami,140
+03aae0,Sheila Green,64,Female,Houston,123
+57669f,Wendy Nash,33,Female,Miami,3776
+b1f467,Ashley Vance,59,Other,Houston,1441
+439e44,Walter Burke,54,Other,Chicago,4849
+8d2a63,Brian James,26,Other,Houston,2208
+76987b,Joshua Lin,44,Female,Chicago,353
+f472b6,Stephanie Flores,44,Other,Houston,3314
+eaf534,Tracy Green,31,Female,Los Angeles,1442
+8ede1d,Jessica Forbes,33,Female,Miami,4292
+7e9ae4,Jason Whitaker,67,Male,Chicago,4762
+67b5e0,Sean Powell,19,Female,Chicago,4269
+e1f613,Jessica Bailey,24,Other,Chicago,1679
+a44dc1,David Wood,43,Other,Miami,547
+89e624,Elizabeth Green,56,Female,New York,2389
+3e75f0,Benjamin Hodges,59,Other,Los Angeles,1554
+1a5692,Daniel Brown,53,Male,New York,4093
+5007f9,Samuel Mitchell,42,Female,Los Angeles,3039
+e1a2c6,Dr. Jennifer Lynn,35,Female,Chicago,4603
+4b7647,Amy Page,32,Male,New York,2454
+f9c194,Jared Hamilton,67,Other,Chicago,3390
+903de4,Gwendolyn Barron,66,Female,Los Angeles,1865
+f48c02,Sheri Dudley,34,Female,Houston,505
+8a1234,Jodi Durham,37,Male,Los Angeles,1260
+8dc5a1,Bradley Brown,42,Male,Chicago,2967
+85419b,Gary Arroyo,66,Female,Chicago,4267
+5a01ad,Katherine Jones,68,Other,New York,589
+54c6b3,Melissa Reyes,41,Other,Houston,2274
+252f40,Mark Becker,28,Other,Miami,251
+3fa411,Sherry Beck,18,Female,Los Angeles,3322
+8d01cb,Michael Marsh,24,Male,Los Angeles,1617
+67ef46,Robert Duffy,34,Female,Houston,3877
+81d2a8,Nicole Hayes,23,Female,Chicago,4347
+8a5ef6,Nancy Turner,46,Male,Houston,233
+7ec485,Megan Sampson,27,Female,Houston,568
+c91e20,John Holt,26,Female,New York,4996
+e2cf26,Mark Hanson,41,Other,Miami,2832
+159f70,Abigail Bennett,30,Other,Chicago,340
+fcd9e5,Valerie Cardenas,18,Male,Chicago,216
+f6d85e,James Wilson,62,Other,Los Angeles,698
+4176ce,Beverly Mora,50,Female,Houston,4208
+44e7c4,Michael Rodriguez,52,Female,Miami,4787
+323296,William Thompson,42,Male,New York,1997
+80298b,Natalie Williams,45,Female,Miami,1962
+3e4fb1,Sergio Wells,54,Female,Los Angeles,2028
+44baa7,Rachel Bradshaw,47,Other,Miami,4189
+ca0647,Robert Mcclure,36,Female,Chicago,1882
+ddd5c9,Juan Morgan,62,Other,Houston,1853
+80f7d3,Sarah Lee,41,Male,Los Angeles,3780
+5ca5c4,Tamara Myers,46,Male,Chicago,1510
+ed65d8,Stephanie Preston,38,Female,Houston,4890
+56f64c,David Richmond,33,Female,Los Angeles,769
+3a2887,Colleen Macias,27,Other,Miami,4335
+ddbfaf,Joshua Santos,42,Male,Miami,1428
+f49b71,Alicia Edwards,66,Male,Chicago,3334
+5f9203,Joseph Reyes,53,Female,New York,4290
+adbe2c,Rebecca Murphy,27,Other,Miami,2922
+a6d666,Steven Levy,23,Female,Miami,4960
+9cf256,Elizabeth Sanchez DVM,48,Other,Chicago,1633
+be40b5,Carolyn Thompson,25,Other,New York,703
+2d6fcd,Samantha Wright,49,Other,Chicago,4025
+b891ec,David Ellis,59,Male,Chicago,2291
+4ddda6,Christine White,65,Male,New York,3625
+57e73d,Jimmy Allen,31,Other,New York,4524
+c2a926,Amy Casey,51,Female,New York,1179
+4f5468,Jonathan Goodwin,52,Female,Houston,2481
+6f3537,Derek Fernandez,23,Female,Los Angeles,4617
+8146c5,Joe Rivera,36,Male,Chicago,4452
+2e112d,William Green,34,Female,Chicago,570
+e7b1e2,Erik Scott,68,Female,Los Angeles,1275
+70a2bd,Connie Calderon,69,Male,Miami,2618
+018e42,William Lopez,42,Male,Chicago,3687
+c03913,Calvin Thompson,58,Male,Miami,463
+919c5b,James Harrison,41,Other,Los Angeles,2832
+16829a,Stacy Vasquez,21,Other,New York,2738
+a88154,Andrew Mcgrath,68,Other,Los Angeles,1140
+557c97,Joan Taylor,42,Male,Los Angeles,548
+578b24,Karen Weiss,48,Male,New York,3640
+c55b9c,Heather Kirby,61,Male,Chicago,1739
+e2861c,Stephanie Curtis,41,Other,Los Angeles,4468
+bd2fe2,Emma Durham,49,Other,Miami,3913
+8649a1,Bruce Williams,29,Male,Chicago,1904
+049f0a,Amy Ortiz,19,Female,Chicago,3497
+01fd79,Alexandra Poole,57,Male,New York,183
+80c4d4,Joshua Martin,54,Other,New York,738
+6adb2c,Gerald Henderson,27,Female,Houston,1246
+cd2ff5,Shirley Allen,32,Female,Houston,3500
+139ec8,Kristen Ferguson,42,Other,Los Angeles,478
+bf7d4c,Melanie Burch,53,Female,New York,101
+fa5e6a,Charles Hart,38,Female,Houston,3009
+6cc04a,Amanda Douglas,24,Female,Houston,745
+e242f3,Louis Davies,30,Other,Chicago,213
+4b7266,Ethan Wallace,41,Other,Los Angeles,4322
+2e55c0,Joyce Estrada,31,Other,Los Angeles,2548
+18a166,Walter Walker,54,Female,Chicago,1436
+ef9d09,Bailey Thompson,52,Male,Miami,1965
+860d91,Karen Olson,68,Other,Houston,1376
+cdb986,Frank Choi,41,Female,Houston,535
+332a63,Jesus Thompson,63,Female,New York,2794
+ebbe18,Dana Martinez,47,Other,Houston,1077
+41907a,Steven Wilson,55,Male,Miami,182
+4867d3,Tara Rhodes,60,Male,Chicago,3889
+566203,Jeff Wilson,25,Other,Miami,3862
+6cb430,Ashley Jimenez,60,Male,New York,3616
+5c8ecd,Patricia Johnson,39,Female,New York,257
+6635ac,Bianca Kennedy,42,Female,Houston,3957
+ff1724,Brianna Suarez,67,Male,Los Angeles,4522
+d42d41,Erika Smith,56,Female,Los Angeles,910
+a71936,Barry Potts,24,Other,Miami,4475
+fdcf61,Raymond Rodriguez,51,Male,Los Angeles,3809
+7a582d,Amy Callahan,18,Female,Los Angeles,2653
+17e8b2,Ashley Lewis,44,Male,New York,2289
+e53186,Stephanie Wells,60,Other,Chicago,1268
+580236,Cody Barnes,38,Female,Houston,2671
+113969,Kimberly Cooper,61,Female,Miami,3980
+0b2a75,Samuel Lawrence,56,Male,New York,4478
+3f252e,Renee Ballard,31,Male,Los Angeles,1008
+a94bef,Brandon Johnson,18,Male,Miami,4670
+0fe950,Richard James,64,Other,Miami,1513
+5e9d5e,Dylan Wilkinson,62,Other,Miami,4250
+c881a2,Kevin Ferguson,45,Female,Chicago,4056
+a4796d,Kathleen Moore,68,Female,Los Angeles,1912
+b95395,Nathaniel Reed,64,Other,Miami,4753
+c8996c,Gail Gutierrez,46,Female,Chicago,2097
+90d25e,Kevin White,56,Male,New York,2918
+644d9a,Donna Bonilla,69,Other,New York,4310
+8b56cd,Gwendolyn Bailey,21,Male,Chicago,3490
+34973b,Paul Edwards,49,Female,Miami,3328
+322b1b,Matthew Williams,66,Male,Los Angeles,3847
+d69ea5,Jennifer Pineda,40,Female,New York,3223
+8aac87,Amber Rios,27,Female,Miami,401
+a49c20,Alan Ward,18,Male,Houston,4743
+29fa3f,Joseph Wilcox,40,Other,Chicago,4761
+69ce4b,Robert Rodriguez,47,Other,Los Angeles,3934
+1acb5a,Matthew Baldwin,62,Female,Chicago,3361
+291f1a,Stephanie Walker,38,Male,Los Angeles,1687
+079f3b,Emily Ingram,69,Male,Houston,1860
+6386f9,Matthew Kelly,55,Male,Chicago,490
+a50664,Matthew Brown,52,Other,Chicago,3750
+ad2400,Alexander Nelson,29,Other,New York,4426
+01557f,Matthew Hess,45,Other,New York,3531
+c61505,Scott Harris,22,Male,Chicago,799
+93beff,Ashley Perez,55,Male,Miami,3644
+2f281f,Sheri Jacobson,28,Male,Houston,4989
+d0d41c,Timothy Mcdaniel,62,Female,Los Angeles,4680
+890482,Jody Mcdonald,51,Female,Chicago,4229
+e9f2d7,Joseph Brown,35,Female,Miami,4374
+d67be0,Jose Stuart,45,Other,Houston,408
+fc44de,Jessica Oconnor,62,Other,New York,1287
+5683fc,Matthew Cervantes,37,Male,Chicago,3042
+67fda6,Connor Foster,18,Female,New York,4866
+4294cc,Peter Flores,45,Male,Houston,4186
+81cc2e,Mary Frye,39,Other,Houston,2364
+5da1a2,Tonya Sullivan,47,Male,Houston,2753
+5e4b2d,Michael Riley,64,Female,Miami,482
+efb704,Kevin Roberson,67,Other,Houston,3122
+556d00,Patricia Nelson,28,Male,Miami,4640
+0b5401,Michael Thompson,52,Female,Miami,404
+39343d,Scott Thompson,62,Male,New York,2195
+623980,Melissa Howe,28,Male,New York,3733
+a3493f,Joseph Hammond,18,Other,Chicago,1093
+681a3f,Theresa Wilson,59,Other,Houston,3571
+f4abc6,Carlos Doyle,64,Other,Los Angeles,902
+be8fa9,Teresa Hart MD,61,Female,Houston,4121
+295be7,Jose Dean,64,Female,Los Angeles,1145
+5109e2,Mark Bird,36,Male,Miami,787
+76e9c1,Terry Allen,53,Other,Chicago,3349
+b81319,Joshua Moran,40,Other,Houston,939
+eae8fe,Thomas Garrett,50,Male,Miami,1707
+78b904,Hannah Gentry,28,Female,New York,3079
+112437,Kimberly Cooley,44,Other,Miami,3407
+c1b0e0,Eric Hobbs DDS,57,Female,Houston,2003
+eb9c04,Crystal Gonzalez,22,Male,New York,572
+3d9892,Michael Johns,63,Male,Miami,4161
+7c848e,Kyle Moses,62,Female,Los Angeles,3464
+ef2f16,Corey Rodriguez,68,Other,Chicago,2800
+f97860,Justin Wood,35,Female,Miami,707
+9a14a2,Joel Herrera,27,Male,Miami,1961
+6e88ee,Robert Harvey,41,Male,Chicago,2005
+878976,Kimberly Reed,54,Male,New York,1512
+060c5b,Dr. Anthony Stanley,62,Female,Chicago,2822
+159292,Megan Martin,26,Male,Los Angeles,1338
+8ef39e,Erin Mitchell,68,Other,Miami,2413
+1141de,Justin Fitzpatrick,26,Other,Los Angeles,2072
+d98057,Sarah Johnson,46,Male,Los Angeles,2604
+11d5fc,Ryan Wilkerson,65,Other,Houston,4511
+620889,Dawn Johnson,35,Female,Chicago,1536
+71c900,Alan Taylor,39,Male,Houston,2177
+5d31af,Scott Duffy,58,Other,Los Angeles,1449
+65d1b3,Margaret Bailey,44,Other,New York,394
+17c57a,Lisa Jenkins,52,Female,New York,2642
+ee3cea,Rachel Smith,40,Male,New York,1103
+5078c7,Cassandra Hunt,27,Male,New York,4970
+430d51,Doris Nixon,66,Other,Los Angeles,3317
+3035ae,Katherine Olson,59,Male,Houston,143
+d042d7,Bradley Mcclain,31,Male,Chicago,3068
+6af273,Adrian Buckley,39,Other,Los Angeles,3900
+a0f168,Alex Phillips,64,Male,Houston,4645
+d13dee,Michelle Moreno DDS,42,Other,Miami,2333
+f0559d,Michelle Wong,62,Other,Chicago,1275
+f9e6b5,Ms. Martha Tucker,29,Male,Houston,3416
+0e415b,Michael Johnson,38,Female,Miami,1405
+4981d2,Megan Gonzalez,68,Male,Houston,904
+8b4fd7,Stephen Wilson,41,Male,Houston,1037
+09a38b,Kimberly Sampson,58,Male,Houston,918
+242c81,Crystal Shaw,18,Male,Miami,2488
+b6ed47,Christopher Johnson,66,Female,Los Angeles,2519
+a01190,Kelsey Austin,30,Other,Miami,1832
+4ab5d9,Ryan Miller,28,Other,Chicago,655
+90c7d2,Marcus Cox,45,Other,Miami,4736
+336400,Jill Morgan,49,Female,Chicago,4346
+1fb5e2,Danielle Garza,60,Male,Los Angeles,3483
+ec5a24,Joyce Stephenson,51,Male,Chicago,320
+7dd647,Cindy Dixon,45,Male,Miami,200
+385998,Omar Adams,46,Other,Houston,1795
+ece1a8,Derrick Johnson,63,Female,Miami,4588
+2a5a46,Matthew Hicks,43,Male,Miami,1886
+0ca717,James Burton,65,Female,Miami,933
+67af03,Scott Barnes,26,Other,Houston,1350
+bbcb1c,Sergio Hodge,56,Other,Los Angeles,4813
+69e19f,Jonathan Donovan,25,Other,New York,3771
+5d1392,Brianna Hill,41,Female,New York,4597
+05ebb9,Kim Hicks,67,Male,New York,3163
+b63134,Lisa Kelley,33,Male,Los Angeles,1639
+6016e0,Michele Hall,59,Other,Houston,3253
+49b189,Courtney Brown,49,Other,Houston,2370
+d62c23,Nichole Gould,45,Female,Chicago,1575
+8c125b,Shelia Valentine,22,Other,Los Angeles,230
+8bda68,Dr. Suzanne Riley,41,Other,Houston,486
+39dc03,Janice Coleman,58,Male,Miami,2497
+abaf1b,Kelli Willis,34,Female,Miami,3986
+e9cb29,Susan Rosales,65,Female,Chicago,625
+8bcc93,Brittany Dalton,32,Female,Miami,3396
+31e5a9,Cameron Shields,44,Other,New York,142
+1b3cce,Ian Ellis,49,Female,New York,4087
+d2cb1e,Courtney Morrison,19,Other,Miami,2004
+109446,Marvin Lee,44,Female,Houston,2795
+d8cfc3,Alexandra Poole,27,Male,Los Angeles,2855
+904bcc,Michele Yang,51,Female,Chicago,709
+ebb58d,Timothy Thomas,52,Other,Miami,3504
+4f6ffc,Christina Sims,55,Male,Chicago,1049
+ab804f,Brian Kirk,49,Male,Houston,2638
+3c54f7,Jeffrey Randall,39,Female,New York,3667
+acf3fb,Ian Hanson,49,Other,Chicago,4454
+0927f6,Rebecca Hall,59,Male,Houston,301
+a4584e,Anthony Hamilton,51,Female,New York,2496
+3dc887,Brett Guerrero,65,Male,Miami,1241
+df3ff2,Derrick Smith,20,Female,Chicago,4155
+666208,Hannah Santana,24,Female,Los Angeles,497
+5622fb,Anthony Pruitt,47,Other,Chicago,2346
+676046,Crystal Edwards,61,Female,Los Angeles,3697
+6939f5,Thomas Tran,31,Other,Los Angeles,3756
+74681d,James Hartman,51,Female,Houston,1506
+8b5e9c,Terry Gonzalez,53,Female,Miami,1997
+1a4e28,Jennifer Schmitt,19,Male,New York,847
+8e5a20,Jordan Jones,43,Female,Chicago,280
+f1c727,Aaron Bass,63,Male,Miami,3559
+69cd34,Andrea Hart,29,Other,Los Angeles,510
+8f966b,Miss Teresa Guzman,50,Female,Chicago,3754
+d48a29,Anna Taylor,69,Female,Miami,314
+f5a78f,Christopher Roberts,64,Female,Miami,850
+847ca6,Jason Murray,29,Male,Houston,1167
+b30f89,Jonathan Conner,38,Male,Chicago,1939
+12f7f4,Jodi Cannon,43,Female,Chicago,3763
+71479e,Jonathan Lee,41,Male,New York,4286
+4496b6,Deborah Hall,35,Male,Los Angeles,4168
+de2185,Zachary Bridges,66,Female,Chicago,3893
+6f9164,Daniel Robinson,23,Male,Los Angeles,3734
+b71df6,Phillip Frazier,36,Male,Miami,1431
+299a61,Lisa Wilkerson,51,Female,Los Angeles,550
+49dfe8,Steven Hall,56,Other,Los Angeles,4353
+0dd638,Christopher Lutz,20,Other,Miami,1317
+e52bee,Andrew Myers,67,Female,New York,4132
+c9bc98,Dean Moore,39,Female,Miami,2396
+e544f2,Jacob Reynolds,43,Other,Miami,2348
+9b666d,Shannon Henry,20,Male,Miami,2173
+c2f6b5,Gina Garcia,66,Female,Los Angeles,3289
+c305d7,Brenda Rice,33,Other,Los Angeles,1368
+c5175b,Ruth Moore,34,Female,New York,1872
+93972d,Terry Romero,47,Other,Chicago,1894
+149f39,John Wright,47,Male,Chicago,1519
+709ffa,Jacqueline Henderson,45,Other,Houston,2798
+96ce3b,Daniel Mitchell,57,Male,Houston,2418
+2c5099,Catherine Anderson,54,Other,New York,2814
+630f12,Janice Contreras,54,Female,Miami,4561
+2d7372,Ryan Arroyo,61,Other,Chicago,761
+606b7c,Heather Torres,50,Other,Chicago,639
+8e9ec1,Carol Reyes,30,Other,Miami,4915
+de5be5,Michael Fox,23,Female,Chicago,1124
+c793fa,Bridget Reid,30,Male,New York,4684
+efeab0,Steven Jones,34,Other,Los Angeles,3681
+32d57c,Jeremy Wilson,53,Male,Chicago,3159
+dca1e7,Amanda Villarreal,54,Female,Chicago,2331
+b7126c,Jamie Stewart,35,Male,Houston,219
+0cdd95,Andrew Allen,61,Male,Miami,3478
+94be70,Laura Durham,54,Male,New York,1034
+49296d,Samantha Harris,33,Female,New York,1144
+6650bf,Christopher White,46,Other,New York,285
+d85c29,Anthony Wood,32,Female,Miami,4165
+b23cf7,Michael Howe,30,Other,Miami,3682
+435570,Christopher Campbell,18,Male,Miami,4066
+ff0415,Makayla Lewis,46,Male,Houston,4830
+8f7a7b,Wanda Green,39,Female,New York,3151
+42e357,Erica Wilson,47,Male,New York,4834
+f9bd5c,Justin Jennings,25,Other,Miami,3933
+3b1433,Scott Hernandez,58,Other,Miami,2872
+4a9482,Jon Knight,39,Female,Los Angeles,933
+2fadfb,Gregory White,60,Other,Houston,4935
+f0e70a,Steven Dixon,51,Other,New York,968
+123d06,Michael Byrd,43,Other,Miami,1971
+cd59ef,Sarah Tate,65,Other,Miami,1496
+7c25cb,Juan Gray,61,Other,Chicago,2803
+e61222,Kyle Gutierrez,69,Female,Los Angeles,4924
+39e041,Mark Mitchell,51,Male,New York,1147
+5dfa6c,Jessica Brown,55,Male,Houston,4861
+9c4833,Kristen Christian,56,Female,Chicago,1120
+7aacdb,Christian Davies,57,Other,Los Angeles,1893
+ad5233,Renee Salazar,22,Other,Houston,4495
+f1af9b,David Esparza,48,Other,Chicago,4697
+37949d,John Nash,62,Male,Houston,2577
+aaa08b,Michael Huber,62,Male,Los Angeles,1336
+9078e1,Kimberly Guerra,35,Female,Miami,2299
+c9abfe,Jasmin Coleman,45,Male,New York,478
+4a86cd,Peter Archer,30,Male,Houston,3523
+7a79a8,Aaron Peterson,51,Female,Houston,4785
+95ac73,Amy Jones,22,Other,Houston,2942
+a00039,Eric Bonilla,29,Other,Houston,803
+95740b,Mrs. Monica Daniel,56,Other,Miami,940
+f86430,Jamie Johnson,24,Female,Houston,3522
+ff53d8,Steven Ramirez,42,Female,New York,3979
+e80579,Kenneth Spencer,26,Female,Miami,2873
+810b92,Keith Johnson,30,Male,New York,2135
+3f0b9d,Nicole Curtis,22,Female,Chicago,1249
+4c1a0d,Sara Schneider,49,Female,New York,3657
+96e66d,Jeffery Brewer,24,Female,Chicago,2173
+a10e5a,James Rivera,48,Female,Houston,2839
+f8d2ba,Bryan Rosales,32,Other,New York,725
+763ade,Rebecca Wilson,48,Male,Chicago,4382
+2497d5,Rebekah Ortiz,59,Male,Miami,1307
+2bec9b,Vanessa Flores,45,Other,Houston,3495
+ba2fb6,Gina Martinez,30,Other,Los Angeles,1523
+5f6df7,Connie Mills,55,Other,Houston,2184
+4e5fff,Kendra Hess DDS,62,Other,Chicago,3485
+aa0cee,Mary Bailey,22,Male,New York,3680
+2bb3cf,Shannon Jackson,50,Female,Houston,4183
+7783c1,David Reyes MD,34,Other,Los Angeles,4776
+2063a8,Taylor Ramirez,45,Female,Houston,2228
+1c7514,Gerald Escobar,23,Other,Chicago,1279
+15557d,Michael Smith,64,Male,New York,3320
+820627,Jose Rodriguez,66,Female,Miami,4527
+a2dec6,Rebecca David,52,Other,Los Angeles,1950
+c26be1,Carl Chen,50,Male,Chicago,4426
+ec188d,Edwin Mason,27,Female,Houston,3482
+bf0a57,Dennis Parker,58,Other,Chicago,2479
+9a91d7,Tanya Hebert,24,Other,Los Angeles,4704
+cc57ff,Veronica Shea,29,Other,Houston,3158
+6224fa,Nicole Sawyer,23,Other,New York,3485
+30c1cd,Anthony Anderson,37,Female,Los Angeles,805
+129b41,Molly Ford,36,Male,Chicago,4370
+8be41e,Julie Harris,34,Male,Los Angeles,1372
+93ac52,Angela Riley,57,Male,Los Angeles,3135
+1df269,Phillip Mckay,58,Male,New York,4576
+610752,Meghan Baker,19,Female,Los Angeles,3639
+30ded8,Erica Davis DDS,45,Male,Miami,1977
+5d7d1f,Luis Murphy,34,Other,Chicago,1568
+67d3d5,Angela Butler,41,Female,New York,3838
+9416f1,Annette Grant,66,Male,Miami,1275
+1c47dd,Beth Hutchinson,62,Other,Chicago,1100
+76d8d2,Tyler Sanchez,33,Female,Houston,651
+636222,Sharon Brown,27,Male,Houston,4968
+98c017,Michael Campbell,29,Female,Miami,3116
+ea5024,Katherine Wood,35,Male,Houston,3176
+8739c9,Mr. Tyler Mendoza,53,Other,New York,3929
+2f397f,Joyce Gross,65,Male,New York,3314
+e21595,Sandra Collins,36,Male,Houston,2777
+e11cbc,Jeffrey Calhoun,49,Male,Chicago,1693
+bafce5,John Williams,45,Other,Chicago,420
+a4de02,Jonathan Hayes,68,Female,Chicago,1692
+f85bc2,Gabriel Wong,47,Female,Los Angeles,4544
+631a95,Franklin Johnson,41,Male,Houston,1328
+110ef6,Mark Jenkins,40,Female,Los Angeles,2038
+b6893f,Daniel Cross,41,Other,New York,4450
+acd031,Mario Mcdonald,45,Male,New York,3019
+cf5388,Stephen Smith,33,Female,Chicago,4892
+3c694f,Jonathan Kim,56,Female,Los Angeles,3322
+995c47,Natalie Krause,55,Other,Los Angeles,4029
+5fa418,Kevin Kelly,20,Female,Miami,212
+3dd337,Donna Brown,43,Other,Los Angeles,899
+0f1d91,Christina Kelly,56,Male,Los Angeles,3367
+e5c3ec,Vickie Horton,23,Male,Los Angeles,401
+63ba0e,Heidi Guerra,33,Female,Houston,516
+02164a,Jason Hansen,44,Female,New York,2246
+2ef2e9,Patrick Price,63,Female,Miami,4592
+887443,Austin Terry,38,Male,Miami,3729
+4b0d6a,Kimberly White,62,Other,Houston,4773
+00eab1,Samantha Jones,62,Other,Chicago,436
+48a7b4,Rodney Carey,26,Female,Miami,1778
+9bcca4,Stephen Russell,48,Female,Houston,2823
+34c489,Matthew Trevino,54,Female,New York,2119
+da598a,Brianna Lopez,32,Female,Houston,3123
+fe00ab,Tracy Boyd,35,Female,New York,2430
+cd76b8,Christopher Cooper,50,Male,Miami,1306
+057d26,Nicholas Dillon,29,Female,Los Angeles,2874
+66db05,Melissa Hernandez,41,Female,Los Angeles,2325
+7512bb,Jessica Dawson,66,Male,Los Angeles,1017
+d1646b,Dakota Jimenez,36,Other,Miami,3983
+01e50d,Julie Lynch,43,Male,Houston,3554
+74127e,Pamela Hill,36,Male,New York,1876
+f51987,Garrett Johns,63,Male,Los Angeles,4269
+c57065,Rebecca Cline,19,Male,Miami,2097
+8aab90,Charles Scott,51,Male,Chicago,3175
+667393,Rachel Schaefer,23,Male,New York,4111
+81183e,Olivia White,54,Other,Los Angeles,2786
+f378a4,Donna Anderson,18,Other,Los Angeles,1328
+8f4bf4,Kimberly Nguyen,23,Female,Miami,4336
+08107d,Cassandra Nichols,20,Other,Miami,2308
+005735,Aaron Barnes,35,Male,Chicago,310
+e5faed,Melissa Delgado,21,Male,Los Angeles,3993
+1280be,Angela Sanford,38,Female,Chicago,1767
+2190c2,Lisa Kline,49,Male,New York,899
+f977b5,Courtney Taylor,60,Male,Houston,4690
+84b0db,Sandra Peck,61,Female,Houston,2086
+22d979,Jordan Martin,18,Male,New York,2141
+6cd596,April Riggs,37,Female,Miami,1344
+52320c,Ryan Gonzalez,23,Male,Houston,2640
+5f286e,Crystal Maldonado,38,Other,Houston,1217
+8a6e45,Connie Franklin,31,Female,Houston,1246
+9121d5,Ryan Skinner,62,Other,Miami,3496
+917bf9,Brian Richmond,22,Female,Houston,4227
+ddbad0,Anthony Anderson,21,Female,New York,2277
+2e30b5,Dr. Ronald Montgomery,34,Female,Chicago,4457
+61d485,John Green,60,Other,New York,1608
+243f7a,Samantha Shelton,66,Other,Chicago,2440
+760701,Adrian Carlson,26,Male,Los Angeles,3985
+0fe502,Erika Manning,52,Other,New York,546
+87150e,Jeffrey Schwartz,39,Male,New York,1130
+ff2606,Roy Clark,64,Male,New York,2599
+dbc688,Sarah Castaneda,41,Female,Los Angeles,3938
+eb72c0,Stephen Duncan,40,Other,Los Angeles,4206
+38bb13,Todd Morris,69,Other,Los Angeles,4495
+51b2ac,Meghan Johnson,21,Other,New York,1557
+605d62,Jill Allison,19,Female,New York,1526
+47c718,Jacob Hall,48,Other,New York,1630
+74d3d7,Amanda Johnson,35,Female,Chicago,1558
+54d4d0,Stacy Payne,26,Other,New York,248
+6d51c9,James Banks,25,Other,Houston,1083
+76b638,Nicholas Phillips,36,Male,Houston,193
+e0d8ef,Sandra Allen,67,Male,Miami,1879
+69e501,Alice Stone,55,Other,Houston,421
+8c9b40,Sara Everett,27,Female,Chicago,2790

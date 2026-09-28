@@ -1,0 +1,301 @@
+Sensor_ID,Location,Date_Time,Vehicle_Count,Average_Speed,Congestion_Level
+a36f14,Downtown,2024-01-01 00:00:00,90,59,High
+256a39,Downtown,2024-01-01 01:00:00,324,73,Moderate
+a8a01f,Highway,2024-01-01 02:00:00,61,56,Moderate
+3036e3,Highway,2024-01-01 03:00:00,90,56,High
+2b45b1,Residential Zone,2024-01-01 04:00:00,72,77,High
+6204a2,Downtown,2024-01-01 05:00:00,243,61,Moderate
+10cf13,Residential Zone,2024-01-01 06:00:00,353,74,Moderate
+839bb8,Industrial Area,2024-01-01 07:00:00,475,46,High
+01274a,Highway,2024-01-01 08:00:00,61,53,Moderate
+d0bc93,Suburbs,2024-01-01 09:00:00,375,44,Low
+333284,Downtown,2024-01-01 10:00:00,441,21,Moderate
+0efa85,Industrial Area,2024-01-01 11:00:00,203,76,Moderate
+f2f551,Residential Zone,2024-01-01 12:00:00,398,70,Moderate
+f615a6,Industrial Area,2024-01-01 13:00:00,78,50,High
+989431,Downtown,2024-01-01 14:00:00,420,48,Low
+87a3d3,Suburbs,2024-01-01 15:00:00,337,63,Low
+e25a65,Highway,2024-01-01 16:00:00,430,41,Moderate
+aac3db,Highway,2024-01-01 17:00:00,296,54,Low
+0c2b41,Residential Zone,2024-01-01 18:00:00,409,32,Low
+0b9994,Suburbs,2024-01-01 19:00:00,168,46,High
+d08e95,Residential Zone,2024-01-01 20:00:00,458,28,Low
+8b2539,Suburbs,2024-01-01 21:00:00,69,20,Low
+0657f4,Residential Zone,2024-01-01 22:00:00,405,23,Moderate
+bbf5ed,Industrial Area,2024-01-01 23:00:00,442,40,High
+b2be52,Highway,2024-01-02 00:00:00,372,28,Moderate
+427ae9,Highway,2024-01-02 01:00:00,410,55,Low
+952d1a,Suburbs,2024-01-02 02:00:00,428,38,Low
+d6931e,Downtown,2024-01-02 03:00:00,490,31,Moderate
+37480a,Suburbs,2024-01-02 04:00:00,171,30,High
+7bd9bd,Downtown,2024-01-02 05:00:00,328,21,Moderate
+385ce7,Industrial Area,2024-01-02 06:00:00,284,38,Low
+1941fe,Suburbs,2024-01-02 07:00:00,123,25,High
+39fa33,Residential Zone,2024-01-02 08:00:00,466,28,Low
+11ca6a,Suburbs,2024-01-02 09:00:00,88,60,High
+ea04d7,Downtown,2024-01-02 10:00:00,116,60,Moderate
+a58aa1,Highway,2024-01-02 11:00:00,449,45,Low
+ca1ce3,Suburbs,2024-01-02 12:00:00,314,43,High
+796f7d,Suburbs,2024-01-02 13:00:00,112,58,Moderate
+8cf7eb,Downtown,2024-01-02 14:00:00,258,67,Moderate
+4a79f7,Highway,2024-01-02 15:00:00,209,21,High
+434330,Industrial Area,2024-01-02 16:00:00,494,28,Low
+eaf3b6,Suburbs,2024-01-02 17:00:00,110,74,Low
+53ef76,Highway,2024-01-02 18:00:00,468,78,High
+2735d9,Highway,2024-01-02 19:00:00,301,78,Moderate
+19c517,Downtown,2024-01-02 20:00:00,396,72,High
+75111a,Suburbs,2024-01-02 21:00:00,285,77,High
+91f13e,Downtown,2024-01-02 22:00:00,167,33,High
+89a290,Highway,2024-01-02 23:00:00,161,55,High
+1c20b7,Highway,2024-01-03 00:00:00,179,21,Low
+4f4463,Highway,2024-01-03 01:00:00,334,29,Moderate
+543c21,Highway,2024-01-03 02:00:00,371,41,High
+0a17f2,Industrial Area,2024-01-03 03:00:00,459,73,Low
+02b8dd,Highway,2024-01-03 04:00:00,408,47,Moderate
+a5848a,Residential Zone,2024-01-03 05:00:00,447,45,High
+bc5b3d,Residential Zone,2024-01-03 06:00:00,338,78,Low
+3310a8,Highway,2024-01-03 07:00:00,405,29,Moderate
+d6f7c2,Suburbs,2024-01-03 08:00:00,273,32,High
+f66341,Suburbs,2024-01-03 09:00:00,471,72,Moderate
+e0b797,Industrial Area,2024-01-03 10:00:00,274,29,Low
+1733ef,Suburbs,2024-01-03 11:00:00,151,35,Moderate
+f479af,Highway,2024-01-03 12:00:00,292,65,Moderate
+5c13e9,Suburbs,2024-01-03 13:00:00,355,69,High
+0555d9,Suburbs,2024-01-03 14:00:00,129,45,Moderate
+9eac86,Suburbs,2024-01-03 15:00:00,337,45,Low
+e29033,Industrial Area,2024-01-03 16:00:00,128,28,High
+283c14,Residential Zone,2024-01-03 17:00:00,449,74,Low
+b87fe7,Suburbs,2024-01-03 18:00:00,368,57,Moderate
+738d77,Residential Zone,2024-01-03 19:00:00,427,41,Low
+e55908,Suburbs,2024-01-03 20:00:00,286,65,Low
+239899,Highway,2024-01-03 21:00:00,238,73,Low
+d53e85,Suburbs,2024-01-03 22:00:00,105,43,Low
+a3e5cc,Highway,2024-01-03 23:00:00,83,76,High
+865c10,Industrial Area,2024-01-04 00:00:00,222,77,Moderate
+4596db,Suburbs,2024-01-04 01:00:00,70,72,High
+51db73,Downtown,2024-01-04 02:00:00,465,54,Low
+bb3017,Highway,2024-01-04 03:00:00,290,55,Moderate
+40f744,Industrial Area,2024-01-04 04:00:00,217,63,Low
+0ac21c,Downtown,2024-01-04 05:00:00,294,34,Low
+993101,Highway,2024-01-04 06:00:00,141,29,High
+4478b2,Downtown,2024-01-04 07:00:00,341,50,Moderate
+e18116,Downtown,2024-01-04 08:00:00,465,35,Low
+8ee768,Industrial Area,2024-01-04 09:00:00,483,58,Moderate
+02678e,Residential Zone,2024-01-04 10:00:00,494,54,Moderate
+956096,Highway,2024-01-04 11:00:00,451,49,Moderate
+e8d504,Industrial Area,2024-01-04 12:00:00,489,37,Low
+a88565,Residential Zone,2024-01-04 13:00:00,488,22,High
+a43f9f,Suburbs,2024-01-04 14:00:00,231,35,Low
+3eec2b,Residential Zone,2024-01-04 15:00:00,362,21,Low
+75ec75,Highway,2024-01-04 16:00:00,415,31,High
+d87851,Downtown,2024-01-04 17:00:00,81,39,Low
+d863e1,Downtown,2024-01-04 18:00:00,331,78,Moderate
+0d7a23,Residential Zone,2024-01-04 19:00:00,396,48,Low
+760dd8,Residential Zone,2024-01-04 20:00:00,183,41,Low
+0bc3cc,Suburbs,2024-01-04 21:00:00,353,62,Moderate
+7e46f2,Suburbs,2024-01-04 22:00:00,316,42,Low
+a477e6,Suburbs,2024-01-04 23:00:00,192,56,Low
+e79d8e,Residential Zone,2024-01-05 00:00:00,447,26,Moderate
+be68f6,Highway,2024-01-05 01:00:00,372,32,Moderate
+162ec9,Highway,2024-01-05 02:00:00,208,28,High
+9d4ebd,Industrial Area,2024-01-05 03:00:00,101,46,Low
+176c7e,Residential Zone,2024-01-05 04:00:00,296,57,Moderate
+bbc288,Residential Zone,2024-01-05 05:00:00,311,38,High
+4c0391,Industrial Area,2024-01-05 06:00:00,473,35,Moderate
+7c648e,Residential Zone,2024-01-05 07:00:00,265,78,Moderate
+8f9f29,Industrial Area,2024-01-05 08:00:00,317,70,Low
+8cafe5,Highway,2024-01-05 09:00:00,185,49,High
+e65187,Highway,2024-01-05 10:00:00,435,68,High
+3318de,Residential Zone,2024-01-05 11:00:00,288,25,Moderate
+1be68e,Industrial Area,2024-01-05 12:00:00,230,21,Low
+74f2f6,Highway,2024-01-05 13:00:00,250,35,High
+047aa9,Residential Zone,2024-01-05 14:00:00,288,39,Low
+13f748,Downtown,2024-01-05 15:00:00,462,46,High
+29668a,Industrial Area,2024-01-05 16:00:00,85,72,High
+9cfb81,Highway,2024-01-05 17:00:00,342,25,High
+1ada7b,Downtown,2024-01-05 18:00:00,55,66,Low
+33da5c,Industrial Area,2024-01-05 19:00:00,309,62,Low
+b045d6,Residential Zone,2024-01-05 20:00:00,259,24,High
+f57f43,Suburbs,2024-01-05 21:00:00,67,75,High
+61d069,Downtown,2024-01-05 22:00:00,331,61,Low
+c5f4c6,Industrial Area,2024-01-05 23:00:00,180,29,High
+360d4f,Residential Zone,2024-01-06 00:00:00,266,69,Moderate
+8f09c1,Highway,2024-01-06 01:00:00,342,46,High
+22c0b4,Industrial Area,2024-01-06 02:00:00,470,45,Moderate
+41ab75,Downtown,2024-01-06 03:00:00,190,25,High
+e82a1d,Highway,2024-01-06 04:00:00,200,69,High
+19550e,Suburbs,2024-01-06 05:00:00,102,78,High
+44f378,Industrial Area,2024-01-06 06:00:00,223,40,Low
+c08ec4,Highway,2024-01-06 07:00:00,139,69,Low
+11d489,Suburbs,2024-01-06 08:00:00,180,22,Moderate
+91bd57,Suburbs,2024-01-06 09:00:00,219,46,Low
+121623,Suburbs,2024-01-06 10:00:00,425,36,Moderate
+e6a11e,Downtown,2024-01-06 11:00:00,326,73,Moderate
+537422,Highway,2024-01-06 12:00:00,262,75,Low
+8cb5f1,Downtown,2024-01-06 13:00:00,265,28,Moderate
+19dd0e,Industrial Area,2024-01-06 14:00:00,52,43,High
+b72c6b,Suburbs,2024-01-06 15:00:00,413,67,Moderate
+dffc2b,Highway,2024-01-06 16:00:00,142,52,Moderate
+023733,Downtown,2024-01-06 17:00:00,269,37,High
+d6c6d7,Industrial Area,2024-01-06 18:00:00,415,57,Moderate
+2a6162,Suburbs,2024-01-06 19:00:00,89,65,High
+d5b7b5,Residential Zone,2024-01-06 20:00:00,168,40,Low
+096ff0,Residential Zone,2024-01-06 21:00:00,279,64,High
+801f94,Downtown,2024-01-06 22:00:00,352,39,Low
+1e5dac,Suburbs,2024-01-06 23:00:00,319,28,High
+5d0628,Highway,2024-01-07 00:00:00,154,27,High
+96220d,Suburbs,2024-01-07 01:00:00,261,41,High
+b22676,Highway,2024-01-07 02:00:00,75,59,Low
+2324fe,Suburbs,2024-01-07 03:00:00,477,21,High
+dbbe83,Highway,2024-01-07 04:00:00,306,46,High
+9d3317,Industrial Area,2024-01-07 05:00:00,197,74,Low
+ea4fe3,Downtown,2024-01-07 06:00:00,148,43,Low
+3fea70,Industrial Area,2024-01-07 07:00:00,397,52,Low
+3cc344,Industrial Area,2024-01-07 08:00:00,449,28,Moderate
+915a57,Highway,2024-01-07 09:00:00,129,53,Moderate
+42cc32,Industrial Area,2024-01-07 10:00:00,125,20,High
+79849a,Suburbs,2024-01-07 11:00:00,120,26,Moderate
+7bf082,Highway,2024-01-07 12:00:00,109,79,High
+e95f51,Downtown,2024-01-07 13:00:00,91,68,High
+73aaa0,Residential Zone,2024-01-07 14:00:00,182,61,Moderate
+94fc61,Residential Zone,2024-01-07 15:00:00,326,25,High
+058aed,Highway,2024-01-07 16:00:00,469,31,Low
+d13f7a,Downtown,2024-01-07 17:00:00,367,43,High
+35f2bc,Industrial Area,2024-01-07 18:00:00,385,44,Moderate
+d52d50,Suburbs,2024-01-07 19:00:00,75,64,Moderate
+bfe7ff,Residential Zone,2024-01-07 20:00:00,183,55,High
+f9206f,Suburbs,2024-01-07 21:00:00,166,65,High
+7e7ef6,Highway,2024-01-07 22:00:00,175,34,High
+58e819,Downtown,2024-01-07 23:00:00,248,27,Moderate
+f6c657,Industrial Area,2024-01-08 00:00:00,198,38,High
+7182fd,Suburbs,2024-01-08 01:00:00,369,79,Moderate
+42fed2,Highway,2024-01-08 02:00:00,426,26,Moderate
+5b7369,Suburbs,2024-01-08 03:00:00,229,40,Low
+65f23d,Downtown,2024-01-08 04:00:00,424,34,Moderate
+f18f0c,Suburbs,2024-01-08 05:00:00,165,27,High
+cd0129,Downtown,2024-01-08 06:00:00,492,63,High
+d53e51,Highway,2024-01-08 07:00:00,185,37,High
+20b421,Suburbs,2024-01-08 08:00:00,140,62,High
+173218,Downtown,2024-01-08 09:00:00,261,50,High
+180fe8,Downtown,2024-01-08 10:00:00,179,21,Low
+4c368e,Highway,2024-01-08 11:00:00,168,54,High
+829b50,Industrial Area,2024-01-08 12:00:00,417,74,Moderate
+98997c,Highway,2024-01-08 13:00:00,146,52,Low
+798886,Highway,2024-01-08 14:00:00,211,78,Low
+25259e,Residential Zone,2024-01-08 15:00:00,156,58,Low
+69e40a,Downtown,2024-01-08 16:00:00,471,31,Moderate
+6e2730,Downtown,2024-01-08 17:00:00,349,67,Low
+bed1c0,Highway,2024-01-08 18:00:00,234,79,Low
+452a31,Industrial Area,2024-01-08 19:00:00,315,24,High
+a31179,Industrial Area,2024-01-08 20:00:00,318,20,Moderate
+56a219,Industrial Area,2024-01-08 21:00:00,198,47,Low
+b2c47f,Highway,2024-01-08 22:00:00,303,40,Low
+3a80ab,Residential Zone,2024-01-08 23:00:00,383,23,High
+e3f743,Highway,2024-01-09 00:00:00,380,53,Moderate
+9915da,Residential Zone,2024-01-09 01:00:00,262,43,Moderate
+05199f,Suburbs,2024-01-09 02:00:00,157,49,High
+f72f6f,Industrial Area,2024-01-09 03:00:00,410,33,Low
+8d316b,Highway,2024-01-09 04:00:00,255,75,Low
+64c630,Downtown,2024-01-09 05:00:00,335,64,Moderate
+a98f47,Downtown,2024-01-09 06:00:00,69,76,High
+6c1c4e,Residential Zone,2024-01-09 07:00:00,135,32,Low
+e2ff5e,Suburbs,2024-01-09 08:00:00,255,43,Moderate
+34efc7,Industrial Area,2024-01-09 09:00:00,107,43,High
+f1b86e,Downtown,2024-01-09 10:00:00,112,70,Moderate
+3bb76c,Downtown,2024-01-09 11:00:00,365,60,High
+442b00,Residential Zone,2024-01-09 12:00:00,396,62,High
+550e56,Highway,2024-01-09 13:00:00,120,64,Low
+608bdb,Highway,2024-01-09 14:00:00,102,45,Low
+ef3ddd,Downtown,2024-01-09 15:00:00,349,68,Low
+8a9bd1,Suburbs,2024-01-09 16:00:00,126,39,Moderate
+1d7a33,Highway,2024-01-09 17:00:00,139,44,Moderate
+ca64ae,Downtown,2024-01-09 18:00:00,389,60,High
+5bd6b8,Suburbs,2024-01-09 19:00:00,294,49,Moderate
+b1b6bd,Downtown,2024-01-09 20:00:00,192,53,Moderate
+467d91,Industrial Area,2024-01-09 21:00:00,240,40,Low
+828bcc,Industrial Area,2024-01-09 22:00:00,295,73,High
+9819dd,Industrial Area,2024-01-09 23:00:00,336,61,Moderate
+002779,Highway,2024-01-10 00:00:00,258,64,Low
+38d199,Suburbs,2024-01-10 01:00:00,192,58,High
+deef94,Residential Zone,2024-01-10 02:00:00,348,30,Moderate
+3903b5,Highway,2024-01-10 03:00:00,58,43,Low
+040e5e,Residential Zone,2024-01-10 04:00:00,370,24,Moderate
+14d56b,Downtown,2024-01-10 05:00:00,437,74,High
+781c93,Residential Zone,2024-01-10 06:00:00,368,22,Low
+b1d725,Highway,2024-01-10 07:00:00,190,61,Moderate
+bebbff,Highway,2024-01-10 08:00:00,168,23,Low
+5359eb,Highway,2024-01-10 09:00:00,368,32,Moderate
+89263d,Downtown,2024-01-10 10:00:00,457,20,High
+ba1643,Residential Zone,2024-01-10 11:00:00,116,33,High
+f40992,Highway,2024-01-10 12:00:00,285,56,High
+a09ebe,Downtown,2024-01-10 13:00:00,211,23,High
+1ad090,Residential Zone,2024-01-10 14:00:00,206,62,Moderate
+e445bb,Residential Zone,2024-01-10 15:00:00,429,25,Low
+bde2ff,Highway,2024-01-10 16:00:00,73,47,Moderate
+0809b2,Residential Zone,2024-01-10 17:00:00,438,21,Low
+0b2d4b,Industrial Area,2024-01-10 18:00:00,436,21,Moderate
+ce51be,Suburbs,2024-01-10 19:00:00,178,73,Low
+e32daa,Residential Zone,2024-01-10 20:00:00,203,39,Low
+9f9461,Highway,2024-01-10 21:00:00,211,26,Moderate
+21b473,Downtown,2024-01-10 22:00:00,369,59,Low
+bd35e6,Industrial Area,2024-01-10 23:00:00,256,57,Low
+b7e9e7,Industrial Area,2024-01-11 00:00:00,99,65,Low
+19b194,Industrial Area,2024-01-11 01:00:00,405,79,Low
+2b56e2,Highway,2024-01-11 02:00:00,434,76,Moderate
+478540,Highway,2024-01-11 03:00:00,349,61,Low
+1e5993,Residential Zone,2024-01-11 04:00:00,443,72,Low
+a58b7c,Highway,2024-01-11 05:00:00,212,46,Low
+6d8bf1,Highway,2024-01-11 06:00:00,106,29,Moderate
+cf0341,Highway,2024-01-11 07:00:00,337,79,Moderate
+016f02,Downtown,2024-01-11 08:00:00,101,25,Low
+5db8dd,Highway,2024-01-11 09:00:00,201,38,High
+7f6fe9,Industrial Area,2024-01-11 10:00:00,222,73,Low
+88cee6,Residential Zone,2024-01-11 11:00:00,216,67,Low
+8fea25,Residential Zone,2024-01-11 12:00:00,384,22,Moderate
+ff641e,Downtown,2024-01-11 13:00:00,458,57,Moderate
+d23a31,Industrial Area,2024-01-11 14:00:00,165,65,Low
+92ee4d,Residential Zone,2024-01-11 15:00:00,477,60,Low
+b25a86,Highway,2024-01-11 16:00:00,301,77,Low
+8ad4b3,Highway,2024-01-11 17:00:00,248,23,High
+03eadf,Downtown,2024-01-11 18:00:00,329,75,Moderate
+a28f65,Industrial Area,2024-01-11 19:00:00,264,77,Low
+330987,Industrial Area,2024-01-11 20:00:00,264,62,Low
+25f006,Suburbs,2024-01-11 21:00:00,228,26,High
+0e53db,Residential Zone,2024-01-11 22:00:00,312,47,Low
+2ade28,Suburbs,2024-01-11 23:00:00,167,63,High
+0b3698,Highway,2024-01-12 00:00:00,61,42,Low
+56a92e,Downtown,2024-01-12 01:00:00,297,31,High
+96cfc0,Suburbs,2024-01-12 02:00:00,393,49,High
+a919a7,Residential Zone,2024-01-12 03:00:00,184,25,High
+762dc5,Suburbs,2024-01-12 04:00:00,467,61,High
+c2a100,Highway,2024-01-12 05:00:00,79,57,Low
+69cc95,Residential Zone,2024-01-12 06:00:00,400,22,Moderate
+1ed946,Residential Zone,2024-01-12 07:00:00,462,57,Moderate
+edff01,Residential Zone,2024-01-12 08:00:00,288,59,Moderate
+59e7f4,Residential Zone,2024-01-12 09:00:00,301,52,Moderate
+e97dfb,Residential Zone,2024-01-12 10:00:00,368,23,High
+eceff8,Highway,2024-01-12 11:00:00,485,46,High
+f63dd5,Downtown,2024-01-12 12:00:00,312,32,Moderate
+848998,Highway,2024-01-12 13:00:00,283,70,Low
+3377b6,Industrial Area,2024-01-12 14:00:00,208,56,Moderate
+884451,Highway,2024-01-12 15:00:00,417,66,Moderate
+26817d,Industrial Area,2024-01-12 16:00:00,279,50,Moderate
+9d6f7c,Suburbs,2024-01-12 17:00:00,306,61,High
+fea47d,Highway,2024-01-12 18:00:00,476,47,High
+6b7e6a,Residential Zone,2024-01-12 19:00:00,150,46,Low
+0305c8,Residential Zone,2024-01-12 20:00:00,456,54,Low
+9452c0,Residential Zone,2024-01-12 21:00:00,360,46,High
+49df05,Downtown,2024-01-12 22:00:00,249,52,Moderate
+d4955f,Suburbs,2024-01-12 23:00:00,314,71,Moderate
+7defa1,Residential Zone,2024-01-13 00:00:00,433,75,Moderate
+d6c018,Downtown,2024-01-13 01:00:00,83,21,High
+ea253c,Residential Zone,2024-01-13 02:00:00,227,78,Low
+d5466a,Highway,2024-01-13 03:00:00,175,28,Moderate
+fefc87,Highway,2024-01-13 04:00:00,345,42,Low
+2833ba,Highway,2024-01-13 05:00:00,491,42,Low
+1aac2f,Industrial Area,2024-01-13 06:00:00,208,79,High
+1ba8fd,Downtown,2024-01-13 07:00:00,207,74,Moderate
+008cf1,Industrial Area,2024-01-13 08:00:00,177,41,Moderate
+df5e5b,Downtown,2024-01-13 09:00:00,130,63,Moderate
+89079c,Residential Zone,2024-01-13 10:00:00,462,51,Low
+4c1be0,Highway,2024-01-13 11:00:00,134,67,Low

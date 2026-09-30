@@ -1,0 +1,51 @@
+Supplier_ID,Supplier_Name,Product_ID,Lead_Time (days),Order_Frequency
+SUP001,Murray-Ramirez,P002,9,Weekly
+SUP002,"Thomas, Meyer and Campbell",P005,9,Weekly
+SUP003,Acosta Inc,P005,4,Monthly
+SUP004,"Evans, Brown and Turner",P002,8,Weekly
+SUP005,"Johnson, Wise and Barr",P003,6,Biweekly
+SUP006,"Hood, Barrera and Woodard",P001,6,Monthly
+SUP007,"Meyers, Miller and Young",P002,9,Weekly
+SUP008,Edwards-Barnes,P005,8,Weekly
+SUP009,Baker LLC,P001,4,Weekly
+SUP010,Wright PLC,P003,9,Monthly
+SUP011,"Peterson, Thomas and Page",P004,4,Biweekly
+SUP012,"Wright, White and Gonzalez",P004,6,Monthly
+SUP013,"Norman, Welch and Foster",P004,7,Biweekly
+SUP014,Brown LLC,P001,7,Biweekly
+SUP015,Watson Ltd,P002,4,Biweekly
+SUP016,Johnson Group,P002,8,Biweekly
+SUP017,Ayers Ltd,P005,7,Monthly
+SUP018,Wilson Inc,P005,5,Weekly
+SUP019,Bowers and Sons,P003,4,Weekly
+SUP020,"Porter, Daniels and Stewart",P003,6,Monthly
+SUP021,Robertson LLC,P001,4,Biweekly
+SUP022,"Alvarado, Ramirez and Taylor",P001,4,Biweekly
+SUP023,Smith and Sons,P002,6,Monthly
+SUP024,Thompson-Hebert,P001,4,Biweekly
+SUP025,Rose Inc,P005,5,Monthly
+SUP026,Roberts-Williams,P005,6,Weekly
+SUP027,Woods PLC,P002,5,Monthly
+SUP028,Taylor Ltd,P002,3,Biweekly
+SUP029,"Duncan, Davidson and Martin",P005,9,Monthly
+SUP030,"Baker, Dean and Jensen",P002,5,Biweekly
+SUP031,"Harmon, Davis and Harper",P002,5,Monthly
+SUP032,Ferguson Group,P005,3,Weekly
+SUP033,Murphy-Wise,P001,9,Weekly
+SUP034,"James, Mullen and Cooper",P001,9,Weekly
+SUP035,Smith PLC,P001,9,Monthly
+SUP036,"Powers, Olson and Sanchez",P004,9,Weekly
+SUP037,Kerr-Palmer,P003,8,Weekly
+SUP038,"Johnson, Turner and Carpenter",P001,8,Biweekly
+SUP039,Ortega-Manning,P005,3,Monthly
+SUP040,Wilson-Stanley,P005,4,Weekly
+SUP041,Brown Ltd,P003,3,Weekly
+SUP042,"Cross, Scott and Avery",P004,6,Weekly
+SUP043,Fox Group,P002,9,Biweekly
+SUP044,Peters-Salas,P004,4,Monthly
+SUP045,Castro-Townsend,P001,7,Weekly
+SUP046,"Harris, Patterson and Harris",P002,9,Biweekly
+SUP047,Nunez-May,P001,4,Biweekly
+SUP048,Williams Inc,P003,4,Biweekly
+SUP049,Obrien-Jones,P005,9,Biweekly
+SUP050,"Sosa, Cain and Cummings",P003,8,Weekly

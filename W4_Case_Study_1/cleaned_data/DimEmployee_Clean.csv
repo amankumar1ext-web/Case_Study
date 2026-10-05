@@ -1,0 +1,22 @@
+EmployeeKey,ParentEmployeeKey,SalesTerritoryKey,EmployeeName,Title,EmailAddress,DepartmentName,HireDate,BirthDate
+112,,11,Ken Sánchez,Chief Executive Officer,ken0@adventure-works.com,Executive,2008-08-14,1968-08-29
+144,112.0,11,Laura Norman,Chief Financial Officer,laura1@adventure-works.com,Executive,2008-08-31,1975-08-06
+272,277.0,11,Stephen Jiang,North American Sales Manager,stephen0@adventure-works.com,Sales,2010-08-04,1951-05-17
+277,112.0,11,Brian Welcker,Vice President of Sales,brian3@adventure-works.com,Sales,2010-09-15,1977-01-04
+290,277.0,11,Amy Alberts,European Sales Manager,amy0@adventure-works.com,Sales,2011-11-15,1957-04-20
+294,277.0,11,Syed Abbas,Pacific Sales Manager,syed0@adventure-works.com,Sales,2012-10-12,1974-08-11
+143,112.0,11,Laura Norman,Chief Financial Officer,laura1@adventure-works.com,Executive,2008-08-31,1975-08-06
+281,272.0,2,Michael Blythe,Sales Representative,michael9@adventure-works.com,Sales,2010-12-29,1968-07-25
+282,272.0,4,Linda Mitchell,Sales Representative,linda3@adventure-works.com,Sales,2010-12-29,1979-09-27
+283,272.0,3,Jillian Carson,Sales Representative,jillian0@adventure-works.com,Sales,2010-12-29,1962-03-29
+284,272.0,6,Garrett Vargas,Sales Representative,garrett1@adventure-works.com,Sales,2010-12-29,1974-09-04
+285,272.0,5,Tsvi Reiter,Sales Representative,tsvi0@adventure-works.com,Sales,2010-12-29,1973-08-18
+286,272.0,1,Pamela Ansman-Wolfe,Sales Representative,pamela0@adventure-works.com,Sales,2010-12-29,1974-07-06
+287,272.0,4,Shu Ito,Sales Representative,shu0@adventure-works.com,Sales,2010-12-29,1943-10-08
+288,272.0,6,José Saraiva,Sales Representative,josé1@adventure-works.com,Sales,2010-12-29,1939-07-11
+289,272.0,1,David Campbell,Sales Representative,david8@adventure-works.com,Sales,2010-12-29,1973-09-11
+291,290.0,10,Jae Pak,Sales Representative,jae0@adventure-works.com,Sales,2011-12-29,1967-10-16
+292,290.0,7,Ranjit Varkey Chudukatil,Sales Representative,ranjit0@adventure-works.com,Sales,2011-12-29,1975-04-30
+293,272.0,1,Tete Mensa-Annan,Sales Representative,tete0@adventure-works.com,Sales,2012-04-30,1977-08-05
+295,290.0,8,Rachel Valdez,Sales Representative,rachel0@adventure-works.com,Sales,2012-12-28,1975-02-06
+296,294.0,9,Lynn Tsoflias,Sales Representative,lynn0@adventure-works.com,Sales,2012-12-28,1970-10-16
